@@ -5,13 +5,13 @@ permalink: "/episodes/podcast.rss"
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
-		<atom:link href="{{ site.url }}{{ page.url }}" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.github.url }}{{ page.url }}" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
@@ -24,8 +24,8 @@ permalink: "/episodes/podcast.rss"
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
 		<itunes:category text="Technology">
