@@ -1,2 +1,9 @@
-title: Rustacean Station
-description: A Rust Meta-Podcast
+theme: jekyll-theme-minimal
+title: "Rustacean Station"
+email: jon@thesquareplanet.com
+subtitle: "A Rust Meta-Podcast"
+description: "Come journey with us into the weird, wonderful, and wily world of the Rust programming language."
+lang: en-US
+author: "Jon Gjengset"
+collections:
+ - episodes
