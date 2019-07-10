@@ -1,0 +1,99 @@
+body > h1 {
+	font-size: 3em;
+	text-align: center;
+	padding: 1em 0;
+	color: #444;
+}
+body > h1 a { color: inherit; }
+
+#wrapper {
+	display: grid;
+	max-width: 80em;
+	margin: 0 auto;
+	grid-template-columns: 25em auto;
+	grid-column-gap: 3em;
+}
+#wrapper > header {
+	grid-column: 1;
+	grid-row: 1;
+}
+	#wrapper > header > img {
+		max-width: 100%;
+		border: 2px solid black;
+	}
+	#wrapper > header > p {
+		font-size: 1.5em;
+		text-align: right;
+	}
+#wrapper > section {
+	grid-column: 2;
+	grid-row: 1;
+}
+	#wrapper > section > h2 {
+		font-size: 2em;
+		margin-top: .5em;
+		background-color: #d7611b;
+		color: white;
+		display: inline-block;
+		outline: .5em solid #d7611b;
+	}
+#wrapper > footer {
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	grid-row: 2;
+
+	border-top: 1px solid #AAA;
+	font-size: 0.9em;
+	text-align: right;
+	margin-top: 3em;
+}
+	#wrapper > footer a {
+		color: #48F;
+	}
+#wrapper > header> .box {
+	margin-top: 3em;
+	font-size: 0.9em;
+}
+	#wrapper > header> .box > h2 {
+		font-size: 1.1em;
+		text-align: center;
+		padding-bottom: 1em;
+		border-bottom: 1px solid #AAA;
+	}
+
+#recent {
+}
+	#recent article {
+	}
+	#recent article h1 {
+		font-size: 1em;
+	}
+
+.episode {
+	padding: .5em 0;
+}
+.episode + .episode::before {
+	content: "———";
+	text-align: center;
+	display: block;
+	color: #d7611b;
+	font-weight: bold;
+	padding-bottom: 1em;
+}
+.episode h1 {
+	font-size: 1.2em;
+}
+.episode h1 a {
+	color: inherit;
+}
+.episode h1 + small {
+	margin-top: -1em;
+}
+.episode small {
+	color: #888;
+	display: block;
+}
+.episode .audio {
+	font-weight: bold;
+	display: block;
+}
