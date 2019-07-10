@@ -4,6 +4,6 @@ author: "Rustacean Station"
 email: jon@thesquareplanet.com
 subtitle: "A Rust Meta-Podcast"
 description: "Come journey with us into the weird, wonderful, and wily world of the Rust programming language."
-lang: en-US
+lang: en-us
 collections:
  - episodes

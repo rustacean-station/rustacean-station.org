@@ -6,49 +6,49 @@ permalink: "/episodes/podcast.rss"
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
 		<atom:link href="{{ site.url }}{{ page.url }}" rel="self" type="application/rss+xml" />
-		<title>{{ site.title }}</title>
-		<description>{{ site.description | xml_escape }}</description>
-		<link>{{ site.url }}</link>
-		<language>{{ site.lang }}</language>
-		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
-		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<!-- <link>{{ site.url }}</link> -->
+
+		<title><![CDATA[ {{ site.title }} ]]></title>
+		<itunes:subtitle><![CDATA[ {{ site.subtitle }} ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ {{ site.description }} ]]></itunes:summary>
+		<description><![CDATA[ {{ site.description }} ]]></description>
+
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Technology" />
+		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
+		<itunes:explicit>false</itunes:explicit>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/images/itunes.png</url>
+			<url>{{ site.url }}/images/artwork.png</url>
 			<title>{{ site.title }}</title>
 		</image>
-		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
-		<itunes:author>{{ site.author }}</itunes:author>
-		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
-		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
+		<itunes:image href="{{ site.url }}/images/artwork.png" />
+
+		<language>{{ site.lang }}</language>
+		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
+		<managingEditor><![CDATA[ {{ site.email }} ({{ site.author }}) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ {{ site.author }} ]]></itunes:author>
 		<itunes:owner>
 			<itunes:name>Jon Gjengset</itunes:name>
 			<itunes:email>jon@thesquareplanet.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/images/itunes.png" />
-		<itunes:category text="Technology">
-			<itunes:category text="Podcasting" />
-		</itunes:category>
-		<itunes:explicit>no</itunes:explicit>
+
 		{% for post in site.episodes %}
-			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<description>{{ post.content | xml_escape }}</description>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-				<itunes:author>{{ site.author }}</itunes:author>
-				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
-				<itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
-				<itunes:duration>{{ post.duration }}</itunes:duration>
-				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/images/itunes.png" />
-				<itunes:explicit>no</itunes:explicit>
-				<itunes:block>no</itunes:block>
-			</item>
+		<item>
+			<!-- <link>{{ site.url }}{{ post.url }}</link> -->
+			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+			<guid isPermaLink="true">rustacean-station/{{ post.url }}</guid>
+
+			<title><![CDATA[ {{ post.title }} ]]></title>
+			<itunes:summary><![CDATA[ {{ post.excerpt }} ]]></itunes:summary>
+			<description><content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded></description>
+
+			<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mpeg"/>
+			<itunes:duration>{{ post.duration }}</itunes:duration>
+		</item>
 		{% endfor %}
 	</channel>
 </rss>
