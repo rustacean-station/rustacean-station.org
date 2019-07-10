@@ -13,7 +13,14 @@
 		<h1><a href="/">The {{ site.title | default: site.github.repository_name }} Podcast</a> 📣</h1>
 		<div id="wrapper">
 			<header>
-				<img src="/images/artwork.jpg" alt="Rustacean Station" />
+				<img
+				 srcset="
+				  /images/artwork.jpg 3000w,
+				  /images/artwork-2x.jpg 1500w,
+				  /images/artwork-4x.jpg 750w
+				 "
+				 src="/images/artwork-4x.jpg"
+				/>
 				<p>{{ site.description | default: site.github.project_tagline }}</p>
 
 				<div id="recent" class="box">
