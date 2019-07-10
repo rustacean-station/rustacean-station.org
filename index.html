@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2>Episode list</h2>
+{% for post in site.episodes %}
+<article class="episode">
+	<h1><a href="{{ site.github.repository_url }}/blob/master/{{ post.path }}">{{ post.title }}</a></h1>
+	<small>{{ post.date | date_to_rfc822 }}</small>
+
+	<p><a class="audio" href="{{ post.file }}">Audio file ({{ post.duration }})</a>
+
+	{{ post.content }}
+</article>
+{% endfor %}

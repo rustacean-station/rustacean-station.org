@@ -1,5 +1,5 @@
 ---
-permalink: "/episodes/podcast.rss"
+permalink: "/podcast.rss"
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -9,7 +9,7 @@ permalink: "/episodes/podcast.rss"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
 >
 	<channel>
-		<atom:link href="{{ site.url }}{{ page.url }}" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
 		<link>{{ site.url }}</link>
 
 		<title><![CDATA[ {{ site.title }} ]]></title>
@@ -42,7 +42,7 @@ permalink: "/episodes/podcast.rss"
 
 		{% for post in site.episodes %}
 		<item>
-			<!-- <link>{{ site.url }}{{ post.url }}</link> -->
+			<!-- <link>{{ post.url | absolute_url }}</link> -->
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 			<guid isPermaLink="false">rustacean-station/{{ post.url }}</guid>
 
