@@ -22,10 +22,10 @@ permalink: "/episodes/podcast.rss"
 		<itunes:explicit>no</itunes:explicit>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/images/artwork.png</url>
+			<url>{{ site.url }}/images/artwork.jpg</url>
 			<title>{{ site.title }}</title>
 		</image>
-		<itunes:image href="{{ site.url }}/images/artwork.png" />
+		<itunes:image href="{{ site.url }}/images/artwork.jpg" />
 
 		<language>{{ site.lang }}</language>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
