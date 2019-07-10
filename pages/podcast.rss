@@ -3,7 +3,7 @@ permalink: "/episodes/podcast.rss"
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<atom:link href="{{ site.url }}{{ page.url }}" rel="self" type="application/rss+xml" />
 		<!-- <link>{{ site.url }}</link> -->
@@ -13,10 +13,9 @@ permalink: "/episodes/podcast.rss"
 		<itunes:summary><![CDATA[ {{ site.description }} ]]></itunes:summary>
 		<description><![CDATA[ {{ site.description }} ]]></description>
 
-		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Technology" />
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
-		<itunes:explicit>false</itunes:explicit>
+		<itunes:explicit>no</itunes:explicit>
 		<image>
 			<link>{{ site.url }}</link>
 			<url>{{ site.url }}/images/artwork.png</url>
@@ -40,11 +39,12 @@ permalink: "/episodes/podcast.rss"
 		<item>
 			<!-- <link>{{ site.url }}{{ post.url }}</link> -->
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-			<guid isPermaLink="true">rustacean-station/{{ post.url }}</guid>
+			<guid>rustacean-station/{{ post.url }}</guid>
 
 			<title><![CDATA[ {{ post.title }} ]]></title>
 			<itunes:summary><![CDATA[ {{ post.excerpt }} ]]></itunes:summary>
-			<description><content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded></description>
+			<description><![CDATA[ {{ post.content | strip_tags }} ]]></description>
+			<content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded>
 
 			<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mpeg"/>
 			<itunes:duration>{{ post.duration }}</itunes:duration>
