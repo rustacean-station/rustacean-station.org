@@ -110,17 +110,17 @@ body > h1 a { color: inherit; }
 </style>
 	</head>
 	<body>
-		<h1><a href="{{ "/" | absolute_url }}">The {{ site.title | default: site.github.repository_name }} Podcast</a> 📣</h1>
+		<h1><a href="/">The {{ site.title | default: site.github.repository_name }} Podcast</a> 📣</h1>
 		<div id="wrapper">
 			<header>
-				<img src="{{ site.url }}/images/artwork.jpg" alt="Rustacean Station" />
+				<img src="/images/artwork.jpg" alt="Rustacean Station" />
 				<p>{{ site.description | default: site.github.project_tagline }}</p>
 
 				<div id="recent" class="box">
 				<h2>Last few episodes</h2>
 				{% for post in site.episodes limit:3 %}
 				<article class="episode">
-					<h1><a href="{{ site.github.repository_url }}/blob/master/{{ post.path }}">{{ post.title }}</a></h1>
+					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 					{{ post.excerpt }}
 				</article>
 				{% endfor %}
@@ -131,7 +131,7 @@ body > h1 a { color: inherit; }
 			</section>
 			<footer>
 				{% if site.github.is_project_page %}
-				<p class="view"><a href="{{ site.github.repository_url }}">View {{ site.github.repository_nwo }} on GitHub</a></p>
+				<p><a href="{{ site.github.repository_url }}">View {{ site.github.repository_nwo }} on GitHub</a></p>
 				{% endif %}
 			</footer>
 		</div>
