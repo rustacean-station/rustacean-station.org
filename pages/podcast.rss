@@ -14,9 +14,9 @@ permalink: "/episodes/podcast.rss"
 		<link>{{ site.url }}</link>
 
 		<title><![CDATA[ {{ site.title }} ]]></title>
-		<itunes:subtitle><![CDATA[ {{ site.subtitle | strip_tags }} ]]></itunes:subtitle>
-		<itunes:summary><![CDATA[ {{ site.description | strip_tags }} ]]></itunes:summary>
-		<description><![CDATA[ {{ site.description | strip_tags }} ]]></description>
+		<itunes:subtitle><![CDATA[ {{ site.subtitle | strip_html }} ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ {{ site.description | strip_html }} ]]></itunes:summary>
+		<description><![CDATA[ {{ site.description | strip_html }} ]]></description>
 
 		<itunes:category text="Technology" />
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
@@ -48,9 +48,9 @@ permalink: "/episodes/podcast.rss"
 			<guid isPermaLink="false">rustacean-station/{{ post.url }}</guid>
 
 			<title><![CDATA[ {{ post.title }} ]]></title>
-			<googleplay:description><![CDATA[ {{ post.content | strip_tags }}]]></googleplay:description>
-			<itunes:summary><![CDATA[ {{ post.excerpt | strip_tags }} ]]></itunes:summary>
-			<description><![CDATA[ {{ post.content | strip_tags }} ]]></description>
+			<googleplay:description><![CDATA[ {{ post.content | strip_html }}]]></googleplay:description>
+			<itunes:summary><![CDATA[ {{ post.excerpt | strip_html }} ]]></itunes:summary>
+			<description><![CDATA[ {{ post.content | strip_html }} ]]></description>
 			<content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded>
 
 			<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mpeg"/>
