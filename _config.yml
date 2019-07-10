@@ -5,4 +5,14 @@ subtitle: "A Rust Meta-Podcast"
 description: "Come journey with us into the weird, wonderful, and wily world of the Rust programming language."
 lang: en-us
 collections:
- - episodes
+  episodes:
+    output: true
+    permalink: /episode/:title/
+
+# https://github.com/jekyll/jekyll/issues/7744
+defaults:
+ - scope:
+     path: ""
+     type: "episodes"
+   values:
+     layout: "episode"

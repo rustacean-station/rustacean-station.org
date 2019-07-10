@@ -5,7 +5,7 @@ layout: default
 <h2>Episode list</h2>
 {% for post in site.episodes %}
 <article class="episode">
-	<h1><a href="{{ site.github.repository_url }}/blob/master/{{ post.path }}">{{ post.title }}</a></h1>
+	<h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
 	<small>{{ post.date | date_to_rfc822 }}</small>
 
 	<p><a class="audio" href="https://dts.podtrac.com/redirect.mp3/{{ post.file | replace_first: "https://", "" }}">Audio file ({{ post.duration }})</a>

@@ -113,7 +113,7 @@ body > h1 a { color: inherit; }
 		<h1><a href="{{ "/" | absolute_url }}">The {{ site.title | default: site.github.repository_name }} Podcast</a> 📣</h1>
 		<div id="wrapper">
 			<header>
-				<img src="images/artwork.jpg" alt="Rustacean Station" />
+				<img src="{{ site.url }}/images/artwork.jpg" alt="Rustacean Station" />
 				<p>{{ site.description | default: site.github.project_tagline }}</p>
 
 				<div id="recent" class="box">
