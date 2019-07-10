@@ -7,16 +7,16 @@ permalink: "/episodes/podcast.rss"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
 >
 	<channel>
 		<atom:link href="{{ site.url }}{{ page.url }}" rel="self" type="application/rss+xml" />
-		<!-- <link>{{ site.url }}</link> -->
+		<link>{{ site.url }}</link>
 
 		<title><![CDATA[ {{ site.title }} ]]></title>
-		<itunes:subtitle><![CDATA[ {{ site.subtitle }} ]]></itunes:subtitle>
-		<itunes:summary><![CDATA[ {{ site.description }} ]]></itunes:summary>
-		<description><![CDATA[ {{ site.description }} ]]></description>
+		<itunes:subtitle><![CDATA[ {{ site.subtitle | strip_tags }} ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ {{ site.description | strip_tags }} ]]></itunes:summary>
+		<description><![CDATA[ {{ site.description | strip_tags }} ]]></description>
 
 		<itunes:category text="Technology" />
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
@@ -35,6 +35,7 @@ permalink: "/episodes/podcast.rss"
 		<managingEditor><![CDATA[ {{ site.email }} ({{ site.author }}) ]]></managingEditor>
 		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
 		<itunes:author><![CDATA[ {{ site.author }} ]]></itunes:author>
+		<googleplay:email>jon@tsp.io</googleplay:email>
 		<itunes:owner>
 			<itunes:name>Jon Gjengset</itunes:name>
 			<itunes:email>jon@thesquareplanet.com</itunes:email>
@@ -44,10 +45,11 @@ permalink: "/episodes/podcast.rss"
 		<item>
 			<!-- <link>{{ site.url }}{{ post.url }}</link> -->
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-			<guid>rustacean-station/{{ post.url }}</guid>
+			<guid isPermaLink="false">rustacean-station/{{ post.url }}</guid>
 
 			<title><![CDATA[ {{ post.title }} ]]></title>
-			<itunes:summary><![CDATA[ {{ post.excerpt }} ]]></itunes:summary>
+			<googleplay:description><![CDATA[ {{ post.content | strip_tags }}]]></googleplay:description>
+			<itunes:summary><![CDATA[ {{ post.excerpt | strip_tags }} ]]></itunes:summary>
 			<description><![CDATA[ {{ post.content | strip_tags }} ]]></description>
 			<content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded>
 
