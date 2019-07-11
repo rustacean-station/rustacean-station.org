@@ -1,9 +1,20 @@
 body > h1 {
-	font-size: 3em;
+	font-size: 1.5em;
 	text-align: center;
 	padding: 1em 0;
 	color: #444;
 }
+	@media screen and (min-width: 50em) {
+		body > h1 {
+			font-size: 2em;
+			padding: 1em 0;
+		}
+	}
+	@media screen and (min-width: 65em) {
+		body > h1 {
+			font-size: 3em;
+		}
+	}
 body > h1 a {
 	color: inherit;
 	text-decoration: none;
@@ -14,51 +25,91 @@ ul { list-style-type: square; }
 #wrapper {
 	display: grid;
 	max-width: 80em;
-	margin: 0 auto;
-	grid-template-columns: 25em auto;
+	margin: 0 2em;
+	grid-template-columns: auto;
 	grid-column-gap: 3em;
 }
+@media screen and (min-width: 50em) {
+	#wrapper {
+		grid-template-columns: 15em auto;
+	}
+}
+@media screen and (min-width: 70em) {
+	#wrapper {
+		grid-template-columns: 25em auto;
+		margin: 0 auto;
+	}
+}
 #wrapper > header {
-	grid-column: 1;
-	grid-row: 1;
 }
 	#wrapper > header > img {
-		max-width: 100%;
 		border: 2px solid black;
+		float: right;
+		max-width: 30%;
+		margin-bottom: 2em;
+	}
+	@media screen and (min-width: 50em) {
+		#wrapper > header > img {
+			float: none;
+			max-width: 100%;
+			margin-bottom: 0;
+		}
 	}
 	#wrapper > header > p {
 		font-size: 1.2em;
-		text-align: right;
-		padding-left: 10%;
+		margin-right: 30%;
+		padding-right: 1em;
+	}
+	@media screen and (min-width: 50em) {
+		#wrapper > header > p {
+			margin-right: 0;
+			padding-right: 0;
+			padding: 0 .5em;
+		}
+	}
+	@media screen and (min-width: 70em) {
+		#wrapper > header > p {
+			text-align: right;
+			padding-left: 2em;
+		}
 	}
 #wrapper > section {
-	grid-column: 2;
-	grid-row: 1;
 }
 	#wrapper > section > h2 {
-		font-size: 2em;
-		margin-top: .5em;
+		font-size: 1.5em;
+		margin-top: 3em;
 		background-color: #d7611b;
 		color: white;
 		display: inline-block;
 		outline: .5em solid #d7611b;
 	}
+	@media screen and (min-width: 50em) {
+		#wrapper > section > h2 {
+			font-size: 2em;
+			margin-top: .5em;
+		}
+	}
 #wrapper > footer {
 	grid-column-start: 1;
-	grid-column-end: span 2;
-	grid-row: 2;
+	grid-column-end: -1;
 
 	border-top: 1px solid #AAA;
 	font-size: 0.9em;
-	text-align: right;
+	text-align: center;
 	margin-top: 3em;
 }
 	#wrapper > footer a {
 		color: #48F;
 	}
+	@media screen and (min-width: 50em) {
+		#wrapper > footer {
+			text-align: right;
+		}
+	}
 #wrapper > header> .box {
 	margin-top: 3em;
 	font-size: 0.9em;
+	clear: both;
 }
 	#wrapper > header > .box > h2 {
 		font-size: 1.1em;
@@ -67,8 +118,10 @@ ul { list-style-type: square; }
 		border-bottom: 1px solid #AAA;
 	}
 
-#recent {
-}
+#recent { display: none; }
+	@media screen and (min-width: 50em) {
+		#recent { display: block; }
+	}
 	#recent article {
 	}
 	#recent article h1 {
