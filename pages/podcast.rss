@@ -13,7 +13,7 @@ permalink: "/podcast.rss"
 		<link>{{ site.url }}</link>
 
 		<title><![CDATA[ {{ site.title }} ]]></title>
-		<itunes:subtitle><![CDATA[ {{ site.subtitle | strip_html }} ]]></itunes:subtitle>
+		<itunes:subtitle><![CDATA[ {{ site.subtitle }} ]]></itunes:subtitle>
 		<itunes:summary><![CDATA[ {{ site.description | strip_html }} ]]></itunes:summary>
 		<description><![CDATA[ {{ site.description | strip_html }} ]]></description>
 
