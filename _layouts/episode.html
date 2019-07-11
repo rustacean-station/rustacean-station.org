@@ -6,9 +6,11 @@ layout: default
 <article class="episode full">
 	<small>Posted {{ page.date | date_to_rfc822 }}</small>
 
-	<p><a class="audio" href="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}">Audio file ({{ page.duration }})</a>
+	<p><a class="audio" href="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}">Listen to the episode ({{ page.duration }})</a>
 
+	<div class="body">
 	{{ content }}
+	</div>
 
 	<small><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">View raw episode metadata</a></small>
 </article>

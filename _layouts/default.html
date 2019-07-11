@@ -21,14 +21,17 @@
 				 "
 				 src="/images/artwork-4x.jpg"
 				/>
-				<p>{{ site.subtitle }} {{ site.description }}</p>
+				<p>{{ site.subtitle }}
+				<p>{{ site.description }}
 
 				<div id="recent" class="box">
 				<h2>Last few episodes</h2>
 				{% for post in site.episodes limit:3 %}
 				<article class="episode">
 					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+					<div class="body">
 					{{ post.excerpt }}
+					</div>
 				</article>
 				{% endfor %}
 				</div>

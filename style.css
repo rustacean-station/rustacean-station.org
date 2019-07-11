@@ -4,7 +4,10 @@ body > h1 {
 	padding: 1em 0;
 	color: #444;
 }
-body > h1 a { color: inherit; }
+body > h1 a {
+	color: inherit;
+	text-decoration: none;
+}
 
 #wrapper {
 	display: grid;
@@ -22,8 +25,9 @@ body > h1 a { color: inherit; }
 		border: 2px solid black;
 	}
 	#wrapper > header > p {
-		font-size: 1.5em;
+		font-size: 1.2em;
 		text-align: right;
+		padding-left: 10%;
 	}
 #wrapper > section {
 	grid-column: 2;
@@ -68,6 +72,11 @@ body > h1 a { color: inherit; }
 	#recent article h1 {
 		font-size: 1em;
 	}
+	#recent .episode h1 {
+		border-bottom: none;
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
 
 .episode {
 	padding: .5em 0;
@@ -82,12 +91,13 @@ body > h1 a { color: inherit; }
 }
 .episode h1 {
 	font-size: 1.2em;
+	padding-bottom: .5em;
+	border-bottom: 1px solid #d6611b;
+	margin-bottom: .5em;
 }
 .episode h1 a {
 	color: inherit;
-}
-.episode h1 + small {
-	margin-top: -1em;
+	text-decoration: none;
 }
 .episode small {
 	color: #888;
@@ -96,4 +106,22 @@ body > h1 a { color: inherit; }
 .episode .audio {
 	font-weight: bold;
 	display: block;
+	text-decoration: none;
+	color: #d6611b;
 }
+.episode .body {
+	padding: 1em;
+	background: #FAFAFA;
+	border: 1px solid #F0F0F0;
+}
+	#recent .episode .body {
+		background: none;
+		border: none;
+	}
+	.episode .body :first-child { margin-top: 0; }
+	.episode .body :last-child { margin-bottom: 0; }
+	.episode .body h1 { font-size: 1.2em; font-weight: bold; }
+	.episode .body h2 { font-size: 1.2em; font-weight: normal; }
+	.episode .body h3 { font-size: 1.1em; font-weight: bold; }
+	.episode .body h4 { font-size: 1.1em; font-weight: normal }
+	.episode .body h5 { font-size: 1em; font-weight: bold; }
