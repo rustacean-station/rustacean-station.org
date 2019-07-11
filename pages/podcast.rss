@@ -47,7 +47,6 @@ permalink: "/podcast.rss"
 			<guid isPermaLink="false">rustacean-station/{{ post.url }}</guid>
 
 			<title><![CDATA[ {{ post.title }} ]]></title>
-			<!-- <googleplay:description><![CDATA[ {{ post.content | strip_html }}]]></googleplay:description> -->
 			<itunes:summary><![CDATA[ {{ post.excerpt | strip_html }} ]]></itunes:summary>
 			<description><![CDATA[ {{ post.content | strip_html }} ]]></description>
 			<content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded>
