@@ -24,16 +24,27 @@
 				<p>{{ site.subtitle }}
 				<p>{{ site.description }}
 
+				<div class="box">
+					<h2>Community</h2>
+					<p>If you would like to offer Rust-related podcast content for us to host, or would like advice and resources on making your own Rust podcast, get in touch with us!
+					<ul>
+						<li>Twitter: <a href="https://twitter.com/rustaceanfm">@rustaceanfm</a>
+						<li>Discord: <a href="https://discord.gg/cHc3Gyc">Rustacean Station</a>
+						<li>Github: <a href="https://github.com/rustacean-station/">rustacean-station</a>
+						<li>Email: <a href="mailto:hello@rustacean-station.org">hello@rustacean-station.org</a>
+					</ul>
+				</div>
+
 				<div id="recent" class="box">
-				<h2>Last few episodes</h2>
-				{% for post in site.episodes limit:3 %}
-				<article class="episode">
-					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-					<div class="body">
-					{{ post.excerpt }}
-					</div>
-				</article>
-				{% endfor %}
+					<h2>Last few episodes</h2>
+					{% for post in site.episodes limit:3 %}
+					<article class="episode">
+						<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+						<div class="body">
+						{{ post.excerpt }}
+						</div>
+					</article>
+					{% endfor %}
 				</div>
 			</header>
 			<section>

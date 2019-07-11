@@ -2,7 +2,7 @@ title: "Rustacean Station"
 author: "Rustacean Station"
 email: podcast@rustacean-station.org
 subtitle: "A community project for creating podcast content for the Rust programming language."
-description: "Come journey with us into the weird, wonderful, and wily world of the Rust programming language."
+description: "Come journey with us into the weird, wonderful, and wily world of Rust."
 lang: en-us
 collections:
   episodes:

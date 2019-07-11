@@ -9,6 +9,8 @@ body > h1 a {
 	text-decoration: none;
 }
 
+ul { list-style-type: square; }
+
 #wrapper {
 	display: grid;
 	max-width: 80em;
@@ -58,7 +60,7 @@ body > h1 a {
 	margin-top: 3em;
 	font-size: 0.9em;
 }
-	#wrapper > header> .box > h2 {
+	#wrapper > header > .box > h2 {
 		font-size: 1.1em;
 		text-align: center;
 		padding-bottom: 1em;
