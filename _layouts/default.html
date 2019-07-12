@@ -37,7 +37,24 @@
 
 				<div class="box center">
 					<h2>RSS feed</h2>
-					<a class="striking" href="{{ site.url }}/podcast.rss">{{ site.url }}/podcast.rss</a>
+					<noscript><a class="striking" href="{{ site.url }}/podcast.rss">{{ site.url }}/podcast.rss</a></noscript>
+					<script>
+						window.podcastData = {
+							"title": "{{ site.title }}",
+							"subtitle": "{{ site.subtitle }}",
+							"description": "{{ site.description }}",
+							"cover": "{{ site.url }}/images/artwork.jpg",
+							"feeds": [
+								{
+									"type": "audio",
+									"format": "mp3",
+									"url": "{{ site.url }}/podcast.rss",
+									"variant": "high"
+								}
+							]
+						}
+					</script>
+					<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="{{ site.lang }}" data-size="small auto" data-color="#d6611b" data-json-data="podcastData"></script>
 				</div>
 
 				<div id="recent" class="box">
@@ -46,7 +63,7 @@
 					<article class="episode">
 						<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 						<div class="body">
-						{{ post.excerpt }}
+							{{ post.excerpt }}
 						</div>
 					</article>
 					{% endfor %}
@@ -59,4 +76,6 @@
 				<p><a href="{{ site.github.repository_url }}">View {{ site.github.repository_nwo }} on GitHub</a></p>
 			</footer>
 		</div>
+		<div style="clear:both"></div>
+	</body>
 </html>

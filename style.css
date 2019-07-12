@@ -1,3 +1,13 @@
+html {
+	overflow-y: none;
+	height: 100%;
+}
+body {
+	/* https://github.com/podlove/podlove-subscribe-button/issues/109 */
+	overflow-y: scroll !important;
+	margin: 0 !important;
+}
+
 body > h1 {
 	font-size: 1.5em;
 	text-align: center;
