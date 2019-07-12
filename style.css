@@ -141,6 +141,14 @@ ul { list-style-type: square; }
 		padding-bottom: 1em;
 		border-bottom: 1px solid #AAA;
 	}
+	#wrapper > header > .box.center {
+		text-align: center;
+	}
+	#wrapper > header > .box .striking {
+		font-weight: bold;
+		color: #d6611b;
+		text-decoration: none;
+	}
 
 #recent { display: none; }
 	@media screen and (min-width: 50em) {

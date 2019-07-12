@@ -35,6 +35,11 @@
 					</ul>
 				</div>
 
+				<div class="box center">
+					<h2>RSS feed</h2>
+					<a class="striking" href="{{ site.url }}/podcast.rss">{{ site.url }}/podcast.rss</a>
+				</div>
+
 				<div id="recent" class="box">
 					<h2>Last few episodes</h2>
 					{% for post in site.episodes limit:3 %}
