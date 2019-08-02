@@ -23,17 +23,17 @@ We interview Jimmy Cuadra about Matrix, an open and decentralized communication 
 
 * 0:04:46 - How did you get into Rust?
 
-** [@bascule (Tony Arcieri)](https://twitter.com/bascule)
+  * [@bascule (Tony Arcieri)](https://twitter.com/bascule)
 
-** [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+  * [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 
 * 0:08:47 - What is Matrix?
 
-** [Matrix: an open network for secure, decentralized communication](https://matrix.org/)
+  * [Matrix: an open network for secure, decentralized communication](https://matrix.org/)
 
-** [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple)
+  * [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple)
 
-** [Ruma: Introduction to Matrix](https://www.ruma.io/docs/matrix/)
+  * [Ruma: Introduction to Matrix](https://www.ruma.io/docs/matrix/)
 
 * 0:14:32 - Why "Matrix"?
 
@@ -47,9 +47,9 @@ We interview Jimmy Cuadra about Matrix, an open and decentralized communication 
 
 * 0:30:27 - What libraries does Ruma leverage?
 
-** [Serde: a framework for serializing and deserializing data structures efficiently and generically](https://crates.io/crates/serde)
+  * [Serde: a framework for serializing and deserializing data structures efficiently and generically](https://crates.io/crates/serde)
 
-** [Diesel: a safe, extensible ORM and query builder](https://crates.io/crates/diesel)
+  * [Diesel: a safe, extensible ORM and query builder](https://crates.io/crates/diesel)
 
 * 0:34:02 - If you could start all over again, what would you do differently?
 
