@@ -10,7 +10,7 @@ length: "60946851" #filesize in byte
 layout: episode
 ---
 
-We interview Jimmy Cuadra about Matrix, an open and decentralized communication protocol, and his implementation in Rust known as [Ruma](https://github.com/ruma/ruma).
+We interview Jimmy Cuadra about [Matrix](https://matrix.org/), an open and decentralized communication protocol, and his implementation in Rust known as [Ruma](https://github.com/ruma/ruma).
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
