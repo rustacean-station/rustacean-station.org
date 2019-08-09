@@ -45,7 +45,7 @@ We interview Jimmy Cuadra about [Matrix](https://matrix.org/), an open and decen
 
 * [@23:52] - How challenging has Ruma been to implement?
 
-* [30:27] - What libraries does Ruma leverage?
+* [@30:27] - What libraries does Ruma leverage?
 
   * [Serde: a framework for serializing and deserializing data structures efficiently and generically](https://crates.io/crates/serde)
 
