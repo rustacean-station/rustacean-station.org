@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Organizing Colorado Gold Rust: An Interview with J Haigh"
+title: "Organizing Colorado Gold Rust: An interview with conference founder J Haigh"
 date: 2019-08-25T17:00:00+0000
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e002-colorado-gold-rust.mp3
 duration: "0:28:06" #audio length in min
@@ -10,7 +10,7 @@ length: "26982651" #filesize in byte
 layout: episode
 ---
 
-We interview J Haigh about their experience organizing the [Colorado Gold Rust](https://www.cogoldrust.com/) conference and what brought them to Rust and inspired them to give back to Rust's community. 
+We interview J Haigh about their experience organizing this year's first-ever [Colorado Gold Rust](https://www.cogoldrust.com/) conference, what brought them to Rust, and what inspired them to give back to Rust's community. 
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
