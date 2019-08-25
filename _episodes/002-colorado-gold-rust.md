@@ -10,7 +10,7 @@ length: "26982651" #filesize in byte
 layout: episode
 ---
 
-We interview J Haigh about their experience organizing the [Colorado Gold Rust](https://www.cogoldrust.com/) conference and what brought them to Rust and inspired them to give back to Rust's community.
+We interview J Haigh about their experience organizing the [Colorado Gold Rust](https://www.cogoldrust.com/) conference and what brought them to Rust and inspired them to give back to Rust's community. 
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
@@ -44,8 +44,12 @@ We interview J Haigh about their experience organizing the [Colorado Gold Rust](
   * [@argorak (Florian Gilcher)](https://twitter.com/Argorak)
 
   * [Rust Fest](https://www.rustfest.eu)
-
+  
+  * [Rust Community Events Team's example timeline for organizing a conference](https://github.com/rust-community/events-team/blob/master/guidelines/timeline.md)
+  
   * [Rust Belt Rust](https://www.rust-belt-rust.com/) 
+
+  * [Rust Belt Rust 2018's budgeting report](https://www.integer32.com/2018/11/29/2018-rust-belt-rust-finance-report.html)
 
 * [@17:27] - What have you learned for next time?
 
