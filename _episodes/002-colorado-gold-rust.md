@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Colorado Gold Rush: An Interview with J Haigh"
-date: 2019-08-24T11:45:00+0000
+title: "Organizing Colorado Gold Rust: An Interview with J Haigh"
+date: 2019-08-25T17:00:00+0000
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e002-colorado-gold-rust.mp3
 duration: "0:28:06" #audio length in min
 length: "26982651" #filesize in byte
@@ -10,7 +10,7 @@ length: "26982651" #filesize in byte
 layout: episode
 ---
 
-We interview J Haigh about organizing the [Colorado Gold Rush](https://www.cogoldrust.com/) conference and why he joined the Rust community.
+We interview J Haigh about their experience organizing the [Colorado Gold Rust](https://www.cogoldrust.com/) conference and what brought them to Rust and inspired them to give back to Rust's community.
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
@@ -19,7 +19,7 @@ We interview J Haigh about organizing the [Colorado Gold Rush](https://www.cogol
 
 ### Timestamps & referenced resources
 
-* [@00:41] - [Colorado Gold Rush](https://www.cogoldrust.com/)
+* [@00:41] - [Colorado Gold Rust](https://www.cogoldrust.com/)
 
 * [@01:48] - What got you into Rust?
 
@@ -37,7 +37,7 @@ We interview J Haigh about organizing the [Colorado Gold Rush](https://www.cogol
 
 * [@07:50] - What is the [Recurse Center](https://www.recurse.com/)?
 
-* [@09:21] - Organizing a Conference
+* [@09:21] - Organizing a conference
 
   * [Auraria Campus](https://www.ahec.edu/)
 
@@ -47,9 +47,9 @@ We interview J Haigh about organizing the [Colorado Gold Rush](https://www.cogol
 
   * [Rust Belt Rust](https://www.rust-belt-rust.com/) 
 
-* [@17:27] - What would you do differently next time?
+* [@17:27] - What have you learned for next time?
 
-* [@19:36] - Who is helping with the Conference?
+* [@19:36] - Who is helping with the conference?
 
   * [Nicholas Young](https://www.secretfader.com/)
 
@@ -57,7 +57,7 @@ We interview J Haigh about organizing the [Colorado Gold Rush](https://www.cogol
 
 * [@24:44] - [CFP software](https://github.com/rubycentral/cfp-app)
 
-* [@25:34] - Picking a venue for a conference
+* [@25:34] - Finding a venue for a conference
 
 ### Credits
 
