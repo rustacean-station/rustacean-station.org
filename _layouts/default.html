@@ -60,7 +60,8 @@
 
 				<div id="recent" class="box">
 					<h2>Last few episodes</h2>
-					{% for post in site.episodes limit:3 %}
+					{% assign episodes = site.episodes | sort: 'date' %}
+					{% for post in episodes limit:3 %}
 					<article class="episode">
 						<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 						<div class="body">

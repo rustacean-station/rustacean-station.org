@@ -3,7 +3,8 @@ layout: default
 ---
 
 <h2>Episode list</h2>
-{% for post in site.episodes %}
+{% assign episodes = site.episodes | sort: 'date' %}
+{% for post in episodes %}
 <article class="episode">
 	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 	<small>{{ post.date | date_to_rfc822 }}</small>
