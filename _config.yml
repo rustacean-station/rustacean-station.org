@@ -5,6 +5,7 @@ subtitle: "A community project for creating podcast content for the Rust program
 description: "Come journey with us into the weird, wonderful, and wily world of Rust."
 lang: en-us
 exclude:
+  - 000-template.md
   - vendor
 collections:
   episodes:
