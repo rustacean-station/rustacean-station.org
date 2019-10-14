@@ -21,7 +21,7 @@ paragraphs show up as "expanded description".
 
 <!-- You can probably leave this as-is -->
 
-Get in touch with us if you'd like to be interviewed, propose a topic, or help out!
+Get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help out!
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
@@ -40,12 +40,12 @@ You can also leave sub-points for references resources.
 
 ### Credits
 
-Intro Theme: Aerocity
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
 
-Audio Editing: (fill me in with the editor's name)
+Audio Editing: (fill me in with the editor's name + twitter handle)
 
-Hosting Infrastructure: Jon Gjengset
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
-Show Notes: (fill me in with your name)
+Show Notes: (fill me in with your name + twitter handle)
 
-Hosts: (fill me in with the name of the hosts for the episode)
+Hosts: (fill me in with the name of the hosts for the episode + their twitter handles)
