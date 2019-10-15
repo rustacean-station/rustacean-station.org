@@ -5,6 +5,7 @@ date: 2019-09-17T18:00:00+0000
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e004-rust-in-production-armin-ronacher.mp3
 duration: "01:02:25" #audio length
 length: "44940667" #filesize in byte
+reddit: https://www.reddit.com/r/rust/comments/d5ydeg/rust_in_production_an_interview_with_armin/
 
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode

@@ -200,7 +200,7 @@ ul { list-style-type: square; }
 	color: #888;
 	display: block;
 }
-.episode .audio {
+.episode .additional {
 	font-weight: bold;
 	display: block;
 	text-decoration: none;

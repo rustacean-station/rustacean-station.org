@@ -6,7 +6,10 @@ layout: default
 <article class="episode full">
 	<small>Posted {{ page.date | date_to_rfc822 }}</small>
 
-	<p><a class="audio" href="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}">Listen to the episode ({{ page.duration }})</a>
+	<p><a class="additional" href="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}">Listen to the episode ({{ page.duration }})</a>
+	{% if page.reddit %}
+	<p><a class="additional" href="{{ page.reddit }}">See discussion on Reddit</a>
+	{% endif %}
 
 	<div class="body">
 	{{ content }}
