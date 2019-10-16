@@ -2,17 +2,63 @@
 layout: default
 ---
 
-<h2>Episode list</h2>
+<header>
+	<!--
+	<img
+	 srcset="
+	  /images/artwork.jpg 3000w,
+	  /images/artwork-2x.jpg 1500w,
+	  /images/artwork-4x.jpg 750w,
+	  /images/artwork.small.jpg 400w
+	 "
+	 src="/images/artwork-4x.jpg"
+	/>
+	-->
+	<ul id="contact">
+		<li><a href="https://twitter.com/rustaceanfm"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" alt="Twitter" /></a>
+		<li><a href="https://discord.gg/cHc3Gyc"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" alt="Discord" /></a>
+		<li><a href="https://github.com/rustacean-station/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" /></a>
+		<li><a href="mailto:hello@rustacean-station.org"><img src="/images/email.svg" alt="Email" /></a>
+	</ul>
+
+	<p id="tagline">
+		{{ site.subtitle }} {{ site.description }}
+		If you would like to offer Rust-related
+		podcast content for us to host, or
+		would like advice and resources on
+		making your own Rust podcast, get in
+		touch with us!
+	</p>
+
+	<div id="subscribe">
+	<noscript><a class="striking" href="{{ site.url }}/podcast.rss">{{ site.url }}/podcast.rss</a></noscript>
+	<script>
+		window.podcastData = {
+			"title": "{{ site.title }}",
+			"subtitle": "{{ site.subtitle }}",
+			"description": "{{ site.description }}",
+			"cover": "{{ site.url }}/images/artwork.jpg",
+			"feeds": [
+				{
+					"type": "audio",
+					"format": "mp3",
+					"url": "{{ site.url }}/podcast.rss",
+					"variant": "high"
+				}
+			]
+		}
+	</script>
+	<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="{{ site.lang }}" data-size="small auto" data-color="#444444" data-json-data="podcastData"></script>
+	</div>
+</header>
+
 {% assign episodes = site.episodes | sort: 'date' %}
 {% for post in episodes reversed %}
 <article class="episode">
 	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	<small>{{ post.date | date_to_rfc822 }}</small>
-
-	<p><a class="audio" href="https://dts.podtrac.com/redirect.mp3/{{ post.file | replace_first: "https://", "" }}">Listen to the episode ({{ post.duration }})</a>
-
 	<div class="body">
-	{{ post.content }}
+		<p>{{ post.excerpt }}
+		<audio src="https://dts.podtrac.com/redirect.mp3/{{ post.file | replace_first: "https://", "" }}" controls></audio>
 	</div>
 </article>
 {% endfor %}

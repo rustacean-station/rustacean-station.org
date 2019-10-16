@@ -13,69 +13,10 @@
 	<body>
 		<h1><a href="/">The {{ site.title | default: site.github.repository_name }} Podcast</a>&nbsp;📣</h1>
 		<div id="wrapper">
-			<header>
-				<img
-				 srcset="
-				  /images/artwork.jpg 3000w,
-				  /images/artwork-2x.jpg 1500w,
-				  /images/artwork-4x.jpg 750w,
-				  /images/artwork.small.jpg 400w
-				 "
-				 src="/images/artwork-4x.jpg"
-				/>
-				<p>{{ site.subtitle }} {{ site.description }}
-
-				<div class="box">
-					<h2>Community</h2>
-					<p>If you would like to offer Rust-related podcast content for us to host, or would like advice and resources on making your own Rust podcast, get in touch with us!
-					<ul>
-						<li>Twitter: <a href="https://twitter.com/rustaceanfm">@rustaceanfm</a>
-						<li>Discord: <a href="https://discord.gg/cHc3Gyc">Rustacean Station</a>
-						<li>Github: <a href="https://github.com/rustacean-station/">rustacean-station</a>
-						<li>Email: <a href="mailto:hello@rustacean-station.org">hello@rustacean-station.org</a>
-					</ul>
-				</div>
-
-				<div class="box center">
-					<h2>RSS feed</h2>
-					<noscript><a class="striking" href="{{ site.url }}/podcast.rss">{{ site.url }}/podcast.rss</a></noscript>
-					<script>
-						window.podcastData = {
-							"title": "{{ site.title }}",
-							"subtitle": "{{ site.subtitle }}",
-							"description": "{{ site.description }}",
-							"cover": "{{ site.url }}/images/artwork.jpg",
-							"feeds": [
-								{
-									"type": "audio",
-									"format": "mp3",
-									"url": "{{ site.url }}/podcast.rss",
-									"variant": "high"
-								}
-							]
-						}
-					</script>
-					<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="{{ site.lang }}" data-size="small auto" data-color="#d6611b" data-json-data="podcastData"></script>
-				</div>
-
-				<div id="recent" class="box">
-					<h2>Last few episodes</h2>
-					{% assign episodes = site.episodes | sort: 'date' %}
-					{% for post in episodes reversed limit:3 %}
-					<article class="episode">
-						<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-						<div class="body">
-							{{ post.excerpt }}
-						</div>
-					</article>
-					{% endfor %}
-				</div>
-			</header>
-			<section>
-				{{ content }}
-			</section>
+			{{ content }}
 			<footer>
 				<p><a href="{{ site.github.repository_url }}">View {{ site.github.repository_nwo }} on GitHub</a></p>
+				<p>Icons by <a href="https://simpleicons.org/">Simple Icons</a>
 			</footer>
 		</div>
 		<div style="clear:both"></div>
