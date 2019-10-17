@@ -58,7 +58,6 @@ layout: default
 	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 	<div class="body">
 		<p>{{ post.excerpt }}
-		<audio src="https://dts.podtrac.com/redirect.mp3/{{ post.file | replace_first: "https://", "" }}" controls></audio>
 	</div>
 </article>
 {% endfor %}

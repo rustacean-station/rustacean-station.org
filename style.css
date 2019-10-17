@@ -48,7 +48,7 @@ ul { list-style-type: square; }
 }
 
 #wrapper > header {
-	margin-bottom: 3em;
+	padding-bottom: 3em;
 }
 	#tagline {
 		font-size: 1.2em;
@@ -79,7 +79,7 @@ ul { list-style-type: square; }
 		margin-top: 3em;
 	}
 	.episode h1 {
-		font-weight: normal;
+		font-weight: bold;
 		font-size: 1.2em;
 		color: #d6611b;
 		margin: 0;
@@ -93,7 +93,11 @@ ul { list-style-type: square; }
 		}
 	.episode audio {
 		width: 100%;
+		opacity: 0.5;
 	}
+		.episode audio:hover, .episode audio:focus {
+			opacity: 1;
+		}
 		.episode.full audio {
 			padding-top: 1em;
 		}
@@ -110,7 +114,6 @@ ul { list-style-type: square; }
 			opacity: 1;
 		}
 	.episode .body {
-		padding-left: 1em;
 	}
 		.episode .body a {
 			color: #d6611b;
