@@ -9,16 +9,16 @@ layout: default
 	<span class="detail"><a href="{{ page.reddit }}">Discussion on Reddit</a></span>
 	{% endif %}
 
-	<audio src="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}" controls></audio>
-
 	<div class="body">
 	{{ content }}
 	</div>
 
+	<!--
 	<span class="detail"><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">View raw episode metadata</a></span>
+	-->
 </article>
 <script>
-	var audio = document.querySelector('.episode audio');
+	var audio = document.querySelector('#player audio');
 	document.querySelectorAll('.episode .body li').forEach(function(e) {
 		var text = e.childNodes[0];
 		if (text.nodeType == Node.TEXT_NODE && text.textContent.startsWith('[@')) {

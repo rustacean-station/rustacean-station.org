@@ -11,7 +11,25 @@
 		<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/podcast.rss" />
 	</head>
 	<body>
-		<h1><a href="/">The {{ site.title | default: site.github.repository_name }} Podcast</a>&nbsp;📣</h1>
+		<h1>
+		<a href="/">
+			The {{ site.title | default: site.github.repository_name }} Podcast
+			<img
+			 srcset="
+			  /images/artwork.jpg 3000w,
+			  /images/artwork-2x.jpg 1500w,
+			  /images/artwork-4x.jpg 750w,
+			  /images/artwork.small.jpg 400w
+			 "
+			 src="/images/artwork-4x.jpg"
+			/>
+		</a>
+		</h1>
+		{% if page.file %}
+		<div id="player">
+		<audio src="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}" controls></audio>
+		</div>
+		{% endif %}
 		<div id="wrapper">
 			{{ content }}
 			<footer>

@@ -9,18 +9,27 @@ body {
 }
 
 body > h1 {
-	font-size: 1.5em;
+	font-size: 1.8em;
 	text-align: center;
 	padding: 1em;
-	color: #444;
+	color: white;
+	background-color: #d6611b;
+	margin: 0;
+	display: block;
+	padding: 1em;
 }
-	@media screen and (min-width: 50em) {
+	body > h1 img {
+		max-height: 25vh;
+		display: block;
+		margin: 1em auto 0;
+		border: 5px solid white;
+	}
+	@media screen and (min-width: 42em) {
 		body > h1 {
 			font-size: 2em;
-			padding: 1em 0 0;
 		}
 	}
-	@media screen and (min-width: 70em) {
+	@media screen and (min-width: 60em) {
 		body > h1 {
 			font-size: 3em;
 		}
@@ -30,25 +39,34 @@ body > h1 a {
 	text-decoration: none;
 }
 
+#player {
+	background-color: #444;
+	text-align: center;
+}
+	#player audio {
+		margin: 0 auto;
+		width: 100%;
+	}
+	@media screen and (min-width: 42em) {
+		#player audio {
+			width: 40em;
+		}
+	}
+
 ul { list-style-type: square; }
 
 #wrapper {
 	max-width: 40em;
 	margin: 0 1em;
+	padding: 3em 0;
 }
-@media screen and (min-width: 50em) {
-	#wrapper {
-		margin: 0 2em;
-	}
-}
-@media screen and (min-width: 70em) {
+@media screen and (min-width: 42em) {
 	#wrapper {
 		margin: 0 auto;
 	}
 }
 
 #wrapper > header {
-	padding-bottom: 3em;
 }
 	#tagline {
 		font-size: 1.2em;
@@ -60,7 +78,8 @@ ul { list-style-type: square; }
 		list-style-type: none;
 		display: flex;
 		justify-content: space-around;
-		padding: 1em 0;
+		padding: 0;
+		padding-bottom: 1em;
 	}
 		#contact li {
 			flex: 1;
@@ -74,32 +93,39 @@ ul { list-style-type: square; }
 	}
 
 .episode {
+	border-top: 1px dashed #d6611b;
+	margin-top: 2em;
+	padding-top: 2em;
 }
+	.episode.full {
+		border-top: none;
+		margin-top: 0;
+		padding-top: 0;
+	}
 	.episode + .episode {
-		margin-top: 3em;
 	}
 	.episode h1 {
 		font-weight: bold;
 		font-size: 1.2em;
-		color: #d6611b;
 		margin: 0;
 	}
 		.episode.full h1 {
 			font-size: 1.5em;
+			padding-bottom: 2rem;
+		}
+		@media screen and (min-width: 42em) {
+			.episode.full h1 {
+				font-size: 1.8em;
+			}
+		}
+		@media screen and (min-width: 60em) {
+			.episode.full h1 {
+				font-size: 2em;
+			}
 		}
 		.episode h1 a {
 			text-decoration: none;
 			color: inherit;
-		}
-	.episode audio {
-		width: 100%;
-		opacity: 0.5;
-	}
-		.episode audio:hover, .episode audio:focus {
-			opacity: 1;
-		}
-		.episode.full audio {
-			padding-top: 1em;
 		}
 	.episode > .detail {
 		color: #888;
@@ -144,9 +170,4 @@ ul { list-style-type: square; }
  }
        #wrapper > footer a {
                color: #48F;
-       }
-       @media screen and (min-width: 50em) {
-               #wrapper > footer {
-                       text-align: right;
-               }
        }
