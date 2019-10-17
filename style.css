@@ -129,6 +129,9 @@ ul { list-style-type: square; }
 		.episode.full .body {
 			padding-left: 0;
 		}
+		.episode .body li {
+			margin: .5em 0;
+		}
 		.episode .body h1, .episode .body h2, .episode .body h3, .episode .body h4 {
 			font-size: 1em;
 		}
