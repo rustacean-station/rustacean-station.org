@@ -21,45 +21,25 @@ We interview Jimmy Cuadra about [Matrix](https://matrix.org/), an open and decen
 ### Timestamps & referenced resources
 
 * [@01:35] - Meet Jimmy Cuadra
-
 * [@04:46] - How did you get into Rust?
-
   * [@bascule (Tony Arcieri)](https://twitter.com/bascule)
-
   * [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
-
 * [@08:47] - What is Matrix?
-
   * [Matrix: an open network for secure, decentralized communication](https://matrix.org/)
-
   * [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple)
-
   * [Ruma: Introduction to Matrix](https://www.ruma.io/docs/matrix/)
-
 * [@14:32] - Why "Matrix"?
-
 * [@16:44] - What forms of communication does Matrix enable?
-
 * [@17:59] - What pieces of Matrix does Ruma implement?
-
 * [@20:27] - Why did you decide to use Rust?
-
 * [@23:52] - How challenging has Ruma been to implement?
-
 * [@30:27] - What libraries does Ruma leverage?
-
   * [Serde: a framework for serializing and deserializing data structures efficiently and generically](https://crates.io/crates/serde)
-
   * [Diesel: a safe, extensible ORM and query builder](https://crates.io/crates/diesel)
-
 * [@34:02] - If you could start all over again, what would you do differently?
-
 * [@38:57] - Does Ruma use any unstable Rust features? Has it previously?
-
 * [@42:30] - What other implementations of Matrix exist?
-
 * [@46:42] - How difficult to implement is the Matrix specification?
-
 * [@52:59] - How close to maturity is Ruma?
 
 ### Credits
