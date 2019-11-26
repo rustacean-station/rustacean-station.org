@@ -44,7 +44,11 @@ permalink: "/podcast.rss"
 		<item>
 			<!-- <link>{{ post.url | absolute_url }}</link> -->
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+			{% if post.guid %}
+			<guid isPermaLink="false">{{ post.guid }}</guid>
+			{% else %}
 			<guid isPermaLink="false">rustacean-station/{{ post.url }}</guid>
+			{% endif %}
 
 			<title><![CDATA[ {{ post.title }} ]]></title>
 			<itunes:summary><![CDATA[ {{ post.excerpt | strip_html }} ]]></itunes:summary>
