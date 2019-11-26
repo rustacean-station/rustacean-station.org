@@ -7,6 +7,9 @@ duration: "1:03:29" #audio length in min
 length: "60946851" #filesize in byte
 reddit: https://www.reddit.com/r/rust/comments/cp1iai/ruma_and_the_matrix_communication_protocol_an/
 
+# keep guid after change to remove //
+guid: "rustacean-station//episode/001-ruma"
+
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
 ---

@@ -7,6 +7,9 @@ duration: "01:02:25" #audio length
 length: "44940667" #filesize in byte
 reddit: https://www.reddit.com/r/rust/comments/d5ydeg/rust_in_production_an_interview_with_armin/
 
+# keep guid after change to remove //
+guid: "rustacean-station//episode/004-rust-in-production-armin-ronacher/"
+
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
 ---

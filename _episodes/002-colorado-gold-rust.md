@@ -7,6 +7,9 @@ duration: "0:28:06" #audio length in min
 length: "26982651" #filesize in byte
 reddit: https://www.reddit.com/r/rust/comments/cvbe9x/organizing_colorado_gold_rust_an_interview_with/
 
+# keep guid after change to remove //
+guid: "rustacean-station//episode/002-colorado-gold-rust/"
+
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
 ---
