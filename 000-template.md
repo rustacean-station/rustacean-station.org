@@ -1,10 +1,11 @@
 ---
 layout: post
 title: (fill me in with the episode's title)
-date: (fill me in with today's date, YYYY-MM-DD)
+date: (fill me in with today's date in ISO 8601 format, e.g. "2015-05-15T16:00:00+0000")
 file: https://audio.rustacean-station.org/file/rustacean-station/(fill me in with the episode mp3 filename)
-duration: (fill in with audio length, HH:MM:SS)
-length: (fill in with audio size in bytes)
+duration: (fill in with audio length, HH:MM:SS, e.g. "43:21")
+length: (fill in with audio size in bytes, e.g. "12345678")
+#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
@@ -21,7 +22,7 @@ paragraphs show up as "expanded description".
 
 <!-- You can probably leave this as-is -->
 
-Get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help out!
+Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help create the podcast itself!
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
@@ -33,9 +34,10 @@ Get in touch with us if you'd like to be interviewed, propose a topic for an epi
 <!--
 In this section, leave timestamped notes of the form:
 
- - [@HH:MM:SS] - Timestamp description
+ - [@HH:MM:SS] - Topic at first timestamp
+ - [@HH:MM:SS] - Topic at second timestamp
+     - A link to additional material discussed during the preceding topic
 
-You can also leave sub-points for references resources.
 -->
 
 ### Credits
