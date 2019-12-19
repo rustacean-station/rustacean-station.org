@@ -11,7 +11,7 @@ length: "52224834"
 layout: episode
 ---
 
-[Vincent Prouillet](https://www.vincentprouillet.com/) talks about his experience building the Zola static site generator and reflects back on five years of work with Rust.
+[Vincent Prouillet](https://www.vincentprouillet.com/) talks about his experience building the Zola static site generator and reflects back on five years of working with Rust.
 
 Vincent is the creator of [Zola](https://www.getzola.org) (formerly known as Gutenberg), a static site generator built with [Rust](https://www.rust-lang.org/) and [Tera](https://github.com/Keats/tera), a Jinja2-like template engine.
 
@@ -101,10 +101,10 @@ In this section, leave timestamped notes of the form:
 
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
 
-Audio Editing: Jeremy Jung
+Audio Editing: [Jeremy Jung](https://twitter.com/jertype)
 
 Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Ben Striegel](https://twitter.com/bstrie)
 
-Hosts: Jeremy Jung
+Hosts: [Jeremy Jung](https://twitter.com/jertype)
