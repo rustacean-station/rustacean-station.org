@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Creating Static Sites in Rust with Vincent Prouillet"
+date: "2019-12-19:23:00+0000"
+file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e007-zola-vincent-prouillet.mp3
+duration: "54:24"
+length: "52224834"
+#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+
+# https://github.com/jekyll/jekyll/issues/7744
+layout: episode
+---
+
+[Vincent Prouillet](https://www.vincentprouillet.com/) talks about his experience building the Zola static site generator and reflects back on five years of work with Rust.
+
+Vincent is the creator of [Zola](https://www.getzola.org) (formerly known as Gutenberg), a static site generator built with [Rust](https://www.rust-lang.org/) and [Tera](https://github.com/Keats/tera), a Jinja2-like template engine.
+
+### Contributing to Rustacean Station
+
+<!-- You can probably leave this as-is -->
+
+Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help create the podcast itself!
+
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
+ - Github: [@rustacean-station](https://github.com/rustacean-station/)
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+
+### Timestamps
+
+- [@00:59] - What's a static site generator?
+- [@03:52] - How easy is it to build and edit a site?
+- [@07:58] - Why create a new static site generator?
+- [@12:35] - The Tera template engine and Vincent's experience building it
+- [@17:53] - Creating filters and tests to use with Tera
+- [@24:29] - What's a taxonomy?
+- [@25:48] - Mapping content to URLs
+- [@30:53] - The experience of being an open source maintainer
+- [@33:57] - Rust crates and features used by Zola
+- [@36:57] - How the Rust ecosystem ensured fast performance
+- [@40:35] - Is Rust ready for web applications?
+- [@43:25] - What applications are best suited to Rust now?
+- [@46:50] - Issues or things you wish existed in Rust?
+- [@51:08] - Helping out with Zola
+
+<!--
+In this section, leave timestamped notes of the form:
+
+ - [@HH:MM:SS] - Topic at first timestamp
+ - [@HH:MM:SS] - Topic at second timestamp
+     - A link to additional material discussed during the preceding topic
+
+-->
+
+### References and Resources
+
+#### Vincent Prouillet
+- [Personal Site](https://www.vincentprouillet.com/)
+- [@20100Prouillet](https://twitter.com/20100Prouillet)
+
+#### Zola
+- [Zola Website](https://www.getzola.org)
+- [Zola Forum](https://zola.discourse.group/)
+
+#### Tools/Crates used by Zola
+- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) (Markdown)
+- [syntec](https://github.com/trishume/syntect) (Syntax highlighting using Sublime Text definitions)
+- [rayon](https://github.com/rayon-rs/rayon) (Parallel computation)
+- [heaptrack](https://github.com/KDE/heaptrack) (Memory Profiler)
+
+#### Static Site Hosts
+- [Github Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+
+#### Crates for Web Applications
+- [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
+- [Bcrypt](https://github.com/Keats/rust-bcrypt)
+- [Validator](https://github.com/Keats/validator)
+
+#### Compiled Template Engines
+- [askama](https://github.com/djc/askama)
+- [maud](https://maud.lambda.xyz/)
+- [horrowshow](https://github.com/Stebalien/horrorshow-rs)
+
+#### Runtime Template Engines
+- [Tera](https://github.com/Keats/tera) ([Jinja2](https://www.palletsprojects.com/p/jinja/)-like HTML template engine)
+- [ramhorns](https://github.com/maciejhirsz/ramhorns)
+- [rust-mustache](https://github.com/nickel-org/rust-mustache)
+
+#### Static Site Generators
+- [Hugo](https://www.gohugo.io)
+- [Jekyll](https://www.jekyllrb.com)
+- [Pelican](https://blog.getpelican.com/)
+
+#### Other links
+- [Forestry](https://forestry.io/) (WYSIWYG CMS for Static Sites)
+- [Keyword Arguments RFC](https://github.com/rust-lang/rfcs/issues/323)
+- [kickstart](https://github.com/Keats/kickstart) (Scaffolding tool)
+
+### Credits
+
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+
+Audio Editing: Jeremy Jung
+
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+
+Show Notes: [Ben Striegel](https://twitter.com/bstrie)
+
+Hosts: Jeremy Jung
