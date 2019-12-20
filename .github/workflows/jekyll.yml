@@ -19,10 +19,18 @@ jobs:
         url: https://rustacean-station.org' \
                _config.yml
         bundle exec jekyll build
+    - uses: actions/setup-python@v1
+      with:
+        python-version: '2.x'
     - name: Check dates
       run: |
-        for date in $(grep -h date _episodes/*.md | sed 's/^date: //'); do
-          date "--date=$date";
+        pip install pytz ciso8601
+        for episode in _episodes/*.md; do
+          date=$(grep 'date:' "$episode" | head -n1 | sed 's/^date: //')
+          if ! python2 -c "import ciso8601; ciso8601.parse_rfc3339('$date');"; then
+            echo "$episode: bad date '$date'"
+            exit 1
+          fi
         done
     - name: Check file sizes
       run: |
@@ -35,9 +43,6 @@ jobs:
             exit 1
           fi
         done
-    - uses: actions/setup-python@v1
-      with:
-        python-version: '2.x'
     - name: Validate feed
       run: |
         # Fix Ubuntu MIME type for RSS

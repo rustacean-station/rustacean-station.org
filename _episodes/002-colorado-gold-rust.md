@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizing Colorado Gold Rust: An interview with conference founder J Haigh"
-date: 2019-08-25T17:00:00+0000
+date: 2019-08-25T17:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e002-colorado-gold-rust.mp3
 duration: "0:28:06" #audio length in min
 length: "26982651" #filesize in byte
