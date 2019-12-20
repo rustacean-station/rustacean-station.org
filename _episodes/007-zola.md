@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Static Sites in Rust with Vincent Prouillet"
-date: "2019-12-19:23:00+0000"
+date: 2019-12-19:23:00+0000
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e007-zola-vincent-prouillet.mp3
 duration: "54:24"
 length: "52224834"
