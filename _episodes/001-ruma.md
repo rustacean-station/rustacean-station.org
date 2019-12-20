@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruma and the Matrix Communication Protocol: An Interview with Jimmy Cuadra"
-date: 2019-08-08T11:45:00+0000
+date: 2019-08-08T11:45:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e001-ruma-matrix-jimmy-cuadra.mp3
 duration: "1:03:29" #audio length in min
 length: "60946851" #filesize in byte

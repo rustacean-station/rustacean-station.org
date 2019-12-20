@@ -1,0 +1,59 @@
+name: Jekyll site CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-python@v1
+      with:
+        python-version: '2.x'
+    - name: Check dates
+      run: |
+        pip install pytz ciso8601
+        for episode in _episodes/*.md; do
+          date=$(grep 'date:' "$episode" | head -n1 | sed 's/^date: //')
+          if ! python2 -c "import ciso8601; ciso8601.parse_rfc3339('$date');"; then
+            echo "$episode: bad date '$date'"
+            exit 1
+          fi
+        done
+    - name: Check file sizes
+      run: |
+        for episode in _episodes/*.md; do
+          length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
+          file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
+          size=$(curl --head -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
+          if [ $size -ne $length ]; then
+            echo "$(basename "$episode"): ${length}b (reported) != ${size}b (actual)"
+            exit 1
+          fi
+        done
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.x'
+    - name: Install dependencies
+      run: bundle install
+    - name: Build site and feed
+      run: |
+        # have site.url produce a valid value
+        sed -i -e '/^collections:/i \
+        url: https://rustacean-station.org' \
+               _config.yml
+        bundle exec jekyll build
+    - name: Validate feed
+      run: |
+        # Fix Ubuntu MIME type for RSS
+        sudo sed -i 's@application/x-rss+xml@application/rss+xml@' /etc/mime.types
+        cp _site/podcast.rss validate.rss
+        # https://github.com/rubys/feedvalidator/issues/16
+        sed -i -e 's/https:/http:/g' \
+               -e '/rel="self"/ s@href="[^"]*"@href="file://'"$(pwd)"'/validate.rss"@' \
+               -e '/xmlns:content/a \
+                    xml:base="https://rustacean-station.org"' \
+               validate.rss
+        git clone git://github.com/rubys/feedvalidator.git
+        cd feedvalidator
+        python2 src/demo.py ../validate.rss

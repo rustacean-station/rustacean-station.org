@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rust in Production: An Interview with Armin Ronacher"
-date: 2019-09-17T18:00:00+0000
+date: 2019-09-17T18:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e004-rust-in-production-armin-ronacher.mp3
 duration: "01:02:25" #audio length
 length: "44940667" #filesize in byte
