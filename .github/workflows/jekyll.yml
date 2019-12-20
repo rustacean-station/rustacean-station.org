@@ -27,8 +27,8 @@ jobs:
     - name: Check file sizes
       run: |
         for episode in _episodes/*.md; do
-          length=$(grep 'length:' "$episode" | awk '{print $2}' | sed 's/"//g');
-          file=$(grep 'file:' "$episode" | sed -e 's/^file: //' -e 's/"//g');
+          length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
+          file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
           size=$(curl --head -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
           if [ $size -ne $length ]; then
             echo "$(basename "$episode"): ${length}b (reported) != ${size}b (actual)"
