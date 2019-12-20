@@ -57,7 +57,7 @@ In this section, leave timestamped notes of the form:
 
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
 
-Audio Editing: (fill me in with the editor's name + twitter handle)
+Audio Editing: alphastrata
 
 Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
