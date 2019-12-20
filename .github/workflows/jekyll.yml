@@ -7,18 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.x'
-    - name: Install dependencies
-      run: bundle install
-    - name: Build site and feed
-      run: |
-        # have site.url produce a valid value
-        sed -i -e '/^collections:/i \
-        url: https://rustacean-station.org' \
-               _config.yml
-        bundle exec jekyll build
     - uses: actions/setup-python@v1
       with:
         python-version: '2.x'
@@ -43,6 +31,18 @@ jobs:
             exit 1
           fi
         done
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.x'
+    - name: Install dependencies
+      run: bundle install
+    - name: Build site and feed
+      run: |
+        # have site.url produce a valid value
+        sed -i -e '/^collections:/i \
+        url: https://rustacean-station.org' \
+               _config.yml
+        bundle exec jekyll build
     - name: Validate feed
       run: |
         # Fix Ubuntu MIME type for RSS
