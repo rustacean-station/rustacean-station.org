@@ -5,7 +5,7 @@ date: 2019-12-19T23:00:00+0000
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e007-zola-vincent-prouillet.mp3
 duration: "54:24"
 length: "52224834"
-#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+reddit: https://www.reddit.com/r/rust/comments/ed3qyd/an_interview_with_the_creator_of_zola_formerly/
 
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
