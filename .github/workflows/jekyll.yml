@@ -56,4 +56,7 @@ jobs:
                validate.rss
         git clone git://github.com/rubys/feedvalidator.git
         cd feedvalidator
-        python2 src/demo.py ../validate.rss
+        if ! python2 src/demo.py ../validate.rss; then
+          cat ../validate.rss
+          exit 1
+        fi
