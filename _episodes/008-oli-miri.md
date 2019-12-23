@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compile-Time Evaluation, Interpreted Rust, and UB Sanitizing: Talking to Oliver Scherer about Miri"
-date: 2019-12-20T22:00:00+00:00
+date: 2019-12-23T18:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e008-miri-oli-obk.mp3
 duration: "24:29"
 length: "23497525"
