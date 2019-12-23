@@ -5,7 +5,7 @@ date: 2019-12-23T18:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e008-miri-oli-obk.mp3
 duration: "24:29"
 length: "23497525"
-#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+reddit: https://www.reddit.com/r/rust/comments/eep97x/compiletime_evaluation_interpreted_rust_and_ub/
 
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
