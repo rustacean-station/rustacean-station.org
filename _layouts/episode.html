@@ -19,7 +19,7 @@ layout: default
 </article>
 <script>
 	var audio = document.querySelector('#player audio');
-	document.querySelectorAll('.episode .body li').forEach(function(e) {
+	document.querySelectorAll('.episode .body li, .episode .body h4').forEach(function(e) {
 		var text = e.childNodes[0];
 		if (text.nodeType == Node.TEXT_NODE && text.textContent.startsWith('[@')) {
 			// extract time code

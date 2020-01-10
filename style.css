@@ -149,6 +149,9 @@ ul { list-style-type: square; }
 			font-weight: bold;
 			color: inherit;
 		}
+			.episode .body h4 .jump {
+				color: #d6611b;
+			}
 			.episode .body .jump::before {
 				content: "@";
 			}
