@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (fill me in with the episode's title)
-date: (fill me in with today's date in RFC 3339 format, e.g. "2015-05-15T16:00:00+00:00")
+date: (fill me in with today's date in RFC 3339 format, e.g. 2015-05-15T16:00:00+00:00)
 file: https://audio.rustacean-station.org/file/rustacean-station/(fill me in with the episode mp3 filename)
 duration: (fill in with audio length, HH:MM:SS, e.g. "43:21")
 length: (fill in with audio size in bytes, e.g. "12345678")
@@ -22,7 +22,7 @@ paragraphs show up as "expanded description".
 
 <!-- You can probably leave this as-is -->
 
-Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help create the podcast itself!
+Rustacean Station is a community project; get in touch with us if you'd like to suggest an idea for an episode or offer your services as a host or audio editor!
 
  - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
  - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
