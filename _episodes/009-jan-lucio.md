@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Double Feature: Jan-Erik Rediger on RustFest & Lucio Franco on the Tonic gRPC framework"
-date: 2020-01-06T19:00:00+00:00
+date: 2020-01-10T19:30:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e009-rustfest-jan-erik-rediger.mp3
 duration: "25:59"
 length: "18710674"
