@@ -33,12 +33,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ### Timestamps & referenced resources
 
-# [@00:00] Part 1: RustFest w/ Jan-Erik Rediger
+#### [@00:00] Part 1: RustFest w/ Jan-Erik Rediger
 
 - [@00:43] - Who were the original founders of RustFest and what is the history of the conference?
 - [@06:04] - What is timeline like for organizing a conference of this scale and what has been your experience with organizing RustFest?
 
-# [@12:04] Part 2: Tonic w/ Lucio Franco
+#### [@12:04] Part 2: Tonic w/ Lucio Franco
 
 - [@12:52] - What is Tonic?
 - [@13:38] - What is gRPC?
