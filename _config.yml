@@ -7,6 +7,7 @@ lang: en-us
 exclude:
   - 000-template.md
   - vendor
+  - audio
 collections:
   episodes:
     output: true
