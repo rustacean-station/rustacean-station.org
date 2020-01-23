@@ -5,7 +5,7 @@ date: 2020-01-22T23:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e011-rustfest-jake-yoshua-stjepan.mp3
 duration: "53:43"
 length: "38682435"
-#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+reddit: https://www.reddit.com/r/rust/comments/eslbuv/rustacean_station_triple_feature_rust_for_aaa/
 
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
