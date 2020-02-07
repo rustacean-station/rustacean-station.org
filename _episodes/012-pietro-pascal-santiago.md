@@ -40,8 +40,10 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@03:29] - How do you feel about potential future Rust editions in 2021 or beyond?
 - [@06:26] - Do you think Rust's regular release cycle too fast or too slow?
 - [@08:56] - How does Crater guard against language regressions, and what things doesn't it catch?
+    - [rust-lang/crater](https://github.com/rust-lang/crater)
 - [@11:12] - How has Crater scaled as the ecosystem has grown, and is it at risk of becoming infeasible to run?
 - [@16:17] - How can someone get involved with the Infrastructure Team?
+    - [#infra Discord channel](https://discord.gg/AxXmxzN)
 
 #### [@17:25] Part 2: Developer Tools w/ Pascal Hertleif
 
@@ -49,12 +51,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@19:39] - What tools is the Developer Tools Team responsible for, and what purposes do they serve?
 - [@24:46] - Which tools in particular would you like to draw attention to?
 - [@26:19] - How does rust-analyzer compare to RLS?
+    - [rust-lang/rls](https://github.com/rust-lang/rls)
+    - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
 - [@29:42] - How does the Developer Tools Team coordinate?
 - [@32:00] - How was your experience at RustFest this year?
 
 #### [@36:21] Part 3: Rust Latam w/ Santiago Pastorino
 
-- [@36:46] - What is Rust Latam?
+- [@36:46] - What is [Rust Latam](https://rustlatam.org/)?
 - [@37:42] - What inspired you to start a Rust conference in Latin America?
 - [@39:06] - How big is Rust Latam?
 - [@40:15] - What is interest in Rust like in Latin America?
