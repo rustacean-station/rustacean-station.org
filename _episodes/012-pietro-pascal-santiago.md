@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RustFest Interviews Triple Feature: Rust Release Engineering; Developing the Developer Tools; Rust in Latin America"
-date: 2015-05-15T16:00:00Z
+date: 2020-02-07T20:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e012-rustfest-pietro-pascal-santiago.mp3
 duration: "53:32"
 length: "38542001"
