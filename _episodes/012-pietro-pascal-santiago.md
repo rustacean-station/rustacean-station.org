@@ -5,7 +5,7 @@ date: 2020-02-07T20:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e012-rustfest-pietro-pascal-santiago.mp3
 duration: "53:32"
 length: "38542001"
-#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+reddit: https://www.reddit.com/r/rust/comments/f0kpsx/rustacean_station_triple_feature_rust_release/
 
 # https://github.com/jekyll/jekyll/issues/7744
 layout: episode
