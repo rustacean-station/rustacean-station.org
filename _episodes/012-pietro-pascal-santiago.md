@@ -66,6 +66,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@44:59] - What's next for Rust Latam?
 - [@45:42] - How did you get into Rust?
 - [@50:17] - What venues are there for Spanish or Portuguese-speaking Rust users?
+  - [Rust Brazilian Telegram Group](https://t.me/rustlangbr)
 - [@51:34] - How can someone learn more about Rust Latam?
 
 <!--
