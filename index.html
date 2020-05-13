@@ -44,9 +44,14 @@ layout: default
 {% assign episodes = site.episodes | sort: 'date' %}
 {% for post in episodes reversed %}
 <article class="episode">
-	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	<div class="body">
-		<p>{{ post.excerpt }}
+	<div class="episode_decor">
+		<a href="{{ post.url }}"><img src="/images/sound-bars.svg"></a>
+	</div>
+	<div class="episode_blurb">
+		<h1><a href="{{ post.url }}"> {{ post.title }}</a></h1>
+		<div class="body">
+			<p>{{ post.excerpt }}
+		</div>
 	</div>
 </article>
 {% endfor %}
