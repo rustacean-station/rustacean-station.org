@@ -142,6 +142,9 @@ ul { list-style-type: square; }
 			text-decoration: none;
 			color: inherit;
 		}
+		.episode h1 a:hover {
+			text-decoration: underline;
+		}
 	.episode > .detail {
 		color: #888;
 		display: block;
