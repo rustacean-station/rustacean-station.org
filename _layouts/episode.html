@@ -8,6 +8,14 @@ layout: default
 	{% if page.reddit %}
 	<span class="detail"><a href="{{ page.reddit }}">Discussion on Reddit</a></span>
 	{% endif %}
+	{% capture pagefn %}{{ page.path | remove_first: page.collection | remove_first: '_/' }}{% endcapture %}
+	{% for trans in site.transcripts %}
+	{% capture transfn %}{{ trans.path | remove_first: trans.collection | remove_first: '_/' }}{% endcapture %}
+	{% if transfn == pagefn %}
+	  <span class="detail"><a href="{{ trans.url }}">Episode Transcript</a></span>
+	  {% break %}
+	{% endif %}
+	{% endfor %}
 
 	<div class="body">
 	{{ content }}

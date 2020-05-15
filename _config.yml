@@ -12,6 +12,9 @@ collections:
   episodes:
     output: true
     permalink: /episode/:title/
+  transcripts:
+    output: true
+    permalink: /transcript/:title/
 
 # https://github.com/jekyll/jekyll/issues/7744
 defaults:
@@ -20,3 +23,8 @@ defaults:
      type: "episodes"
    values:
      layout: "episode"
+ - scope:
+     path: ""
+     type: "transcripts"
+   values:
+     layout: "transcript"
