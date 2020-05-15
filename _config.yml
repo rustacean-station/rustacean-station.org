@@ -8,6 +8,7 @@ exclude:
   - 000-template.md
   - vendor
   - audio
+  - transcript_tools
 collections:
   episodes:
     output: true
