@@ -1,14 +1,10 @@
 ---
-layout: post
 title: "Compile-Time Evaluation, Interpreted Rust, and UB Sanitizing: Talking to Oliver Scherer about Miri"
 date: 2019-12-23T18:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e008-miri-oli-obk.mp3
 duration: "24:29"
 length: "23497525"
 reddit: https://www.reddit.com/r/rust/comments/eep97x/compiletime_evaluation_interpreted_rust_and_ub/
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 In the first of our mini-interviews from RustFest 2019, we talk to [Oliver Scherer](https://twitter.com/oli_obk) about [Miri](https://github.com/rust-lang/miri), an interpreter for rustc's internal bytecode, its use in `const`-evaluation, and its potential as an external tool for sanitizing `unsafe` code.

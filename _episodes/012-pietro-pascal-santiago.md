@@ -1,14 +1,10 @@
 ---
-layout: post
 title: "RustFest Interviews Triple Feature: Rust Release Engineering; Developing the Developer Tools; Rust in Latin America"
 date: 2020-02-07T20:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e012-rustfest-pietro-pascal-santiago.mp3
 duration: "53:32"
 length: "38542001"
 reddit: https://www.reddit.com/r/rust/comments/f0kpsx/rustacean_station_triple_feature_rust_release/
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 Another trio of interviews from RustFest 2019: [Pietro Albini](https://twitter.com/pietroalbini) on Crater and the Rust Infrastructure Team; [Pascal Hertleif](https://twitter.com/killercup) on the Rust Developer Tools Team; and [Santiago Pastorino](https://twitter.com/spastorino) on the [Rust Latam](https://rustlatam.org/) conference in Latin America.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Rust in Production: An Interview with Armin Ronacher"
 date: 2019-09-17T18:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e004-rust-in-production-armin-ronacher.mp3
@@ -9,9 +8,6 @@ reddit: https://www.reddit.com/r/rust/comments/d5ydeg/rust_in_production_an_inte
 
 # keep guid after change to remove //
 guid: "rustacean-station//episode/004-rust-in-production-armin-ronacher/"
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 [Armin Ronacher](https://twitter.com/mitsuhiko) talks about getting into Rust, when to use it, writing Rust extensions for Python, building the [Symbolicator](https://github.com/getsentry/symbolicator) web application with actix, creating debugging libraries, and the Rust ecosystem.

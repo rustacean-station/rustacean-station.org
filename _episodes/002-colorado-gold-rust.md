@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Organizing Colorado Gold Rust: An interview with conference founder J Haigh"
 date: 2019-08-25T17:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e002-colorado-gold-rust.mp3
@@ -9,9 +8,6 @@ reddit: https://www.reddit.com/r/rust/comments/cvbe9x/organizing_colorado_gold_r
 
 # keep guid after change to remove //
 guid: "rustacean-station//episode/002-colorado-gold-rust/"
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 We interview J Haigh about their experience organizing this year's first-ever [Colorado Gold Rust](https://www.cogoldrust.com/) conference, what brought them to Rust, and what inspired them to give back to Rust's community. 

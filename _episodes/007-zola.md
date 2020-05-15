@@ -1,14 +1,10 @@
 ---
-layout: post
 title: "Creating Static Sites in Rust with Vincent Prouillet"
 date: 2019-12-19T23:00:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e007-zola-vincent-prouillet.mp3
 duration: "54:24"
 length: "52224834"
 reddit: https://www.reddit.com/r/rust/comments/ed3qyd/an_interview_with_the_creator_of_zola_formerly/
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 [Vincent Prouillet](https://www.vincentprouillet.com/) talks about his experience building the [Zola](https://twitter.com/jertype) static site generator (formerly known as Gutenberg) and reflects on five years of working with Rust.

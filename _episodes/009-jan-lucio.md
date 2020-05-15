@@ -1,14 +1,10 @@
 ---
-layout: post
 title: "Double Feature: Jan-Erik Rediger on RustFest & Lucio Franco on the Tonic gRPC framework"
 date: 2020-01-10T19:30:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e009-rustfest-jan-erik-rediger.mp3
 duration: "25:59"
 length: "18710674"
 reddit: https://www.reddit.com/r/rust/comments/emvyls/rustacean_station_podcast_double_feature_janerik/
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 Two more interviews from RustFest 2019, first with lead RustFest organizer Jan-Erik Rediger and second with Tokio contributor Lucio Franco on the Tower gRPC framework.

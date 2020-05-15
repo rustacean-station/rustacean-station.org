@@ -1,14 +1,10 @@
 ---
-layout: post
 title: "RustFest Interviews Triple Feature: Rust for AAA Game Development; Async Foundations with `async-std`; and Powerful Concurrency Primitives with `crossbeam`"
 date: 2020-01-22T23:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e011-rustfest-jake-yoshua-stjepan.mp3
 duration: "53:43"
 length: "38682435"
 reddit: https://www.reddit.com/r/rust/comments/eslbuv/rustacean_station_triple_feature_rust_for_aaa/
-
-# https://github.com/jekyll/jekyll/issues/7744
-layout: episode
 ---
 
 Three more interviews from RustFest 2019: [Jake Shadle](https://twitter.com/Ca1ne) on using Rust for high-performance game engines at [Embark](https://www.embark-studios.com/), applying lessons learned from working on EA DICE's Frostbite engine; [Yoshua Wuyts](https://twitter.com/yoshuawuyts) on `async-std` and Rust's async ecosystem; and [Stjepan Glavina](https://twitter.com/stjepang) on `crossbeam`, Rust's foundational library for powerful concurrency primitives.
