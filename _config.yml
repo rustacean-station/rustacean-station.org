@@ -4,10 +4,17 @@ email: podcast@rustacean-station.org
 subtitle: "A community project for creating podcast content for the Rust programming language."
 description: "Come journey with us into the weird, wonderful, and wily world of Rust."
 lang: en-us
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
 exclude:
   - 000-template.md
   - vendor
   - audio
+  - transcript_tools
 collections:
   episodes:
     output: true

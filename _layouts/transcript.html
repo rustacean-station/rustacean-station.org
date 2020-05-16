@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="episode full">
+<article class="episode transcript">
 	<h1>{{ page.title }}</h1>
 	{% capture pagefn %}{{ page.path | remove_first: page.collection | remove_first: '_/' }}{% endcapture %}
 	{% for ep in site.episodes %}

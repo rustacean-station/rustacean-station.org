@@ -1,0 +1,41 @@
+Phrase	IPA	SoundsLike	DisplayAs
+one-forty-two			1.42
+one-forty-three			1.43
+one-point-oh			1.0
+abstractions			abstractions
+A.P.I			API
+async		A-sink	async
+await			await
+backtrace		back-trace	backtrace
+ben			Ben
+changelog		change-log	changelog
+clippy		clip-ee	clippy
+closure			closure
+de-sugars		dee-sugars	de-sugars
+deprecated			deprecated
+enum		ee-num	enum
+error			error
+idiomatic			idiomatic
+impl		imp-ull	impl
+impls		imp-ulls	impls
+I.O.			IO
+jon			Jon
+L.L.V.M			llvm
+lints			lints
+macro		mac-row	macro
+macros		mac-rows	macros
+parser			parser
+R.F.C			RFC
+rust			Rust
+rust-backtrace			RUST_BACKTRACE
+rust-up			rustup
+slice			slice
+stable			stable
+str		stir	str
+struct			struct
+syntax			syntax
+Tokyo			tokio
+trait			trait
+typedef		type-def	typedef
+typedefs		type-defs	typedefs
+unwrap			unwrap

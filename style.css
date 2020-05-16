@@ -182,6 +182,10 @@ ul { list-style-type: square; }
 		.episode .body h1, .episode .body h2, .episode .body h3, .episode .body h4 {
 			font-size: 1em;
 		}
+	.episode.transcript .body code {
+		background-color: #f1f1f1;
+		padding: 0.1em 0.2em;
+	}
 
 #wrapper > footer {
        border-top: 1px solid #AAA;
