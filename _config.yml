@@ -8,8 +8,7 @@ lang: en-us
 markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
-    span:
-      disable: true
+    disable: true
 
 exclude:
   - 000-template.md
