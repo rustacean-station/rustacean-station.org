@@ -4,17 +4,24 @@ one-forty-three			1.43
 one-point-oh			1.0
 abstractions			abstractions
 A.P.I			API
+A.P.Is		A-P-eyes	APIs
 async		A-sink	async
 await			await
 backtrace		back-trace	backtrace
 ben			Ben
+blog		blawg	blog
 changelog		change-log	changelog
 clippy		clip-ee	clippy
 closure			closure
+crate			crate
+crates			crates
+crates-dot-I.O.		crates-dot-eye-oh	crates.io
 de-sugars		dee-sugars	de-sugars
 deprecated			deprecated
 enum		ee-num	enum
 error			error
+foo		fu	foo
+github		git-hub	GitHub
 idiomatic			idiomatic
 impl		imp-ull	impl
 impls		imp-ulls	impls
@@ -22,6 +29,8 @@ I.O.			IO
 jon			Jon
 L.L.V.M			llvm
 lints			lints
+linux		lin-ucks	Linux
+linux		lee-nooks	Linux
 macro		mac-row	macro
 macros		mac-rows	macros
 parser			parser
@@ -29,13 +38,16 @@ R.F.C			RFC
 rust			Rust
 rust-backtrace			RUST_BACKTRACE
 rust-up			rustup
+rustacean		rus-tay-shun	rustacean
 slice			slice
 stable			stable
 str		stir	str
 struct			struct
 syntax			syntax
+toe			to
 Tokyo			tokio
 trait			trait
 typedef		type-def	typedef
 typedefs		type-defs	typedefs
 unwrap			unwrap
+wasm		wah-zum	wasm
