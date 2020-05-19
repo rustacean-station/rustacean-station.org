@@ -8,7 +8,7 @@ on:
     types: [opened, synchronize]
 
 jobs:
-  build:
+  episode:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
@@ -36,6 +36,10 @@ jobs:
             exit 1
           fi
         done
+  transcript:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
     - name: Transcripts match episodes
       run: |
         for transcript in _transcripts/*.md; do
@@ -59,6 +63,10 @@ jobs:
             exit 1
           fi
         done
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
     - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.x'
