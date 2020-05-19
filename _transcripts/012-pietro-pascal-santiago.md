@@ -86,8 +86,8 @@ industry, but it definitely applies to open source developers, even including,
 especially, Rust developers, who work themselves very hard.
 
 __Pietro__: I mean, like, one another point of the edition was also, not just to
-have a way to make breaking changes, but also to be a sort of (_unintelligible—
-5:13_) point where we can sort of celebrate all the features that we introduced
+have a way to make breaking changes, but also to be a sort of rallying
+point where we can sort of celebrate all the features that we introduced
 since the previous edition. And more for a marketing point of view, and like,
 then I think— I personally think those are still really useful things. Like, all
 of these is just my personal opinion. It's not something that the whole team
