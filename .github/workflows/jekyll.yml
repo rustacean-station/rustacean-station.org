@@ -2,7 +2,8 @@ name: Jekyll site CI
 
 on:
   push:
-    branch: master
+    branches:
+      - master
   pull_request:
     types: [opened, synchronize]
 
@@ -14,7 +15,7 @@ jobs:
     - uses: actions/setup-python@v1
       with:
         python-version: '2.x'
-    - name: Check dates
+    - name: Dates are valid
       run: |
         pip install pytz ciso8601
         for episode in _episodes/*.md; do
@@ -24,7 +25,7 @@ jobs:
             exit 1
           fi
         done
-    - name: Check file sizes
+    - name: File size specifications are correct
       run: |
         for episode in _episodes/*.md; do
           length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
@@ -32,6 +33,29 @@ jobs:
           size=$(curl --head -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
           if [ $size -ne $length ]; then
             echo "$(basename "$episode"): ${length}b (reported) != ${size}b (actual)"
+            exit 1
+          fi
+        done
+    - name: Transcripts match episodes
+      run: |
+        for transcript in _transcripts/*.md; do
+          episode="_episodes/$(basename "$transcript")"
+          if [[ ! -e $episode ]]; then
+            echo "$(basename "$transcript"): no matching episode"
+            exit 1
+          fi
+
+          title=$(grep -E "^title:" "$transcript")
+          file=$(grep -E "^file:" "$transcript")
+          if [[ -z $title || -z $file ]]; then
+            echo "$transcript: missing front matter"
+            exit 1
+          fi
+
+          etitle=$(grep -E "^title:" "$episode")
+          efile=$(grep -E "^file:" "$episode")
+          if [[ $title != $etitle || $file != $efile ]]; then
+            echo "$transcript: front matter does not match episode front matter"
             exit 1
           fi
         done
