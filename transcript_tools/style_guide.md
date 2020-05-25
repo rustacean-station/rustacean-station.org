@@ -64,10 +64,10 @@ right verb tense), by all means use the correct one by default.
 
 ## Hyperlinks
 
-So far the transcripts have not contained many hyperlinks.  This hasn't been
-discussed among contributors yet.
-
-What do you think the link policy should be?
+Links should generally be avoided, and instead inserted into the show notes if
+they are missing from there. The exception might be if it is not at all clear
+from the sentence what is going on (such as if the name of a feature is given
+incorrectly).
 
 ## When to use `code` tags
 
@@ -88,7 +88,8 @@ spelling out Rust syntax character by character. I.e. if the speaker says
 When a macro is put in a `code` tag, add the exclamation point, e.g. `println!`
 
 Use `code` when a crate is being named, e.g. `serde`.  If the crate name has a
-dash, then it's probably wise to use the dashed name when referring to the crate
+dash (as displayed on crates.io),
+then it's probably wise to use the dashed name when referring to the crate
 (e.g. `num-traits`) but the underscored name when referring to it in Rust code,
 e.g. `num_traits::clamp`.
 
