@@ -15,6 +15,7 @@ exclude:
   - vendor
   - audio
   - transcript_tools
+  - transcript_style_guide.md
 collections:
   episodes:
     output: true
