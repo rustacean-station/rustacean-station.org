@@ -7,7 +7,7 @@ __Ben Striegel__: Howdy, folks. You're listening to Rustacean Station. Today's
 episode is hosted by one of our volunteers. That's kind of what this whole
 project is about, this crowd-sourced podcast of ours. And if you would like to
 be a host or help out in any other way, please get in touch with us at our
-Twitter, our Discord, our email. You can find these at rustaceanstation.org.
+Twitter, our Discord, our email. You can find these at rustacean-station.org.
 Enjoy the show.
 
 __Jeremy Jung__: Hey, this is Jeremy Jung. On this episode of Software Sessions,
