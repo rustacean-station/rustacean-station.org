@@ -17,6 +17,7 @@ It can perform the following "fixups":
 
 import argparse
 from itertools import islice
+import os
 import re
 import string
 from textwrap import wrap
@@ -61,7 +62,6 @@ def front_matter_check(txt):
         if not re.match('title: ".*"$', lines[1]):
             result.append('Missing or malformed "title" line in front matter')
         if not re.match(r'file: http\S+$', lines[2]):
-            print('XXX', lines[2])
             result.append('Missing or malformed "file" line in front matter')
         if lines[3] != '---':
             result.append('Front matter missing trailing "---"')
@@ -193,6 +193,18 @@ def style_names(txt):
         result += line + '\n'
     return front_matter + result
 
+def write_and_rename(txt, target_filename):
+    """ write into a temporary file, and then move it to the final location
+
+    This write-and-move strategy helps avoid problems if we crash or are
+    halted halfway through the write.  Writing to the same target directory
+    makes the move atomic on most systems (because we'll be in the same
+    filesystem).
+    """
+    tmp_name = target_filename + '.tmp'
+    with open(tmp_name, 'w') as f:
+        f.write(txt)
+    os.replace(tmp_name, target_filename)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -218,4 +230,4 @@ if __name__ == '__main__':
             txt = emdashify(txt)
         if args.reflow:
             txt = reflow(txt)
-        print(txt, end='')
+        write_and_rename(txt, args.file)
