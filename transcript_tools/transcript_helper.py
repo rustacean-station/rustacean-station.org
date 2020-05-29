@@ -174,7 +174,7 @@ def style_names(txt):
     """ replace 'Name: ' with '__Name__: ' """
 
     # match "Name: ", "Name Name: ", or "Name Name Name: "
-    name_finder = re.compile(r'(\w+(?: \w+){0,2}): (.*)')
+    name_finder = re.compile(r'([\w\-]+(?: [\w\-]+){0,2}): (.*)')
 
     # Remove the front matter before any processing.
     front_matter, txt = split_front_matter(txt)
