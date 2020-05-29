@@ -186,6 +186,15 @@ ul { list-style-type: square; }
 		background-color: #f1f1f1;
 		padding: 0.1em 0.2em;
 	}
+	.episode.transcript .body h4 {
+		margin-top: 3em;
+		font-size: 1em;
+		text-align: center;
+	}
+	.episode.transcript > .detail {
+		margin-bottom: 2em;
+	}
+
 
 #wrapper > footer {
        border-top: 1px solid #AAA;
