@@ -3,6 +3,11 @@ title: "RustFest Interviews Triple Feature: Rust Release Engineering; Developing
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e012-rustfest-pietro-pascal-santiago.mp3
 ---
 
+* placeholder to generate bulleted TOC
+{:toc}
+
+#### Pietro Albini on Rust Release Engineering
+
 __Ben Striegel__: Welcome to Rustacean Station, here at Rust 2019 from
 Barcelona. I am here with Pietro Albini.
 
@@ -316,6 +321,8 @@ __Ben__: Awesome. Great. Thanks so much for talking to us.
 __Pietro__: Thank you for asking.
 
 (Musical break)
+
+#### Pascal Hertleif on Developing the Developer Tools
 
 __Ben__: Welcome to the Rustacean Station Podcast. I am Ben Striegel, live at
 RustFest. I am here right now, in our improvised studio, with Pascal Hertleif.
@@ -635,6 +642,8 @@ __Ben__: See you around.
 __Pascal__: See you.
 
 (Musical break)
+
+#### Santiago Pastorino on Rust in Latin America
 
 __Ben__: Okay. Welcome to Rustacean Station. It is day four of RustFest. We get
 to have our improvised studio here, so please bear with us with any audio
