@@ -3,6 +3,11 @@ title: "Double Feature: Jan-Erik Rediger on RustFest & Lucio Franco on the Tonic
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e009-rustfest-jan-erik-rediger.mp3
 ---
 
+* placeholder to generate bulleted TOC
+{:toc}
+
+#### Jan-Erik Rediger on RustFest
+
 __Ben Striegel__: Welcome to Rustacean Station podcast. I'm here with a micro-
 interview from RustFest. We're here in a cafeteria, using borrowed audio
 equipment. So I apologize for the audio quality. You might hear people walking
@@ -220,6 +225,8 @@ __Ben__: All right. Well, thanks a lot, Jan-Erik.
 __Jan-Erik__: Thank you.
 
 (Musical break)
+
+#### Lucio Franco on the Tonic gRPC framework
 
 __Ben__: Welcome to Rustacean Station, live in a sense, from RustFest. Everyone
 just says live. I can't just not say live. I've always wanted to do that. So I
