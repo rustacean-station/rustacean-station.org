@@ -3,6 +3,11 @@ title: "RustFest Interviews Triple Feature: Rust for AAA Game Development; Async
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e011-rustfest-jake-yoshua-stjepan.mp3
 ---
 
+* placeholder to generate bulleted TOC
+{:toc}
+
+#### Jake Shadle on Rust for AAA Game Development
+
 __Ben Striegel__: Welcome to the Rustacean Station podcast. I'm here live at
 RustFest. I will continue to misuse the word "live" until someone stops me. I am
 here with Jake— I didn't get the last name, Jake.
@@ -257,6 +262,8 @@ __Jake__: Yeah, thanks.
 __Ben__: Awesome.
 
 (Musical break)
+
+#### Yoshua Wuyts on Async Foundations with `async-std`
 
 __Ben__: Welcome to Rustacean Station. I'm Ben Striegel here, live at RustFest.
 No one has yet stopped me from using the word "live" on these clearly-
@@ -729,6 +736,8 @@ __Yoshua__: Yeah. Thanks for having me.
 __Ben__: Great. See you around.
 
 (Musical break)
+
+#### Stjepan Glavina on Powerful Concurrency Primitives with `crossbeam`
 
 __Ben__: Welcome to the Rustacean Station podcast. I am Ben Striegel, not live
 from Rust Fest because you aren't here right now, unless you're hiding behind
