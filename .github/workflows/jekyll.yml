@@ -36,6 +36,17 @@ jobs:
             exit 1
           fi
         done
+    - name: No duplicate URLs
+      run: |
+        for episode in _episodes/*.md; do
+          file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
+          n=$(grep -F "$file" -l _episodes/*.md | wc -l)
+          if [[ $n -gt 1 ]]; then
+            echo "$(basename "$episode"): shares file with other episodes:"
+            grep -F "$file" -l _episodes/*.md | grep -vF "$episode"
+            exit 1
+          fi
+        done
   transcript:
     runs-on: ubuntu-latest
     steps:
