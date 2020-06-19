@@ -77,7 +77,7 @@ which is essentially, just like something working on the syntax tree of the
 language, and like, the so-called constant folding. So it folds syntax
 components to get— so if it sees, like, "2 + 2", it knows, okay, there's an
 integer, there's an integer, and there's a plus, I can figure out that this is
-4. It is very simple and is also very limited, because once you get into, like,
+4\. It is very simple and is also very limited, because once you get into, like,
 loops and local variables, it gets like, how do you even do that? It's like, we
 never implemented it because it's very hard.
 
