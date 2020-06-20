@@ -85,7 +85,7 @@ And so with with the advent of MIR there was a new opportunity for the tool now
 known as Miri, which is MIR interpreter. So M-I-R-I, the I stands for
 interpreter. Meaning, we are interpreting the MIR, sort of like a virtual
 machine runs bytecode, but our bytecode is MIR. And MIR is different from the
-usual syntax structure, (_unintelligible— 5:04_), display how your source code
+usual syntax structure that, like, display how your source code
 looks, because there is no connection to the syntactical version anymore. It is
 basically how later compiler stages like optimizers and so on process this data,
 so you don't have things like loops anymore. It's basically just all full of
@@ -299,7 +299,7 @@ be fine. So you should be running your your tests inside Miri. Especially if the
 source code that is employed has unsafe code.
 
 __Ben__: And how you would do that is, you would use this rustup component which
-you mentioned before. How would you (_unintelligible— 17:20_) "rustup install
+you mentioned before. How would you... "rustup install
 miri" and then what?
 
 __Oli__: `rustup component add miri`.
@@ -399,7 +399,7 @@ running the const evaluator on normal runtime functions and, like, letting it go
 as far as it can.
 
 __Ben__: In terms of getting more people to help you work on Miri, have you
-been, like, onboarding people, or doing (_unintelligible— 23:00_) sponsorship of
+been, like, onboarding people, or doing any, kind of like, sponsorship of
 people who want to tackle easy issues, or learn more about this kind of stuff?
 
 __Oli__: So I'm mentoring a lot of issues about— both in the compiler and Miri,
