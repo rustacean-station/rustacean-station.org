@@ -77,6 +77,8 @@ search/replace isn't a good idea, because a speaker may talk about a result and
 a `Result` in the same paragraph— only use `code` when it's referring to the
 specific Rust element.
 
+Also use `code` style for Rust numeric types like `u8`, `u32`, `f64`, etc.
+
 It's fine (and usually helps readability) to translate certain things to Rust
 syntax. For example, if someone says "vec of reference to str", it's OK to write
 `Vec<&str>`, as long as it's clear that's what they meant.
@@ -109,6 +111,25 @@ command, etc., for example `git init .` to refer to the current directory.
 
 Sometimes it's not obvious which is correct; just do whatever seems best to
 balance usefulness and readability.
+
+## Table of Contents
+
+If an episode contains different major sections (e.g. separate interviews with
+different people), and you'd like a table of contents to link to the different
+parts of the episode transcript, give each section an h4 title, using the
+markdown syntax:
+```
+#### An Interview With Some Person
+
+#### Another Interview With Someone Else
+```
+
+The actual table of contents will be automatically generated.  Just place this
+at the top of the file:
+```
+* placeholder to generate bulleted TOC
+{:toc}
+```
 
 ## Music or other sounds
 
