@@ -1,7 +1,7 @@
 ---
 title: "RustFest 2019 Interview Series: Burnout in Open Source Software; The Rust Roadmap"
 date: 2020-07-30T22:00:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e014-rustfest-catharina-florian.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e025-rustfest-katharina-florian.mp3
 duration: "49:03"
 length: "35318701"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
