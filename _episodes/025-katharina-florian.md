@@ -39,14 +39,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 #### [@19:50] Part 2: The Rust Roadmap w/ Florian Gilcher
 
-<!--
-In this section, leave timestamped notes of the form:
-
- - [@HH:MM:SS] - Topic at first timestamp
- - [@HH:MM:SS] - Topic at second timestamp
-     - A link to additional material discussed during the preceding topic
-
--->
+ - [Rust 2019 roadmap](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+ - [Rust 2020 roadmap](https://github.com/rust-lang/rfcs/blob/master/text/2857-roadmap-2020.md)
 
 ### Credits
 
