@@ -1,6 +1,6 @@
 ---
 title: "RustFest 2019 Interview Series: Burnout in Open Source Software; The Rust Roadmap"
-date: 2015-07-30T22:00:00Z
+date: 2020-08-04T00:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e025-rustfest-katharina-florian.mp3
 duration: "49:03"
 length: "35318701"
