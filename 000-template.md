@@ -1,9 +1,9 @@
 ---
 title: (fill me in with the episode's title)
-date: (fill me in with today's date in RFC 3339 format, e.g. 2015-05-15T16:00:00+00:00)
+date: (fill me in with today's date in RFC 3339 format, e.g. 2015-05-15T16:00:00Z, this is NOT a string)
 file: https://audio.rustacean-station.org/file/rustacean-station/(fill me in with the episode mp3 filename)
-duration: (fill in with audio length, HH:MM:SS, e.g. "43:21")
-length: (fill in with audio size in bytes, e.g. "12345678")
+duration: (fill in with audio length, "HH:MM:SS", e.g. "43:21")
+length: (fill in with audio size in bytes, e.g. "12345678", this is a string)
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
