@@ -1,8 +1,9 @@
 ---
 title: "RedisJson" 
-date: 2020-08-28T17:00:00+00:00file: 
+date: 2020-08-28T17:00:00+00:00
+file: 
 duration: "00:49:45"
-length: "49253138"
+length: "40940784"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 
 ---
