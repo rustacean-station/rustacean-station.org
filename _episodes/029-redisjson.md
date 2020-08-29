@@ -1,7 +1,7 @@
 ---
 title: "RedisJson" 
 date: 2020-08-28T17:00:00+00:00
-file: 
+file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e029-redisjson.mp3
 duration: "00:49:45"
 length: "40940784"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
