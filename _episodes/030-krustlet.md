@@ -2,8 +2,8 @@
 title: "WebAssembly on the Server with Krustlet" 
 date: 2020-09-22T00:50:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e030-krustlet.mp3
-duration: "01:02:55"
-length: "59139822"
+duration: "01:03:02"
+length: "59390302"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 
 ---
