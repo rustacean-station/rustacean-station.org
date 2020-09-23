@@ -8,7 +8,7 @@ length: "59139822"
 
 ---
 
-Taylor Thomas explains how Krustlet runs WebAssembly modules in Kubernetes and why it's a promising option for the future of server side applications.
+[Taylor Thomas](https://twitter.com/_oftaylor) explains how Krustlet runs WebAssembly modules in Kubernetes and why it's a promising option for the future of server side applications.
 
 ### Contributing to Rustacean Station
 
