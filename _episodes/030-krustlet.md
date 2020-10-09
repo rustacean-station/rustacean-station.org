@@ -1,5 +1,5 @@
 ---
-title: "WebAssembly on the Server with Krustlet" 
+title: "WebAssembly on the Server with Krustlet"
 date: 2020-09-22T00:50:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e030-krustlet.mp3
 duration: "01:03:02"
