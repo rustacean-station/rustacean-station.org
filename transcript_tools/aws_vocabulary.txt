@@ -13,6 +13,7 @@ blog		blawg	blog
 changelog		change-log	changelog
 clippy		clip-ee	clippy
 closure			closure
+colonel			kernel
 crate			crate
 crates			crates
 crates-dot-I.O.		crates-dot-eye-oh	crates.io
@@ -51,3 +52,4 @@ typedef		type-def	typedef
 typedefs		type-defs	typedefs
 unwrap			unwrap
 wasm		wah-zum	wasm
+web-assembly			WebAssembly
