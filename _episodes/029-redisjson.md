@@ -1,5 +1,5 @@
 ---
-title: "RedisJSON" 
+title: "RedisJSON"
 date: 2020-08-29T00:50:00+00:00
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e029-redisjson.mp3
 duration: "00:49:45"
