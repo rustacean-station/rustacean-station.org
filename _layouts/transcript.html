@@ -2,17 +2,10 @@
 layout: default
 ---
 
+{%- include util.html -%}
 <article class="episode full transcript">
-	<h1>{{ page.title }}</h1>
-	{% capture pagefn %}{{ page.path | remove_first: page.collection | remove_first: '_/' }}{% endcapture %}
-	{% for ep in site.episodes %}
-	{% capture epfn %}{{ ep.path | remove_first: ep.collection | remove_first: '_/' }}{% endcapture %}
-	{% if epfn == pagefn %}
-	  <span class="detail"><a href="{{ ep.url }}">Episode Page with Show Notes</a></span>
-	  {% break %}
-	{% endif %}
-	{% endfor %}
-
+	<h1>{{ episode.title }}</h1>
+	<span class="detail"><a href="{{ episode.url }}">Episode Page with Show Notes</a></span>
 	<div class="body">
 	{{ content }}
 	</div>
