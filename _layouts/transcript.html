@@ -8,7 +8,7 @@ layout: default
 	{% for ep in site.episodes %}
 	{% capture epfn %}{{ ep.path | remove_first: ep.collection | remove_first: '_/' }}{% endcapture %}
 	{% if epfn == pagefn %}
-	  <span class="detail"><a href="{{ ep.url }}">Back to Episode Page</a></span>
+	  <span class="detail"><a href="{{ ep.url }}">Episode Page with Show Notes</a></span>
 	  {% break %}
 	{% endif %}
 	{% endfor %}
