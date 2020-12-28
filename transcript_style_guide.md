@@ -65,9 +65,22 @@ right verb tense), by all means use the correct one by default.
 ## Hyperlinks
 
 Links should generally be avoided, and instead inserted into the show notes if
-they are missing from there. The exception might be if it is not at all clear
-from the sentence what is going on (such as if the name of a feature is given
-incorrectly).
+they are missing from there.  One exception is if someone says, "we'll leave a
+link to that in the show notes," link to the show notes as follows:
+
+1. Ensure that at the top of the page, the following exists (it will compute
+   the right link URL from the front matter):
+
+       {%- include util.html -%}
+       [episode]: {{episode.url}}
+
+2. Add the hyperlink like this:
+
+        We'll link that in the [show notes][episode] so you can find it.
+
+Another exception to the avoid-links guideline might be if it is not at all
+clear from the sentence what is going on (such as if the name of a feature is
+given incorrectly).
 
 ## When to use `code` tags
 
