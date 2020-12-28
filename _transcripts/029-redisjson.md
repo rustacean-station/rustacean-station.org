@@ -1,7 +1,9 @@
 ---
-title: "RedisJSON"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e029-redisjson.mp3
+episode: _episodes/029-redisjson.md
 ---
+
+{%- include util.html -%}
+[episode]: {{episode.url}}
 
 __Jeremy Webb__: Okay. Welcome to the Rustacean Station. My name is Jeremy, and
 I'm one of the editors and other hosts on the Rustacean Station here. Today, I'm
@@ -724,7 +726,7 @@ world, but we can be more realistic, as supposed to less idealistic when it
 comes to that, I think, given the state of things. Great, so I want to be
 respectful of your time, obviously, and we're probably running up against it
 here, but I will throw a link to your podcast, and your FOSDEM talk, and GitHub,
-as mentioned earlier, in our show notes and things like that. But before we wrap
+as mentioned earlier, in our [show notes][episode] and things like that. But before we wrap
 up specifically talking about Rust, I want to ask you two purely opinion
 questions which are: What's your Linux distro of choice? And what editor do you
 use when you're working in the best programming language in the universe, Rust?
@@ -797,7 +799,7 @@ yesterday, of season number one. So we have been around for the last four
 months, I think. But I think we have now a steady listenership of at least 5.5
 people, if not 6.
 
-__Jeremy__: Okay. I'll put a link to that in the show notes as well.
+__Jeremy__: Okay. I'll put a link to that in the [show notes][episode] as well.
 
 __Christoph__: Hopefully, this plug changes this in a better way. It's
 [linuxinlaws.eu](https://linuxinlaws.eu/).

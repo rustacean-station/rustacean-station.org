@@ -1,6 +1,5 @@
 ---
-title: "Double Feature: Jan-Erik Rediger on RustFest & Lucio Franco on the Tonic gRPC framework"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e009-rustfest-jan-erik-rediger.mp3
+episode: _episodes/009-jan-lucio.md
 ---
 
 * placeholder to generate bulleted TOC

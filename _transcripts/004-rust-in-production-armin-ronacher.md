@@ -1,6 +1,5 @@
 ---
-title: "Rust in Production: An Interview with Armin Ronacher"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e004-rust-in-production-armin-ronacher.mp3
+episode: _episodes/004-rust-in-production-armin-ronacher.md
 ---
 
 __Ben Striegel__: Howdy, folks. You're listening to Rustacean Station. Today's

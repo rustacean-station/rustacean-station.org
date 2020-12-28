@@ -1,6 +1,5 @@
 ---
-title: "Compile-Time Evaluation, Interpreted Rust, and UB Sanitizing: Talking to Oliver Scherer about Miri"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e008-miri-oli-obk.mp3
+episode: _episodes/008-oli-miri.md
 ---
 
 __Ben Striegel__: All right, let me improvise an intro. Welcome to Rustacean

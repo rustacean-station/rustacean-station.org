@@ -1,7 +1,9 @@
 ---
-title: "WebAssembly on the Server with Krustlet"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e030-krustlet.mp3
+episode: _episodes/030-krustlet.md
 ---
+
+{%- include util.html -%}
+[episode]: {{episode.url}}
 
 __Jeremy Jung__: Hey, this is Jeremy Jung. This episode I'm talking to Taylor
 Thomas about running WebAssembly on the server with Rust. He's an engineer on
@@ -410,7 +412,7 @@ that it could be done like that. Plus, you add on all the safety and security
 and correctness features inside of Rust, and it really helps us out.
 
 So we wrote several blog posts about that, that I can probably send around or
-link around if you send out show notes. But the main idea is that— it has
+link around if you send out [show notes][episode]. But the main idea is that— it has
 prevented us from shooting ourselves in the foot. Go has really easy concurrency
 things. Sometimes that's one of the things that I most miss about using Go for
 some of this, is if I want to do concurrency work, it's quite simple to set up.
@@ -942,14 +944,14 @@ amalgamation of all of this, but you could look at the
 check that.
 
 __Jeremy__: And we can probably get the Krustlet-specific posts and then put
-those in the show notes as well.
+those in the [show notes][episode] as well.
 
 __Taylor__: Yeah, I can send those. But it's
 [`deislabs.io/posts`](https://deislabs.io/posts/). That's posts for all of our
 projects, but you'll see some, at least three blog posts there about Krustlet.
 One was around our stack and heap allocation problems that we had, and some
 lessons learned there. So those were some other places you can go. We have some
-other posts that hopefully we can send in the show notes that kind of give an
+other posts that hopefully we can send in the [show notes][episode] that kind of give an
 overview of the different things, like the reasoning behind this. If you're more
 interested, that's from a high level, like a business perspective. We have a
 post for that. We have some other things about the security things we got from
