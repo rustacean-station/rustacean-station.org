@@ -1,6 +1,5 @@
 ---
-title: "RustFest Interviews Triple Feature: Rust Release Engineering; Developing the Developer Tools; Rust in Latin America"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e012-rustfest-pietro-pascal-santiago.mp3
+episode: _episodes/012-pietro-pascal-santiago.md
 ---
 
 * placeholder to generate bulleted TOC

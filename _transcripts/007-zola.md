@@ -1,7 +1,9 @@
 ---
-title: "Creating Static Sites in Rust with Vincent Prouillet"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e007-zola-vincent-prouillet.mp3
+episode: _episodes/007-zola.md
 ---
+
+{%- include util.html -%}
+[episode]: {{episode.url}}
 
 __Ben Striegel__: Howdy, folks. You're listening to Rustacean Station. Today's
 episode is hosted by one of our volunteers. That's kind of what this whole
@@ -750,7 +752,7 @@ the issues. If you get confused with some documentation. Don't hesitate to do
 pull requests, that's always helpful. Anything can help basically.
 
 __Jeremy__: Cool we'll be sure to get the links to the forum and to Zola and
-your other projects as well into the show notes.
+your other projects as well into the [show notes][episode].
 
 Finally to wrap up, is there anything else that you'd like to mention or think
 that we should have talked about?
@@ -774,7 +776,7 @@ issue tracker. I don't really use any social network. I have a twitter account
 but it's fairly silent, I'd say. I don't really look at it very often. I think
 The best way would be GitHub issues, probably.
 
-__Jeremy__: And, as we mentioned before, we'll get a link to that in the notes.
+__Jeremy__: And, as we mentioned before, we'll get a link to that in the [notes][episode].
 
 __Vincent__: Okay, perfect.
 

@@ -1,6 +1,5 @@
 ---
-title: "RustFest Interviews Triple Feature: Rust for AAA Game Development; Async Foundations with `async-std`; and Powerful Concurrency Primitives with `crossbeam`"
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e011-rustfest-jake-yoshua-stjepan.mp3
+episode: _episodes/011-jake-yoshua-stjepan.md
 ---
 
 * placeholder to generate bulleted TOC

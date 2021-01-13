@@ -1,0 +1,5 @@
+{%- if page.episode != nil -%}
+{%- assign episode = site.episodes | where:"path",page.episode | first -%}
+{%- else -%}
+{%- assign episode = page -%}
+{%- endif -%}

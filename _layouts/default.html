@@ -25,11 +25,12 @@
 			/>
 		</a>
 		</h1>
-		{% if page.file %}
+		{%- include util.html -%}
+		{%- if episode.file -%}
 		<div id="player">
-		<audio src="https://dts.podtrac.com/redirect.mp3/{{ page.file | replace_first: "https://", "" }}" controls></audio>
+		<audio src="https://dts.podtrac.com/redirect.mp3/{{ episode.file | replace_first: "https://", "" }}" controls></audio>
 		</div>
-		{% endif %}
+		{%- endif -%}
 		<div id="wrapper">
 			{{ content }}
 			<footer>

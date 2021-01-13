@@ -63,20 +63,6 @@ jobs:
             echo "$(basename "$transcript"): no matching episode"
             exit 1
           fi
-
-          title=$(grep -E "^title:" "$transcript")
-          file=$(grep -E "^file:" "$transcript")
-          if [[ -z $title || -z $file ]]; then
-            echo "$transcript: missing front matter"
-            exit 1
-          fi
-
-          etitle=$(grep -E "^title:" "$episode")
-          efile=$(grep -E "^file:" "$episode")
-          if [[ $title != $etitle || $file != $efile ]]; then
-            echo "$transcript: front matter does not match episode front matter"
-            exit 1
-          fi
         done
   feed:
     runs-on: ubuntu-latest

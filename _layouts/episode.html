@@ -5,17 +5,14 @@ layout: default
 <article class="episode full">
 	<h1>{{ page.title }}</h1>
 	<span class="detail">Posted {{ page.date | date_to_rfc822 }}</span>
-	{% if page.reddit %}
+	{%- if page.reddit -%}
 	<span class="detail"><a href="{{ page.reddit }}">Discussion on Reddit</a></span>
-	{% endif %}
-	{% capture pagefn %}{{ page.path | remove_first: page.collection | remove_first: '_/' }}{% endcapture %}
-	{% for trans in site.transcripts %}
-	{% capture transfn %}{{ trans.path | remove_first: trans.collection | remove_first: '_/' }}{% endcapture %}
-	{% if transfn == pagefn %}
-	  <span class="detail"><a href="{{ trans.url }}">Episode Transcript</a></span>
-	  {% break %}
-	{% endif %}
-	{% endfor %}
+	{%- endif -%}
+
+	{%- assign transcript = site.transcripts | where:"episode",page.path | first -%}
+	{%- if transcript -%}
+	  <span class="detail"><a href="{{ transcript.url }}">Episode Transcript</a></span>
+	{%- endif -%}
 
 	<div class="body">
 	{{ content }}
