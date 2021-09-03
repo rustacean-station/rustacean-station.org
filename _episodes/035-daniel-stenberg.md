@@ -1,6 +1,6 @@
 ---
 title: "Rust in cURL"
-date: 2021-09-03T10:00:00Z
+date: 2021-09-03T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e035-daniel-stenberg.mp3
 duration: "55:25"
 length: "53290745"
