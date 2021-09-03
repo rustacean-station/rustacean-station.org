@@ -41,7 +41,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@07:44] - Implementing Protocol
 - [@09:25] - HTTP/3
 - [@13:30] - Architecture of cURL & libcurl
-- [@17:40] - Hybird library 
+- [@17:40] - cURL as a hybrid library 
 - [@19:40] - Replacing C with Rust
 - [@34:00] - Experience of using Rust
 - [@35:40] - async/.await in rust
