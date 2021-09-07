@@ -8,7 +8,7 @@ length: "65103280"
 ---
 #  From Zero to Production  
 
-Allen Wyma talks with Luke Palmieri, a principal engineer, also the book author of ["Zero To Production in Rust"](https://www.zero2prod.com/index.html)
+Allen Wyma talks with Luke Palmieri, a principal engineer at [TrueLayer](https://truelayer.com/), also the book author of ["Zero To Production in Rust"](https://www.zero2prod.com/index.html).
 
 ## Contributing to Rustacean Station
 
@@ -19,26 +19,22 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Github: [@rustacean-station](https://github.com/rustacean-station/)
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
-## Highlights
-
-- "Zero To Production In Rust" is an introduction of backend development in Rust. 
-
-## Resources 
-- [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
-- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/08_ecosystem/00_chapter.html)
-- [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
-- [Rust in Action](https://www.manning.com/books/rust-in-action)
-
 ## Timestamps 
-- [@02:30] - Inspiration
-- [@13:20] - Reason of using Rust 
-- [@16:50] - [Actix Web](https://github.com/actix/actix-web)
-- [@32:21] - Challenges in using Rust 
-- [@36:30] - [krustlet](https://krustlet.dev/)
-- [@46:35] - Process of writing the book 
-- [@54:50] - Rewriting in Rust edition 2021?
-- [@57:40] - Rust's Community 
-- [@1:01:34] - Tips for Beginner 
+- [@02:30] - Book ideas
+- [@13:20] - Reasons for using Rust in production
+- [@10:34] - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/08_ecosystem/00_chapter.html)
+- [@16:45] - [Actix Web](https://github.com/actix/actix-web)
+- [@32:21] - Challenges in using Rust as backend language 
+- [@36:30] - What is [krustlet](https://krustlet.dev/)?
+- [@46:35] - How is the process of writing the book 
+- [@54:50] - [Rust edition 2021](https://doc.rust-lang.org/edition-guide/rust-2021/index.html)
+- [@57:40] - Rust's community
+- [@59:37] - [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+- [@1:00:26] - [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [@1:01:34] - Tips for beginners
+
+## Other Resources 
+- [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 ### Credits
 
