@@ -8,7 +8,7 @@ length: "65103280"
 ---
 #  From Zero to Production  
 
-Allen Wyma talks with Luke Palmieri, a principal engineer at [TrueLayer](https://truelayer.com/), also the book author of ["Zero To Production in Rust"](https://www.zero2prod.com/index.html).
+Allen Wyma talks with Luke Palmieri, a principal engineer at [TrueLayer](https://truelayer.com/), about his book called ["Zero To Production in Rust"](https://www.zero2prod.com/index.html).
 
 ## Contributing to Rustacean Station
 
