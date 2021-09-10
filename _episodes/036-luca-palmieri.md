@@ -6,8 +6,6 @@ duration: "1:07:42"
 length: "65103280"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-#  From Zero to Production with Luca Palmieri  
-
 Allen Wyma talks with Luke Palmieri, a principal engineer at [TrueLayer](https://truelayer.com/), about his book called ["Zero To Production in Rust"](https://www.zero2prod.com/index.html).
 
 ## Contributing to Rustacean Station
