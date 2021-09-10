@@ -6,8 +6,6 @@ duration: "55:25"
 length: "53290745"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-#  Rust in cURL  
-
 First time guest host, Allen Wyma talks with Daniel, the original author of cURL, about using Rust in cURL.
 
 - [cURL](https://curl.se/) is a command line tool and library for transferring data with URLs.
