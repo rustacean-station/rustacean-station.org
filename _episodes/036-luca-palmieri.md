@@ -6,7 +6,7 @@ duration: "1:07:42"
 length: "65103280"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with Luca Palmieri, a principal engineer at [TrueLayer](https://truelayer.com/), about his book called ["Zero To Production in Rust"](https://www.zero2prod.com/).
+Allen Wyma talks with [Luca Palmieri](https://twitter.com/algo_luca), a principal engineer at [TrueLayer](https://truelayer.com/), about his book called ["Zero To Production in Rust"](https://www.zero2prod.com/).
 
 ## Contributing to Rustacean Station
 
@@ -31,7 +31,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@1:00:26] - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [@1:01:34] - Tips for beginners
 
-## Other Resources 
+## Other Resources
+- [Luca's blog](https://lpalmieri.com)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 ### Credits
