@@ -1,6 +1,6 @@
 ---
 title: "Rust Code Coverage with Daniel McKenna"
-date: 2021-09-17T15:30:00Z
+date: 2021-09-18T23:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e037-daniel-mckenna.mp3
 duration: "0:55:49"
 length: "53865895"
