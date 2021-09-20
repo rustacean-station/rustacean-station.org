@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@15:47] - [Probe-rs](https://github.com/probe-rs/probe-rs)
 - [@22:42] - [Tarpaulin Crater (tater)](https://github.com/xd009642/tater)
 - [@23:34] - [Tarpaulin-viewer](https://github.com/xd009642/tarpaulin-viewer)
-- [@27:51] - [Imgy](https://github.com/imgy-image)
+- [@27:51] - [ImGui](https://github.com/imgui-rs/imgui-rs)
 - [@31:00] - [Ndarray](https://github.com/rust-ndarray/ndarray)
 - [@32:09] - Is rust a competitor of Julia and Python in terms of machine learning?
 - [@36:10] - When did Daniel get into programming? 
@@ -37,6 +37,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ## Other Resources
 - [Writing a Debugger](http://system.joekain.com/debugger/)
 - [Writing a Linux Debugger Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+- [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 
 ### Credits
 
