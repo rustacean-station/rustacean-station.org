@@ -28,7 +28,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@30:03] - [Chapter on memory in Rust](https://nostarch.com/download/samples/RustforRustaceans_Ch2new.pdf)
 - [@41:21] - Does Rust prevent bugs?
 - [@58:20] - The Linux kernel and memory allocation failures
-- [@1:05:43] - Feature Flags 
+- [@1:05:43] - Feature flag discoverability
 - [@1:10:14] - Tips for beginners 
 
 ## Other Resources 
