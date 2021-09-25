@@ -23,7 +23,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@11:24] - [Noria](https://github.com/mit-pdos/noria)
 - [@13:00] - [Jon's Youtube Channel](https://www.youtube.com/c/JonGjengset)
 - [@21:53] - [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
-- [@25:13] - [Rustacean](https://www.rustaceans.org/)
+- [@25:13] - What does it mean to be a Rustacean?
+   - [Niko Matsakis' Rustacean Principles](https://github.com/nikomatsakis/rustacean-principles)
 - [@27:23] - What does intermediate content mean?
 - [@30:03] - [Rust memory model](https://nostarch.com/download/samples/RustforRustaceans_Ch2new.pdf)
 - [@41:21] - Error cases and handling
