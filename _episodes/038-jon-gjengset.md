@@ -25,7 +25,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@25:13] - What does it mean to be a Rustacean?
    - [Niko Matsakis' Rustacean Principles](https://github.com/nikomatsakis/rustacean-principles)
 - [@27:23] - What does intermediate content mean?
-- [@30:03] - [Rust memory model](https://nostarch.com/download/samples/RustforRustaceans_Ch2new.pdf)
+- [@30:03] - [Chapter on Memory in Rust](https://nostarch.com/download/samples/RustforRustaceans_Ch2new.pdf)
 - [@41:21] - Error cases and handling
 - [@58:20] - Memory allocation in Rust 
 - [@1:05:43] - Feature Flags 
