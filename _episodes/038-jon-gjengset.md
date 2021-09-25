@@ -19,7 +19,6 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 
-- [@01:25] - Jon's Bio 
 - [@11:24] - [Noria](https://github.com/mit-pdos/noria)
 - [@13:00] - [Jon's Youtube Channel](https://www.youtube.com/c/JonGjengset)
 - [@21:53] - [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
