@@ -1,6 +1,6 @@
 ---
 title: "Rust for Rustaceans by Jon Gjengset"
-date: 2021-09-24T23:00:00Z
+date: 2021-09-25T00:20:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e038-jon-gjengset.mp3
 duration: "1:21:48"
 length: "79237006"
