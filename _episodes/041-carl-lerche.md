@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@07:55] - [I/O Completion Ports](https://docs.microsoft.com/en-us/windows/win32/fileio/i-o-completion-ports)
 - [@14:07] - [Eventual](https://github.com/carllerche/eventual)
 - [@18:55] - [Module pin](https://doc.rust-lang.org/std/pin/index.html)
-- [@28:35] - What exactly is a macro doing?
+- [@28:35] - What do macros expand to?
 - [@30:41] - [Cargo-expand](https://github.com/dtolnay/cargo-expand)
 - [@42:44] - What's new since Tokio 1.0
 - [@45:02] - [Tokio-console](https://github.com/tokio-rs/console)
