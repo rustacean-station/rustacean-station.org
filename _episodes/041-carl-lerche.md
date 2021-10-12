@@ -1,6 +1,6 @@
 ---
 title: "Tokio with Carl Lerche"
-date: 2021-10-08T16:00:00Z
+date: 2021-10-12T01:25:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e041-carl-lerche.mp3
 duration: "1:16:07"
 length: "73810256"
