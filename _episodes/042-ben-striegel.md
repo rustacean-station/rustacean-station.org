@@ -37,7 +37,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@01:02:26] - Rust's milestones
 - [@01:07:42] - [Mozilla 2020 layoffs](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
   - [Discussion on /r/rust](https://www.reddit.com/r/rust/comments/i7stjy/how_do_mozilla_layoffs_affect_rust/)
-- [@01:12:33] - Would Rust stay open-source?
+- [@01:12:33] - Will Rust stay open-source?
 - [01:18:10] - Future of Rust
 - [01:24:48] - Who decides what changes make it into Rust?
 
