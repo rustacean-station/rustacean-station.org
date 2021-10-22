@@ -1,6 +1,6 @@
 ---
 title: "History of Rust with Ben Striegel"
-date: 2021-10-15T01:25:00Z
+date: 2021-10-22T00:40:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e042-ben-striegel.mp3
 duration: "1:32:39"
 length: "89712021"
