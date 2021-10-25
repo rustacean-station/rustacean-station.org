@@ -6,7 +6,7 @@ duration: "52:28"
 length: "51158078"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Bastian Gruber](https://github.com/gruberb), author of ["Rust Web Development"](rustwebdevelopment.com), about his book.
+Allen Wyma talks with [Bastian Gruber](https://github.com/gruberb), author of ["Rust Web Development"](https://www.rustwebdevelopment.com/), about his book.
 
 
 ## Contributing to Rustacean Station
