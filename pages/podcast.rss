@@ -40,9 +40,10 @@ permalink: "/podcast.rss"
 			<itunes:email>jon@thesquareplanet.com</itunes:email>
 		</itunes:owner>
 
-		{% for post in site.episodes %}
+		{% assign episodes = site.episodes | reverse %}
+		{% for post in episodes %}
 		<item>
-			<!-- <link>{{ post.url | absolute_url }}</link> -->
+			<link>{{ post.url | absolute_url }}</link>
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 			{% if post.guid %}
 			<guid isPermaLink="false">{{ post.guid }}</guid>
