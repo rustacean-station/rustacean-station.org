@@ -1,6 +1,6 @@
 ---
 title: "Rust Web Development with Bastian Gruber"
-date: 2021-10-22T01:25:00Z
+date: 2021-10-26T01:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e043-bastian-gruber.mp3
 duration: "52:28"
 length: "51158078"
