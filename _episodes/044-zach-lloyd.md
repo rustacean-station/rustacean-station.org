@@ -1,6 +1,6 @@
 ---
 title: "Warp with Zach Lloyd"
-date: 2021-10-29T01:50:00Z
+date: 2021-11-03T02:11:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e044-zach-lloyd.mp3
 duration: "1:02:51"
 length: "61148368"
