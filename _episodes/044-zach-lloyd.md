@@ -29,8 +29,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@21:45] - Zach's background
 - [@25:38] - Why Rust over [Go](https://golang.org/)?
 - [@29:51] - Warp's dependencies
-- [@36:36] - Objective-C VS Rust
-- [@38:20] - Why Objective-C over [Swift](https://swift.org/)?
+- [@36:36] - Objective-C vs. Rust
 - [@41:49] - Zach's build pipeline
 - [@43:21] - [`cargo-bundle`](https://github.com/burtonageo/cargo-bundle)
 - [@44:52] - Warp's business model
