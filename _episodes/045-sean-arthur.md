@@ -1,6 +1,6 @@
 ---
 title: "Hyper with Sean McArthur"
-date: 2021-11-05T02:11:00Z
+date: 2021-11-05T15:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e045-sean-mcarthur.mp3
 duration: "1:05:18"
 length: "63525368"
