@@ -32,13 +32,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@27:37] - I/O threads
 - [@31:21] - What are sleeping threads?
 - [@33:41] - [Tokio Console](https://tokio.rs/blog/2021-09-console-dev-diary-1)
-- [@39:07] - Constructs, actors, and actors within Tokio 
 - [@41:14] - Pros and cons of using actors
 - [@47:05] - Alice's academic background
 - [@49:22] - Tokio's upcoming roadmap
 - [@57:33] - Replacing epoll with io_uring
-- [@58:56] - Axum, Tower & Loom
-- [@01:01:45] - Web frameworks for Rust 
+- [@58:56] - [Axum](https://github.com/tokio-rs/axum), [Tower](https://github.com/tower-rs/tokio-tower), and [Loom](https://github.com/tokio-rs/loom)
+- [@01:01:45] - Web frameworks for Rust
 - [@01:05:57] - How to contact Alice
 
 ## Other Resources 
