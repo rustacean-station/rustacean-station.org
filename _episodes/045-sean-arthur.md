@@ -22,7 +22,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@01:37] - The history of Hyper
 - [@07:41] - Is Hyper a client or a server side component?
 - [@11:09] - Async/await
-- [@13:24] - Any benefit of using async over blocking?
+- [@13:24] - Benefits to using async over blocking?
 - [@14:35] - Relationship between [Tokio](https://github.com/tokio-rs/tokio) and Hyper
 - [@16:11] - [Mio – Metal IO](https://github.com/tokio-rs/mio)
 - [@16:48] - Can Hyper run on other async runtimes?
