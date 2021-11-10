@@ -24,7 +24,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@08:54] - [Eyre](https://github.com/yaahc/eyre)
 - [@15:49] - [Failure](https://docs.rs/failure/) & [Anyhow](https://docs.rs/anyhow/)
 - [@17:13] - Choosing between anyhow & eyre
-- [@20:05] - [AnyError](https://docs.rs/err-context/0.1.0/err_context/type.AnyError.html) and [ThisError](https://docs.rs/thiserror/1.0.30/thiserror/)
+- [@20:05] - [AnyError](https://docs.rs/err-context/0.1/err_context/type.AnyError.html) and [ThisError](https://docs.rs/thiserror/)
 - [@23:31] - [Color-eyre](https://github.com/yaahc/color-eyre)
 - [@26:08] - Other crates that are also in eyre
 - [@28:59] - [Error Handling Group](https://github.com/rust-lang/project-error-handling)
