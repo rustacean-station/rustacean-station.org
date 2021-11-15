@@ -43,6 +43,11 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ## Other Resources 
 - [Rust in Android Platform](https://security.googleblog.com/2021/04/rust-in-android-platform.html)
 - [Tokio's Discord](https://discord.com/invite/tokio)
+- [Tokio's Topics Pages](https://tokio.rs/tokio/topics)
+- [Cooperative Scheduling](https://tokio.rs/blog/2020-04-preemption)
+- [Tokio Metrics](https://github.com/tokio-rs/tokio/issues/4073)
+- [Actors in Tokio](https://ryhl.io/blog/actors-with-tokio/)
+- [io_uring with Tokio](https://github.com/tokio-rs/tokio-uring/)
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
