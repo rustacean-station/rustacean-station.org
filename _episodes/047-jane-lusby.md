@@ -1,6 +1,6 @@
 ---
 title: "Error Handling in Rust with Jane Lusby"
-date: 2021-11-05T15:50:00Z
+date: 2021-11-19T17:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e047-jane-lusby.mp3
 duration: "52:58"
 length: "51684453"
