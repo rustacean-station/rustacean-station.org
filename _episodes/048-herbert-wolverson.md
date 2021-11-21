@@ -27,9 +27,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@11:13] - Unreal, [Unity](https://unity.com/) & [Godot](https://godotengine.org/)
 - [@13:44] - [Bevy](https://bevyengine.org/) Engine & [Amethyst](https://amethyst.rs/) Engine
 - [@18:31] - [Zig](https://ziglang.org/)
-- [@20:38] - Herbert created [Bracket-Lib](https://bracketproductions.com/) engine
-- [@24:18] - Steps to know when creating a game engine
-- [@31:20] - The book helps you with the concepts rather than the specifics
+- [@20:38] - Herbert's [Bracket-Lib](https://bracketproductions.com/) engine
+- [@24:18] - Creating a game engine from scratch
 - [@34:03] - ECS (Entity Component System) & OPP (Object-Oriented Programming)
 - [@42:02] - Other game engines mentioned in the book
 - [@43:12] - Macroquad & Miniquad
@@ -37,7 +36,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@49:51] - [RG3D](https://rg3d.rs/)
 - [@51:58] - Book Status & [Rust Brain Teasers](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)
 - [@57:44] - [Pragprog](https://pragprog.com/) Publishing
-- [@01:02:30] - How to contact [Herbert](https://twitter.com/herberticus?s=20)?
+- [@01:02:30] - How to contact Herbert
 
 ## Other Resources
 - [Hands-on Rust](https://hands-on-rust.com/)
