@@ -1,6 +1,6 @@
 ---
 title: "Game Development with Herbert Wolverson"
-date: 2021-11-26T18:25:00Z
+date: 2021-11-26T17:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e048-herbert-wolverson.mp3
 duration: "1:05:00"
 length: "63273551"
