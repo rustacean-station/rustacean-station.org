@@ -23,19 +23,19 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@3:33] -	Her [blogs](https://onesignal.com/blog/author/lily/) helped her improve her writing
 - [@5:09] -	How the [book](https://www.manning.com/books/refactoring-to-rust) came to be
 - [@9:34] -	Knowing when to add or learn a new language
-- [@12:07] - Tools for measuring memory usage benchmark
-- [@15:04] - Garbage Collector
-- [@18:30] - Strongly and Weakly typed language & Dynamic and Static
+- [@12:07] - Tools for measuring memory usage
+- [@15:04] - Garbage Collection
+- [@18:30] - Strongly and weakly typed languages & dynamic vs static dispatch
 - [@21:13] - About the book
 - [@25:40] - Go being treated like a C library	
-- [@27:02] - Allocator & Deallocator
+- [@27:02] - Memory allocators
 - [@35:51] - When did Lily started working on the book?
-- [@37:44] - Making examples are difficult
+- [@37:44] - Writing examples (it's hard!)
 - [@46:36] - How technical are the editors?
-- [@49:00] - The rust community is very welcoming
-- [@50:14] - Publishers that are pushing out Rust 
-- [@52:17] - Lily did a Twitch stream for Manning
-- [@53:07] - Lily's advice
+- [@49:00] - The Rust community is very welcoming
+- [@50:14] - Publishers that are publishing Rust books
+- [@52:17] - Lily's Twitch stream for Manning
+- [@53:07] - Lily's advice for aspiring Rust developers
 
 ## Other Resources
 - [PyO3](https://github.com/PyO3/pyo3)
