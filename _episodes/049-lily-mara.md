@@ -1,6 +1,6 @@
 ---
 title: "Refactoring to Rust with Lily Mara"
-date: 2021-11-26T17:00:00Z
+date: 2021-12-11T17:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e049-lily-mara.mp3
 duration: "0:57:18"
 length: "55910810"
