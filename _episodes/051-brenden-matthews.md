@@ -1,7 +1,7 @@
 ---
 title: "Code Like a Pro in Rust with Brenden Matthews"
 date: 2021-12-24T17:30:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e050-brenden-matthews.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e051-brenden-matthews.mp3
 duration: "1:02:23"
 length: "60817752"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
