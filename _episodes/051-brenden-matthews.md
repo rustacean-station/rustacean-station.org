@@ -1,6 +1,6 @@
 ---
 title: "Code Like a Pro in Rust with Brenden Matthews"
-date: 2021-12-24T17:30:00Z
+date: 2021-12-24T17:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e051-brenden-matthews.mp3
 duration: "1:02:23"
 length: "60817752"
