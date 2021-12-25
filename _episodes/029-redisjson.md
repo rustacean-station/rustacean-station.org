@@ -14,10 +14,10 @@ Jeremy talks with Christoph Zimmermann about Redislabs' new JSON module, which i
 
 Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help create the podcast itself!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps 
 
@@ -47,21 +47,21 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ### Referenced Resources
 
-- [Christoph's Podcast](https://linuxinlaws.eu/)
-- [Christoph's FOSDEM Talk](https://ftp.osuosl.org/pub/fosdem/2020/K.3.401/rust_redisjson.webm)
-- [RedisJSON on GitHub](https://github.com/RedisJSON/RedisJSON2)
-- [Redislabs](https://university.redislabs.com/)
+- [Christoph's Podcast](https://linuxinlaws.eu/){:target="_blank"}
+- [Christoph's FOSDEM Talk](https://ftp.osuosl.org/pub/fosdem/2020/K.3.401/rust_redisjson.webm){:target="_blank"}
+- [RedisJSON on GitHub](https://github.com/RedisJSON/RedisJSON2){:target="_blank"}
+- [Redislabs](https://university.redislabs.com/){:target="_blank"}
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Cole](https://twitch.tv/refactorordie)
+Audio Editing: [Cole](https://twitch.tv/refactorordie){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
 Show Notes: Cole and Jeremy Webb 
 
 Hosts: Jeremy Webb 
 
-Guests: [Chrisoph Zimmermann](https://twitter.com/7immermann/)
+Guests: [Chrisoph Zimmermann](https://twitter.com/7immermann/){:target="_blank"}

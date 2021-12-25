@@ -7,7 +7,7 @@ length: "38682435"
 reddit: https://www.reddit.com/r/rust/comments/eslbuv/rustacean_station_triple_feature_rust_for_aaa/
 ---
 
-Three more interviews from RustFest 2019: [Jake Shadle](https://twitter.com/Ca1ne) on using Rust for high-performance game engines at [Embark](https://www.embark-studios.com/), applying lessons learned from working on EA DICE's Frostbite engine; [Yoshua Wuyts](https://twitter.com/yoshuawuyts) on `async-std` and Rust's async ecosystem; and [Stjepan Glavina](https://twitter.com/stjepang) on `crossbeam`, Rust's foundational library for powerful concurrency primitives.
+Three more interviews from RustFest 2019: [Jake Shadle](https://twitter.com/Ca1ne){:target="_blank"} on using Rust for high-performance game engines at [Embark](https://www.embark-studios.com/){:target="_blank"}, applying lessons learned from working on EA DICE's Frostbite engine; [Yoshua Wuyts](https://twitter.com/yoshuawuyts){:target="_blank"} on `async-std` and Rust's async ecosystem; and [Stjepan Glavina](https://twitter.com/stjepang){:target="_blank"} on `crossbeam`, Rust's foundational library for powerful concurrency primitives.
 
 ### Contributing to Rustacean Station
 
@@ -15,10 +15,10 @@ Three more interviews from RustFest 2019: [Jake Shadle](https://twitter.com/Ca1n
 
 Rustacean Station is a community project; get in touch with us if you'd like to suggest an idea for an episode or offer your services as a host or audio editor!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps & referenced resources
 
@@ -31,8 +31,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@07:07] - Where is the Rust library ecosystem lacking for your use case, and what crates are you making use of?
 - [@11:13] - Why is Embark interested in WebAssembly?
 - [@14:20] - How can someone get in touch or learn more about Embark?
-    - [embark.dev](https://www.embark.dev/)
-    - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
+    - [embark.dev](https://www.embark.dev/){:target="_blank"}
+    - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4){:target="_blank"}
 
 #### [@15:09] Part 2: `async-std` w/ Yoshua Wuyts
 
@@ -40,14 +40,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@17:12] - Is there anything from `async-std` that ought to be upstreamed into the standard library?
 - [@19:20] - Does `async-std` run into any conflicts with the types or traits defined in `futures-rs` or the standard library?
 - [@22:21] - How complete or incomplete is Rust's async ecosystem and async language support?
-    - [`async-trait`: a procedural macro for providing async trait methods on stable Rust](https://crates.io/crates/async-trait)
+    - [`async-trait`: a procedural macro for providing async trait methods on stable Rust](https://crates.io/crates/async-trait){:target="_blank"}
 - [@26:21] - How close is `async-std` to being a drop-in replacement for the standard library?
 - [@28:32] - What's next for the development of `async-std`?
 - [@30:07] - With the advent of `async-std` version 1.0, what would an eventual 2.0 release look like?
 - [@32:09] - Who is using `async-std`?
 - [@32:54] - How can someone get in touch or get involved?
-    - [async.rs](https://async.rs/)
-    - [github.com/async-rs](https://github.com/async-rs/)
+    - [async.rs](https://async.rs/){:target="_blank"}
+    - [github.com/async-rs](https://github.com/async-rs/){:target="_blank"}
 
 #### [@34:02] Part 3: `crossbeam` w/ Stjepan Glavina
 
@@ -65,12 +65,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Zoran Zaric](https://twitter.com/zoranzaric)
+Audio Editing: [Zoran Zaric](https://twitter.com/zoranzaric){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Ben Striegel](https://twitter.com/bstrie/), [Zoran Zaric](https://twitter.com/zoranzaric)
+Show Notes: [Ben Striegel](https://twitter.com/bstrie/), [Zoran Zaric](https://twitter.com/zoranzaric){:target="_blank"}
 
-Hosts: [Ben Striegel](https://twitter.com/bstrie/)
+Hosts: [Ben Striegel](https://twitter.com/bstrie/){:target="_blank"}

@@ -22,10 +22,10 @@ paragraphs show up as "expanded description".
 
 Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help with hosting or audio editing!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps & referenced resources
 
@@ -54,12 +54,12 @@ In this section, leave timestamped notes of the form:
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Jeremy Jung](https://twitter.com/jertype)
+Audio Editing: [Jeremy Jung](https://twitter.com/jertype){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Ben Striegel](https://twitter.com/bstrie/)
+Show Notes: [Ben Striegel](https://twitter.com/bstrie/){:target="_blank"}
 
-Host: [Ben Striegel](https://twitter.com/bstrie/)
+Host: [Ben Striegel](https://twitter.com/bstrie/){:target="_blank"}

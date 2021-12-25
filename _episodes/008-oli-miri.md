@@ -7,7 +7,7 @@ length: "23497525"
 reddit: https://www.reddit.com/r/rust/comments/eep97x/compiletime_evaluation_interpreted_rust_and_ub/
 ---
 
-In the first of our mini-interviews from RustFest 2019, we talk to [Oliver Scherer](https://twitter.com/oli_obk) about [Miri](https://github.com/rust-lang/miri), an interpreter for rustc's internal bytecode, its use in `const`-evaluation, and its potential as an external tool for sanitizing `unsafe` code.
+In the first of our mini-interviews from RustFest 2019, we talk to [Oliver Scherer](https://twitter.com/oli_obk){:target="_blank"} about [Miri](https://github.com/rust-lang/miri){:target="_blank"}, an interpreter for rustc's internal bytecode, its use in `const`-evaluation, and its potential as an external tool for sanitizing `unsafe` code.
 
 <!--
 The episode introduction goes here.
@@ -22,10 +22,10 @@ paragraphs show up as "expanded description".
 
 Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help create the podcast itself!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps & referenced resources
 
@@ -51,12 +51,12 @@ In this section, leave timestamped notes of the form:
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
 Audio Editing: alphastrata
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Ben Striegel](https://twitter.com/bstrie)
+Show Notes: [Ben Striegel](https://twitter.com/bstrie){:target="_blank"}
 
-Hosts: [Ben Striegel](https://twitter.com/bstrie)
+Hosts: [Ben Striegel](https://twitter.com/bstrie){:target="_blank"}

@@ -7,7 +7,7 @@ length: "35318701"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Two more long-awaited interviews from RustFest 2019: [Katharina Fey](https://twitter.com/spacekookie) on the phenomenon of burnout in software and in open source communities and [Florian Gilcher](https://twitter.com/Argorak) on Rust's annual roadmaps.
+Two more long-awaited interviews from RustFest 2019: [Katharina Fey](https://twitter.com/spacekookie){:target="_blank"} on the phenomenon of burnout in software and in open source communities and [Florian Gilcher](https://twitter.com/Argorak){:target="_blank"} on Rust's annual roadmaps.
 
 <!--
 The episode introduction goes here.
@@ -22,10 +22,10 @@ paragraphs show up as "expanded description".
 
 Rustacean Station is a community project; get in touch with us if you'd like to suggest an idea for an episode or offer your services as a host or audio editor!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps & referenced resources
 
@@ -39,15 +39,15 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 #### [@19:50] Part 2: The Rust Roadmap w/ Florian Gilcher
 
- - [Rust 2019 roadmap](https://blog.rust-lang.org/2019/04/23/roadmap.html)
- - [Rust 2020 roadmap](https://github.com/rust-lang/rfcs/blob/master/text/2857-roadmap-2020.md)
+ - [Rust 2019 roadmap](https://blog.rust-lang.org/2019/04/23/roadmap.html){:target="_blank"}
+ - [Rust 2020 roadmap](https://github.com/rust-lang/rfcs/blob/master/text/2857-roadmap-2020.md){:target="_blank"}
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Eddy Petrisor](https://twitter.com/eddypetrisor)
+Audio Editing: [Eddy Petrisor](https://twitter.com/eddypetrisor){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Ben Striegel](https://twitter.com/bstrie)
+Show Notes: [Ben Striegel](https://twitter.com/bstrie){:target="_blank"}

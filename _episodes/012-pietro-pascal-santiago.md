@@ -7,7 +7,7 @@ length: "38542001"
 reddit: https://www.reddit.com/r/rust/comments/f0kpsx/rustacean_station_triple_feature_rust_release/
 ---
 
-Another trio of interviews from RustFest 2019: [Pietro Albini](https://twitter.com/pietroalbini) on Crater and the Rust Infrastructure Team; [Pascal Hertleif](https://twitter.com/killercup) on the Rust Developer Tools Team; and [Santiago Pastorino](https://twitter.com/spastorino) on the [Rust Latam](https://rustlatam.org/) conference in Latin America.
+Another trio of interviews from RustFest 2019: [Pietro Albini](https://twitter.com/pietroalbini){:target="_blank"} on Crater and the Rust Infrastructure Team; [Pascal Hertleif](https://twitter.com/killercup){:target="_blank"} on the Rust Developer Tools Team; and [Santiago Pastorino](https://twitter.com/spastorino) on the [Rust Latam](https://rustlatam.org/){:target="_blank"} conference in Latin America.
 
 <!--
 The episode introduction goes here.
@@ -22,10 +22,10 @@ paragraphs show up as "expanded description".
 
 Rustacean Station is a community project; get in touch with us if you'd like to suggest an idea for an episode or offer your services as a host or audio editor!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps & referenced resources
 
@@ -36,10 +36,10 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@03:29] - How do you feel about potential future Rust editions in 2021 or beyond?
 - [@06:26] - Do you think Rust's regular release cycle too fast or too slow?
 - [@08:56] - How does Crater guard against language regressions, and what things doesn't it catch?
-    - [rust-lang/crater](https://github.com/rust-lang/crater)
+    - [rust-lang/crater](https://github.com/rust-lang/crater){:target="_blank"}
 - [@11:12] - How has Crater scaled as the ecosystem has grown, and is it at risk of becoming infeasible to run?
 - [@16:17] - How can someone get involved with the Infrastructure Team?
-    - [#infra Discord channel](https://discord.gg/AxXmxzN)
+    - [#infra Discord channel](https://discord.gg/AxXmxzN){:target="_blank"}
 
 #### [@17:25] Part 2: Developer Tools w/ Pascal Hertleif
 
@@ -47,14 +47,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@19:39] - What tools is the Developer Tools Team responsible for, and what purposes do they serve?
 - [@24:46] - Which tools in particular would you like to draw attention to?
 - [@26:19] - How does rust-analyzer compare to RLS?
-    - [rust-lang/rls](https://github.com/rust-lang/rls)
-    - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+    - [rust-lang/rls](https://github.com/rust-lang/rls){:target="_blank"}
+    - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer){:target="_blank"}
 - [@29:42] - How does the Developer Tools Team coordinate?
 - [@32:00] - How was your experience at RustFest this year?
 
 #### [@36:21] Part 3: Rust Latam w/ Santiago Pastorino
 
-- [@36:46] - What is [Rust Latam](https://rustlatam.org/)?
+- [@36:46] - What is [Rust Latam](https://rustlatam.org/){:target="_blank"}?
 - [@37:42] - What inspired you to start a Rust conference in Latin America?
 - [@39:06] - How big is Rust Latam?
 - [@40:15] - What is interest in Rust like in Latin America?
@@ -62,7 +62,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@44:59] - What's next for Rust Latam?
 - [@45:42] - How did you get into Rust?
 - [@50:17] - What venues are there for Spanish or Portuguese-speaking Rust users?
-  - [Rust Brazilian Telegram Group](https://t.me/rustlangbr)
+  - [Rust Brazilian Telegram Group](https://t.me/rustlangbr){:target="_blank"}
 - [@51:34] - How can someone learn more about Rust Latam?
 
 <!--
@@ -76,12 +76,12 @@ In this section, leave timestamped notes of the form:
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Zoran Zaric](https://twitter.com/zoranzaric)
+Audio Editing: [Zoran Zaric](https://twitter.com/zoranzaric){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Ben Striegel](https://twitter.com/bstrie/)
+Show Notes: [Ben Striegel](https://twitter.com/bstrie/){:target="_blank"}
 
-Hosts: [Ben Striegel](https://twitter.com/bstrie/)
+Hosts: [Ben Striegel](https://twitter.com/bstrie/){:target="_blank"}

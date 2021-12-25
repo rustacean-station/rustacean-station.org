@@ -8,7 +8,7 @@ length: "53290745"
 ---
 First time guest host, Allen Wyma talks with Daniel, the original author of cURL, about using Rust in cURL.
 
-- [cURL](https://curl.se/) is a command line tool and library for transferring data with URLs.
+- [cURL](https://curl.se/){:target="_blank"} is a command line tool and library for transferring data with URLs.
 - cURL, and its data transfer core, libcurl are both written in C, which is known to be not memory safe. 
 - While it is almost impossibe to rewrite it into another language, offering a third-party library written in Rust could take a further step forward.
 
@@ -16,10 +16,10 @@ First time guest host, Allen Wyma talks with Daniel, the original author of cURL
 
 Rustacean Station is a community project; get in touch with us if you'd like to suggest an idea for an episode or offer your services as a host or audio editor!
 
-- Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
-- Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
-- Github: [@rustacean-station](https://github.com/rustacean-station/)
-- Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+- Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+- Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+- Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+- Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ## Highlights
 
@@ -30,12 +30,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - What benefits does Rust bring to cURL?
 
 ## Resources 
- - [Curl](https://curl.se/)
- - [Daniel's Blog](https://daniel.haxx.se/blog/2021/08/09/nocais-apology/)
- - [Project Gemini](https://gemini.circumlunar.space/)
+ - [Curl](https://curl.se/){:target="_blank"}
+ - [Daniel's Blog](https://daniel.haxx.se/blog/2021/08/09/nocais-apology/){:target="_blank"}
+ - [Project Gemini](https://gemini.circumlunar.space/){:target="_blank"}
 
 ## Timestamps 
-- [@05:10] - [cURL 7.78.0](https://curl.se/download.html)
+- [@05:10] - [cURL 7.78.0](https://curl.se/download.html){:target="_blank"}
 - [@07:44] - Implementing Protocol
 - [@09:25] - HTTP/3
 - [@13:30] - Architecture of cURL & libcurl
@@ -50,12 +50,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Plangora](https://twitter.com/plangora)
+Audio Editing: [Plangora](https://twitter.com/plangora){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Plangora](https://twitter.com/plangora)
+Show Notes: [Plangora](https://twitter.com/plangora){:target="_blank"}
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma)
+Hosts: [Allen Wyma](https://twitter.com/allenwyma){:target="_blank"}

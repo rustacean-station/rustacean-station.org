@@ -7,7 +7,7 @@ length: "52224834"
 reddit: https://www.reddit.com/r/rust/comments/ed3qyd/an_interview_with_the_creator_of_zola_formerly/
 ---
 
-[Vincent Prouillet](https://www.vincentprouillet.com/) talks about his experience building the [Zola](https://twitter.com/jertype) static site generator (formerly known as Gutenberg) and reflects on five years of working with Rust.
+[Vincent Prouillet](https://www.vincentprouillet.com/){:target="_blank"} talks about his experience building the [Zola](https://twitter.com/jertype){:target="_blank"} static site generator (formerly known as Gutenberg) and reflects on five years of working with Rust.
 
 ### Contributing to Rustacean Station
 
@@ -15,10 +15,10 @@ reddit: https://www.reddit.com/r/rust/comments/ed3qyd/an_interview_with_the_crea
 
 Rustacean Station is a community project; get in touch with us if you'd like to be interviewed, propose a topic for an episode, or help create the podcast itself!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps
 
@@ -49,56 +49,56 @@ In this section, leave timestamped notes of the form:
 ### References and Resources
 
 #### Vincent Prouillet
-- [Personal Site](https://www.vincentprouillet.com/)
-- [@20100Prouillet](https://twitter.com/20100Prouillet)
+- [Personal Site](https://www.vincentprouillet.com/){:target="_blank"}
+- [@20100Prouillet](https://twitter.com/20100Prouillet){:target="_blank"}
 
 #### Zola
-- [Zola Website](https://www.getzola.org)
-- [Zola Forum](https://zola.discourse.group/)
+- [Zola Website](https://www.getzola.org){:target="_blank"}
+- [Zola Forum](https://zola.discourse.group/){:target="_blank"}
 
 #### Tools/Crates used by Zola
-- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) (Markdown)
-- [syntec](https://github.com/trishume/syntect) (Syntax highlighting using Sublime Text definitions)
-- [rayon](https://github.com/rayon-rs/rayon) (Parallel computation)
-- [heaptrack](https://github.com/KDE/heaptrack) (Memory Profiler)
+- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark){:target="_blank"} (Markdown)
+- [syntec](https://github.com/trishume/syntect){:target="_blank"} (Syntax highlighting using Sublime Text definitions)
+- [rayon](https://github.com/rayon-rs/rayon){:target="_blank"} (Parallel computation)
+- [heaptrack](https://github.com/KDE/heaptrack){:target="_blank"} (Memory Profiler)
 
 #### Static Site Hosts
-- [Github Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+- [Github Pages](https://pages.github.com/){:target="_blank"}
+- [Netlify](https://www.netlify.com/){:target="_blank"}
 
 #### Crates for Web Applications
-- [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
-- [Bcrypt](https://github.com/Keats/rust-bcrypt)
-- [Validator](https://github.com/Keats/validator)
+- [jsonwebtoken](https://github.com/Keats/jsonwebtoken){:target="_blank"}
+- [Bcrypt](https://github.com/Keats/rust-bcrypt){:target="_blank"}
+- [Validator](https://github.com/Keats/validator){:target="_blank"}
 
 #### Compiled Template Engines
-- [askama](https://github.com/djc/askama)
-- [maud](https://maud.lambda.xyz/)
-- [horrowshow](https://github.com/Stebalien/horrorshow-rs)
+- [askama](https://github.com/djc/askama){:target="_blank"}
+- [maud](https://maud.lambda.xyz/){:target="_blank"}
+- [horrowshow](https://github.com/Stebalien/horrorshow-rs){:target="_blank"}
 
 #### Runtime Template Engines
-- [Tera](https://github.com/Keats/tera) ([Jinja2](https://www.palletsprojects.com/p/jinja/)-like HTML template engine)
-- [ramhorns](https://github.com/maciejhirsz/ramhorns)
-- [rust-mustache](https://github.com/nickel-org/rust-mustache)
+- [Tera](https://github.com/Keats/tera){:target="_blank"} ([Jinja2](https://www.palletsprojects.com/p/jinja/){:target="_blank"}-like HTML template engine)
+- [ramhorns](https://github.com/maciejhirsz/ramhorns){:target="_blank"}
+- [rust-mustache](https://github.com/nickel-org/rust-mustache){:target="_blank"}
 
 #### Static Site Generators
-- [Hugo](https://www.gohugo.io)
-- [Jekyll](https://www.jekyllrb.com)
-- [Pelican](https://blog.getpelican.com/)
+- [Hugo](https://www.gohugo.io){:target="_blank"}
+- [Jekyll](https://www.jekyllrb.com){:target="_blank"}
+- [Pelican](https://blog.getpelican.com/){:target="_blank"}
 
 #### Other links
-- [Forestry](https://forestry.io/) (WYSIWYG CMS for Static Sites)
-- [Keyword Arguments RFC](https://github.com/rust-lang/rfcs/issues/323)
-- [kickstart](https://github.com/Keats/kickstart) (Scaffolding tool)
+- [Forestry](https://forestry.io/){:target="_blank"} (WYSIWYG CMS for Static Sites)
+- [Keyword Arguments RFC](https://github.com/rust-lang/rfcs/issues/323){:target="_blank"}
+- [kickstart](https://github.com/Keats/kickstart){:target="_blank"} (Scaffolding tool)
 
 ### Credits
 
-Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
+Intro Theme: [Aerocity](https://twitter.com/AerocityMusic){:target="_blank"}
 
-Audio Editing: [Jeremy Jung](https://twitter.com/jertype)
+Audio Editing: [Jeremy Jung](https://twitter.com/jertype){:target="_blank"}
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/){:target="_blank"}
 
-Show Notes: [Ben Striegel](https://twitter.com/bstrie)
+Show Notes: [Ben Striegel](https://twitter.com/bstrie){:target="_blank"}
 
-Hosts: [Jeremy Jung](https://twitter.com/jertype)
+Hosts: [Jeremy Jung](https://twitter.com/jertype){:target="_blank"}

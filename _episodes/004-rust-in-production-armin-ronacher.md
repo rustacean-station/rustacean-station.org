@@ -10,14 +10,14 @@ reddit: https://www.reddit.com/r/rust/comments/d5ydeg/rust_in_production_an_inte
 guid: "rustacean-station//episode/004-rust-in-production-armin-ronacher/"
 ---
 
-[Armin Ronacher](https://twitter.com/mitsuhiko) talks about getting into Rust, when to use it, writing Rust extensions for Python, building the [Symbolicator](https://github.com/getsentry/symbolicator) web application with actix, creating debugging libraries, and the Rust ecosystem.
+[Armin Ronacher](https://twitter.com/mitsuhiko){:target="_blank"} talks about getting into Rust, when to use it, writing Rust extensions for Python, building the [Symbolicator](https://github.com/getsentry/symbolicator){:target="_blank"} web application with actix, creating debugging libraries, and the Rust ecosystem.
 
 Get in touch with us if you'd like to be interviewed, propose a topic, or help out!
 
- - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm)
- - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc)
- - Github: [@rustacean-station](https://github.com/rustacean-station/)
- - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
+ - Twitter: [@rustaceanfm](https://twitter.com/rustaceanfm){:target="_blank"}
+ - Discord: [Rustacean Station](https://discord.gg/cHc3Gyc){:target="_blank"}
+ - Github: [@rustacean-station](https://github.com/rustacean-station/){:target="_blank"}
+ - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org){:target="_blank"}
 
 ### Timestamps & referenced resources
 
@@ -26,7 +26,7 @@ Get in touch with us if you'd like to be interviewed, propose a topic, or help o
 * [@04:50] - Rust doesn't need asynchronous code
 * [@06:10] - Building thread safe applications
 * [@07:05] - What excited you about using Rust?
-* [@08:59] - [Sentry](https://sentry.io/welcome/)
+* [@08:59] - [Sentry](https://sentry.io/welcome/){:target="_blank"}
 * [@11:41] - Introducing Rust to Sentry
 * [@13:49] - Anything easier to write in Rust vs Python?
 * [@16:53] - Writing extensions vs writing services
