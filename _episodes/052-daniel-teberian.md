@@ -6,7 +6,7 @@ duration: "47:10"
 length: "46238033"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Daniel Teberian](https://twitter.com/zippydpt), the creatore of [LibertyOS](https://github.com/LibertyOS-Development/kernel).
+Allen Wyma talks with [Daniel Teberian](https://twitter.com/zippydpt), the creator of [LibertyOS](https://github.com/LibertyOS-Development/kernel).
 
 
 ## Contributing to Rustacean Station
@@ -26,7 +26,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@8:08] -	The team behind LibertyOS
 - [@10:04] - Every processor is different so you can't write Rust for everything
 - [@17:27] - What can LibertyOS do at the moment?
-- [@20:19] - How to support for writing Rust programs on a Rust OS?
+- [@20:19] - How to support writing Rust programs on a Rust-based OS?
 - [@27:38] - How are decisions made for LibertyOS?
 - [@34:07] - [Cargo check](https://doc.rust-lang.org/cargo/commands/cargo-check.html)
 - [@37:12] - More on the LibertyOS members
