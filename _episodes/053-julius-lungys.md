@@ -42,7 +42,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Other Resources
 - [Julius's Github](https://github.com/voidpumpkin)
-- [The Company (Nikulipe)](Nikulipe)
+- [The Company (Nikulipe)](https://www.nikulipe.com/)
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
