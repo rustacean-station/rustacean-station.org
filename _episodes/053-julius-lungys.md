@@ -6,7 +6,7 @@ duration: "47:13"
 length: "46305986"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Julius Lungys](https://twitter.com/voidpumpkin), contributer to [Yew](https://yew.rs/).
+Allen Wyma talks with [Julius Lungys](https://twitter.com/voidpumpkin), contributor to [Yew](https://yew.rs/).
 
 
 ## Contributing to Rustacean Station
