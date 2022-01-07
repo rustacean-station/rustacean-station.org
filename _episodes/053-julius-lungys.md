@@ -23,7 +23,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@1:29] -	Core values and benefits of Yew
 - [@3:32] -	The performance of Yew	
 - [@6:57] -	[Cargo workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html#cargo-workspaces)
-- [@8:05] - [Trunk](https://trunkrs.dev/) & [Wasm-pack](https://rustwasm.github.io/docs/wasm-pack/)
+- [@8:05] -  [Trunk](https://trunkrs.dev/) & [Wasm-pack](https://rustwasm.github.io/docs/wasm-pack/)
 - [@10:07] - Virtual DOM & Debugging
 - [@11:24] - Source Maps in Yew
 - [@12:21] - [Krustlet](https://github.com/krustlet)
