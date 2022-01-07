@@ -33,7 +33,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@21:32] - How Yew relates to [Elm](https://elm-lang.org/)
 - [@22:32] - [Functional Components](https://yew.rs/docs/next/concepts/function-components/introduction)
 - [@25:05] - Server Side Rendering (SSR)
-- [@26:52] - When should you consider to use Yew
+- [@26:52] - When should you consider Yew
 - [@34:24] - [TypeScript](https://www.typescriptlang.org/)
 - [@38:46] - Is Yew limited to the browser?
 - [@39:56] - [Electron](https://www.electronjs.org/)
