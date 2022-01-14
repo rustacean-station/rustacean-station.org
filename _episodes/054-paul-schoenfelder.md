@@ -20,14 +20,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 
-- [@0:27] -	Paul's Bio and Lumen
-- [@4:30] -	Lumen can only compile [Erlang](https://www.erlang.org/)
+- [@0:27] - Paul's Bio and Lumen
+- [@4:30] - Lumen can only compile [Erlang](https://www.erlang.org/)
 - [@9:26] - SSA (Static Single Assignment) 
 - [@12:02] - BEAM
 - [@22:03] - [Web Assembly](https://webassembly.org/)
 - [@25:02] - Rust makes low level stuff easy to implement
-- [@34:44] - Browser limitations
-- [@37:01] - Erlang's [Observer](https://www.erlang.org/doc/apps/observer/observer_ug.html) and Distribution
+- [@34:44] - WASM Browser limitations
+- [@37:01] - Erlang's [Observer](https://www.erlang.org/doc/apps/observer/observer_ug.html) and [Distribution Protocol](https://www.erlang.org/doc/apps/erts/erl_dist_protocol.html)
 - [@41:10] - What is WASM (Web Assembly)?
 - [@49:01] - [WASI](https://wasi.dev/) (WebAssembly System Interface)
 - [@55:31] - Why should I learn another language when I can stick with Javascript?
