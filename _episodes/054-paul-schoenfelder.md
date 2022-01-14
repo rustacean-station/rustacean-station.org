@@ -1,6 +1,6 @@
 ---
 title: "Lumen with Paul Schoenfelder"
-date: 2022-01-14T17:00:00Z
+date: 2022-01-14T16:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e054-paul-schoenfelder.mp3
 duration: "1:13:07"
 length: "71177281"
