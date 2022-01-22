@@ -1,6 +1,6 @@
 ---
 title: "Gitoxide with Sebastian Thiel"
-date: 2022-01-21T16:30:00Z
+date: 2022-01-22T20:15:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e055-sebastian-thiel.mp3
 duration: "55:16"
 length: "54075439"
