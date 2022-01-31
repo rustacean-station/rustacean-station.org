@@ -6,7 +6,7 @@ duration: "50:00"
 length: "49020887"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Zeeshan Ali](https://twitter.com/theelbasian), creator of [zbus](https://github.com/zeenix/zbus). zbus is a Rust library used for interprocess communication using [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html).
+Allen Wyma talks with [Zeeshan Ali](https://twitter.com/zeenix), creator of [zbus](https://gitlab.freedesktop.org/dbus/zbus/). zbus is a Rust library used for interprocess communication using [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html).
 
 
 ## Contributing to Rustacean Station
