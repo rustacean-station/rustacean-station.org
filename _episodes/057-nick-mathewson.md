@@ -22,7 +22,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 - [@0:39] - Nick's Bio & TOR Project Introduction
 - [@2:33] - Deeper dive into TOR
-- [@8:07] - Advantage of Rust vs C Language when it comes to experiments on trying to bring stronger privacy to internet.
+- [@8:07] - Advantage of Rust over C when trying to bring stronger privacy to internet.
 - [@21:44] - The History of TOR
 - [@26:02] - How does TOR stay in business despite being a free service?
 - [@28:11] - What is Onion Routing and how does it work at a high level?
