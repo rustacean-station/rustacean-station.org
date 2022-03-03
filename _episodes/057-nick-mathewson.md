@@ -6,7 +6,7 @@ duration: "01:07:27"
 length: "64767372"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Nick Mathewson](http://www.wangafu.net/~nickm/), one of the creators of [Tor Project](https://www.torproject.org/). Tor Project is free and open-source software for enabling anonymous communication.
+Allen Wyma talks with [Nick Mathewson](http://www.wangafu.net/~nickm/), one of the creators of [Tor Project](https://www.torproject.org/). Tor is free and open-source software for enabling anonymous communication.
 
 
 ## Contributing to Rustacean Station
