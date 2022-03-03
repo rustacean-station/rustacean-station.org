@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@26:02] - How does TOR stay in business despite being a free service?
 - [@28:11] - What is Onion Routing and how does it work at a high level?
 - [@38:54] - TOR Browser vs other browsers
-- [@42:14] - Advise on how to maintain anonymous online
+- [@42:14] - Advise on how to maintain anonymity online
 - [@55:17] - Rust vs other languages
 - [@1:03:54] - Tips & tricks for people who are starting off in Rust
 - [@1:06:00] - Parting thoughts
