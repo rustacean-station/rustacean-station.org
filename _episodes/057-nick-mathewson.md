@@ -20,7 +20,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 
-- [@0:39] - Nick's Bio & TOR Project Introduction
+- [@0:39] - Nick's Bio & Tor Project Introduction
 - [@2:33] - Deeper dive into TOR
 - [@8:07] - Advantage of Rust over C when trying to bring stronger privacy to internet.
 - [@21:44] - The History of TOR
