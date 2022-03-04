@@ -24,7 +24,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@2:33] - Deeper dive into Tor
 - [@8:07] - Advantage of Rust over C when trying to bring stronger privacy to internet.
 - [@21:44] - The History of Tor
-- [@26:02] - How does TOR stay in business despite being a free service?
+- [@26:02] - How does Tor stay in business despite being a free service?
 - [@28:11] - What is Onion Routing and how does it work at a high level?
 - [@38:54] - TOR Browser vs other browsers
 - [@42:14] - Advise on how to maintain anonymity online
