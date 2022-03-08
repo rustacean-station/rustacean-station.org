@@ -6,7 +6,7 @@ duration: "1:21:48"
 length: "79237006"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with Jon Gjengset, a software enginner at [AWS](https://aws.amazon.com/), about his book [Rust for Rustaceans](https://nostarch.com/rust-rustaceans).
+Allen Wyma talks with Jon Gjengset, a software engineer at [AWS](https://aws.amazon.com/), about his book [Rust for Rustaceans](https://nostarch.com/rust-rustaceans).
 
 ## Contributing to Rustacean Station
 
