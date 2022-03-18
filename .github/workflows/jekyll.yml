@@ -91,7 +91,7 @@ jobs:
                -e '/xmlns:content/a \
                     xml:base="https://rustacean-station.org"' \
                validate.rss
-        git clone git://github.com/rubys/feedvalidator.git
+        git clone https://github.com/rubys/feedvalidator.git
         cd feedvalidator
         if ! python2 src/demo.py ../validate.rss; then
           cat ../validate.rss
