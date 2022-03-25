@@ -1,6 +1,6 @@
 ---
 title: "Rust Servers, Services, and Apps with Prabhu Eshwarla"
-date: 2022-03-25T22:40:00Z
+date: 2022-03-25T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e061-prabhu-eshwarla.mp3
 duration: "1:11:49"
 length: "68964334"
