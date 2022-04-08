@@ -1,5 +1,5 @@
 ---
-title: "Purdy"
+title: "Purdy with Marty Jones"
 date: 2022-04-08T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e063-martin-jones.mp3
 duration: "47:10"
