@@ -33,7 +33,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@41:41] - How does Armin deal with developers having different compilers in a working environment.
 - [@45:57] - Armin talks about Serde and other serialization challenges
 - [@55:33] - Serialization Frameworks
-- [@1:04:23] - Where to check out Armin's library
+- [@1:04:23] - Where to check out Armin's library: https://github.com/mitsuhiko/deser
 - [@1:07:34] - Armin's tips and tricks for people starting in Rust
 
 ## Other Resources
