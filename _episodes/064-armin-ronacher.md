@@ -1,5 +1,5 @@
 ---
-title: "Deser"
+title: "Armin Ronacher on experimental deserialization with Deser"
 date: 2022-04-15T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e064-armin-ronacher.mp3
 duration: "1:09:14"
