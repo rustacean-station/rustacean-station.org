@@ -20,7 +20,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 - [@0:50] - Armin's background
-- [@2:49] - The difference between Jinja & Jinja2
+- [@2:49] - The difference between [Jinja](https://jinja.palletsprojects.com/) & Jinja2
 - [@3:47] - What is Twig?
 - [@4:14] - Where did the names Jinja & Twig come from?
 - [@7:36] - What makes Jinja2 good in portablility?
