@@ -3,7 +3,7 @@ title: "Armin Ronacher on experimental deserialization with Deser"
 date: 2022-04-15T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e064-armin-ronacher.mp3
 duration: "1:09:14"
-length: "45286296"
+length: "66479752"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 Allen Wyma talks with [Armin Ronacher](http://armin.ronacher.eu/), creator of [Deser](https://github.com/mitsuhiko/deser). Deser is an experimental serialization system for Rust.
