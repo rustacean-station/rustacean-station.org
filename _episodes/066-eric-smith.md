@@ -1,5 +1,5 @@
 ---
-title: "Rust Servers, Services, and Apps with Prabhu Eshwarla"
+title: "Game Development with Rust and WebAssembly with Eric Smith"
 date: 2022-04-29T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e066-eric-smith.mp3
 duration: "52:25"
