@@ -3,7 +3,7 @@ title: "Game Development with Rust and WebAssembly with Eric Smith"
 date: 2022-04-29T15:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e066-eric-smith.mp3
 duration: "52:25"
-length: "50326047 "
+length: "50326047"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 Allen Wyma talks with [Eric Smith](https://twitter.com/paytonrules), author of [Game Development with Rust and WebAssembly](https://www.packtpub.com/product/game-development-with-rust-and-webassembly/9781801070973). Game Development with Rust and WebAssembly teaches you how to make games for the web, using Rust and WebAssembly.
