@@ -1,6 +1,6 @@
 ---
 title: "Rust Safety with Quentin Ochem and Florian Gilcher"
-date: 2022-05-07T16:30:00Z
+date: 2022-05-08T16:55:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e067-quentin-ochem-florian-gilcher.mp3
 duration: "50:54"
 length: "48869042"
@@ -28,8 +28,6 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@40:46] - How in demand is AdaCore and Ferrous System with their customers in different industries?
 - [@47:01] - AdaCore and Ferrous System's quality management
 - [@49:35] - Quentin & Florian's parting thoughts.
-
-## Other Resources
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
