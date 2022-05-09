@@ -21,14 +21,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@0:30] - Tobias' introduction
 - [@2:21] - What does Slint offer compared to other GUI frameworks?
 - [@6:52] - Slint's UI language
-- [@9:02] - From SixtyFPS to Slint, what's the idea behind the name change?
+- [@9:02] - From SixtyFPS to Slint, what's the idea behind the [name change](https://slint-ui.com/blog/sixtyfps-becomes-slint.html)?
 - [@14:57] - Different industries that Slint is serving
 - [@18:45] - Three different options for licensing Slint
 - [@21:39] - Slint's progress and efforts in supporting more customization
 - [@32:07] - Slint's upcoming projects and roadmap
 - [@35:19] - Tobias parting thoughts
-
-## Other Resources
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
