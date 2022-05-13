@@ -1,6 +1,6 @@
 ---
 title: "Slint with Tobias Hunger"
-date: 2022-05-13T15:30:00Z
+date: 2022-05-13T15:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e068-tobias-hunger.mp3
 duration: "40:24"
 length: "38796224"
