@@ -24,7 +24,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@14:01] - How Rust came into their project
 - [@22:21] - How Rob got involved in the Actix web framework
 - [@24:28] - Actix Web versions
-- [@30:24] - Why Actix Web does not use HYPER
+- [@30:24] - Why Actix Web does not use [Hyper](https://hyper.rs/)
 - [@38:14] - Actix Web's upcoming updates and roadmap
 - [@38:56] - Rob's parting thoughts
 
