@@ -1,5 +1,5 @@
 ---
-episode: _episodes/2019-09-15-rust-in-production-armin-ronacher.md
+episode: _episodes/2019-09-17-rust-in-production-armin-ronacher.md
 ---
 
 __Ben Striegel__: Howdy, folks. You're listening to Rustacean Station. Today's

@@ -1,5 +1,5 @@
 ---
-episode: _episodes/2020-08-28-redisjson.md
+episode: _episodes/2020-08-29-redisjson.md
 ---
 
 {%- include util.html -%}
