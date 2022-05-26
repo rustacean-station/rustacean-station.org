@@ -18,7 +18,7 @@ jobs:
     - name: Dates are valid
       run: |
         pip install pytz ciso8601
-        for episode in _episodes/*.md; do
+        for episode in _episodes/*/*.md; do
           date=$(grep 'date:' "$episode" | head -n1 | sed 's/^date: //')
           if ! python2 -c "import ciso8601; ciso8601.parse_rfc3339('$date');"; then
             echo "$episode: bad date '$date'"
@@ -27,7 +27,7 @@ jobs:
         done
     - name: File size specifications are correct
       run: |
-        for episode in _episodes/*.md; do
+        for episode in _episodes/*/*.md; do
           length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
           file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
           size=$(curl --head -f -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
@@ -42,12 +42,12 @@ jobs:
         done
     - name: No duplicate URLs
       run: |
-        for episode in _episodes/*.md; do
+        for episode in _episodes/*/*.md; do
           file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
-          n=$(grep -F "$file" -l _episodes/*.md | wc -l)
+          n=$(grep -F "$file" -l _episodes/*/*.md | wc -l)
           if [[ $n -gt 1 ]]; then
-            echo "$(basename "$episode"): shares file with other episodes:"
-            grep -F "$file" -l _episodes/*.md | grep -vF "$episode"
+            echo "$episode: shares file with other episodes:"
+            grep -F "$file" -l _episodes/*/*.md | grep -vF "$episode"
             exit 1
           fi
         done
@@ -57,10 +57,10 @@ jobs:
     - uses: actions/checkout@v1
     - name: Transcripts match episodes
       run: |
-        for transcript in _transcripts/*.md; do
-          episode="_episodes/$(basename "$transcript")"
+        for transcript in _transcripts/*/*.md; do
+          episode="_episodes/$(basename "$(dirname "$transcript")")/$(basename "$transcript")"
           if [[ ! -e $episode ]]; then
-            echo "$(basename "$transcript"): no matching episode"
+            echo "$transcript: no matching episode"
             exit 1
           fi
         done
