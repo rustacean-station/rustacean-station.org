@@ -6,7 +6,7 @@ duration: "1:01:30"
 length: "59048856"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Kyle Machulis](https://twitter.com/robjtede), lead developer on [Buttplug](https://buttplug.io/). Buttplug is an open-source standards and software project for controlling intimate hardware such as sex toys.
+Allen Wyma talks with [Kyle Machulis](https://twitter.com/qDot), lead developer on [Buttplug](https://buttplug.io/). Buttplug is an open-source standards and software project for controlling intimate hardware such as sex toys.
 
 ## Contributing to Rustacean Station
 
