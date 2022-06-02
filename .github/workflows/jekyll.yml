@@ -51,6 +51,18 @@ jobs:
             exit 1
           fi
         done
+    - name: No duplicate slugs
+      # For collections, jekyll _only_ uses the basename (without date) of each
+      # post for the slug, and doesn't error on duplicates. So we must check.
+      run: |
+        for episode in _episodes/*/*.md; do
+          slug="$(basename "$episode" | sed 's/^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//')"
+          files=(_episodes/*/????-??-??-$slug)
+          if [[ "${#files[@]}" -gt 1 ]]; then
+            echo "Duplicate slugs found: ${files[*]}"
+            exit 1
+          fi
+        done
   transcript:
     runs-on: ubuntu-latest
     steps:
