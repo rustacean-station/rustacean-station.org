@@ -1,7 +1,7 @@
 ---
 title: "egui with Emil Ernerfeldt"
 date: 2022-06-03T15:30:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e071-emil-ernerfeldt.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/rustacean-station-e072-emil-ernerfeldt.mp3
 duration: "1:01:49"
 length: "60401530"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
