@@ -6,7 +6,7 @@ duration: "56:47"
 length: "55601613"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Rebecca Rumbul](https://twitter.com/rebeccarumbul), Executive Director & CEO at [Rust Foundation](https://foundation.rust-lang.org/). The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.
+Allen Wyma talks with [Rebecca Rumbul](https://twitter.com/rebeccarumbul), Executive Director and CEO at [Rust Foundation](https://foundation.rust-lang.org/). The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.
 
 ## Contributing to Rustacean Station
 
