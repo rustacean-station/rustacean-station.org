@@ -31,8 +31,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@31:08] - Board member [Nell Shamrell-Harrington](https://twitter.com/nellshamrell) & The Rust Foundation sponsoring
 - [@35:00] - Rebecca on making tough decisions
 - [@36:46] - Nell's weekly newsletter
-- [@40:20] - Why is it that would make a company pay for a Platinum membership?
-- [@44:21] - Rebecca's [Background](https://www.linkedin.com/in/rebecca-rumbul-96a5441a/)
+- [@40:20] - What makes a company pay for a Platinum membership?
+- [@44:21] - Rebecca's [background](https://www.linkedin.com/in/rebecca-rumbul-96a5441a/)
 - [@49:28] - Anything difficult in running The Rust Foundation?
 - [@51:16] - Future plans for Rust Foundation
 - [@54:12] - [Contacting The Rust Foundation](https://foundation.rust-lang.org/info/contact/)
