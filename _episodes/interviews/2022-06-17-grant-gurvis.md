@@ -18,7 +18,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps 
-- [@0:32] - Grant's Bio and [Fig](https://fig.io/) Introduction
+- [@0:32] - Grant's bio and [Fig](https://fig.io/) introduction
 - [@4:25] - Fig's support and integration expansion
 - [@6:05] - Differentiating [Warp](https://www.warp.dev/) and Fig
 - [@8:38] - Changes that need to happen in order to support Linux and Windows
@@ -29,8 +29,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@29:55] - Opportunites for Rust engineers
 
 ## Other Resources
-- [Fig's Github](https://github.com/withfig)
-- [Grant’'s Github](https://github.com/grant0417)
+- [Fig's GitHub](https://github.com/withfig)
+- [Grant's GitHub](https://github.com/grant0417)
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
