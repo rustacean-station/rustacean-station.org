@@ -1,6 +1,6 @@
 ---
 title: "Zig with Andrew Kelley"
-date: 2022-06-24T17:30:00Z
+date: 2022-06-24T16:05:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-06-24-andrew-kelley.mp3
 duration: "56:25"
 length: "54172108"
@@ -21,13 +21,13 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@0:51] - Andrew's introduction
 - [@2:55] - Rust vs Zig
 - [@5:27] - What is [undefined behavior (UB)](https://doc.rust-lang.org/reference/behavior-considered-undefined.html) and what causes it?
-- [@11:37] - How does Zig deal with undefined behaviour
-- [@16:09] - How to handle Zig that in production
+- [@11:37] - How does Zig deal with undefined behavior?
+- [@16:09] - How well does Zig work in production?
 - [@22:46] - Deeper dive into Andrew's programming background
-- [@33:35] - What is Zig's mission statement and what they're doing as a non-profit?
+- [@33:35] - Zig's mission statement and what they're doing as a non-profit
 - [@37:38] - Zig's update release management
-- [@40:06] - Andrew's [OkCupid](https://andrewkelley.me/post/full-time-zig.html) project
-- [@42:20] - Andrew's preparations and motivations for running a language
+- [@40:06] - Andrew's [OkCupid project](https://andrewkelley.me/post/full-time-zig.html)
+- [@42:20] - Andrew's preparations and motivations for making a language
 - [@46:11] - Zig using [LLVM](https://llvm.org/)
 - [@49:12] - What's next for Zig?
 - [@54:20] - Parting thoughts
