@@ -1,6 +1,6 @@
 ---
 title: "High Assurance Rust with Tiemoko Ballo"
-date: 2022-07-08T17:30:00Z
+date: 2022-07-08T15:05:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-07-08-tiemoko-ballo.mp3
 duration: "58:01"
 length: "55704346"
@@ -21,17 +21,17 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@0:34] - Tiemeko's introduction
 - [@2:18] - Defining Safety critical and Mission critical
 - [@3:22] - How to develop software in Rust and have a high assurance?
-- [@8:21] - Rust having no standard behaviour and how it will react on different compilers
+- [@8:21] - The lack of standardized behavior and different compilers
 - [@13:29] - Different approaches to assurance testing
 - [@14:54] - How does Rust's memory safety work?
 - [@20:57] - Temporal memory
-- [@22:59] - What is a borrow checker and how to know that it's working properly?
-- [@28:17] - The difference between Fuzz testing, Property-based testing, Chaos testing
+- [@22:59] - What is a borrow checker and how do we know that it's working properly?
+- [@28:17] - The difference between fuzz testing, property-based testing, and chaos testing
 - [@35:48] - Teimoko's programming background
 - [@42:55] - Teimoko's work and projects
 - [@46:15] - Rust's error handling and concurrency advantages over other languages
-- [@49:29] - Rust's downside in terms of guaranteeing high assurance and justifiability
-- [@53:17] - How to stay up to date on what's happening in the security and security research space.
+- [@49:29] - What Rust lacks in terms of guaranteeing high assurance and justifiability
+- [@53:17] - How to stay up to date on what's happening in the security space.
 - [@54:35] - Parting thoughts
 
 ## Credits
