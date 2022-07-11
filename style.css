@@ -20,7 +20,6 @@ body > h1 {
 }
 	body > h1 img {
 		max-height: 25vh;
-		display: block;
 		margin: 1em auto 0;
 		border: 5px solid white;
 	}
