@@ -1,6 +1,6 @@
 ---
-title: "Rust Async with Tyler Mandry"
-date: 2022-07-15T17:30:00Z
+title: "Asynchronous Rust with Tyler Mandry"
+date: 2022-07-16T13:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-07-15-tyler-mandry.mp3
 duration: "1:01:30"
 length: "59048856"
@@ -20,16 +20,16 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ## Timestamps 
 - [@0:10] - Async Working Group introduction
 - [@3:08] - Async progress over the past few years
-- [@5:16] - Fuchsia Operating system and its goals in comparison to others
-- [@6:19] - How much Fushia is written in Rust?
-- [@8:16] - The experience and feedback so far of Fuchsia using Rust
-- [@17:29] - Why are async runtimes not compatible with each other? and what solutions are they making?
-- [@23:06] - How do they handle feedback
-- [@25:33] - One most important issue that the working group is working on at the moment?
+- [@5:16] - The Fuchsia operating system and its goals
+- [@6:19] - How much of Fushia is written in Rust?
+- [@8:16] - The experience of using Rust in Fuchsia so far
+- [@17:29] - Why are async runtimes not compatible with each other, and how might it be solved?
+- [@23:06] - How does the working group handle feedback?
+- [@25:33] - What's the most important issue the working group is working on?
 - [@32:45] - Different types of async runtimes
 - [@34:36] - Turning synchronous into async
-- [@39:36] - How did Tyler go from C++ to Rust and still stay within the asynchronous code?
-- [@47:14] - Tyler's code writing and documentation writing
+- [@39:36] - How did Tyler go from async C++ to async Rust?
+- [@47:14] - Tyler's code and documentation writing
 - [@54:21] - Where to connect with Tyler
 
 ## Other Resources
