@@ -2,8 +2,8 @@
 title: "Asynchronous Rust with Tyler Mandry"
 date: 2022-07-16T13:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-07-15-tyler-mandry.mp3
-duration: "1:01:30"
-length: "59048856"
+duration: "0:56:49"
+length: "54559137"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 Allen Wyma talks with [Tyler Mandry](https://twitter.com/tmandry), lead on [Rust Async Working Group](https://rust-lang.github.io/wg-async/welcome.html). Rust Async Working Group is focused around implementation/design of the "foundations" for Async I/O.
