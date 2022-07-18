@@ -1,6 +1,6 @@
 ---
 title: "Asynchronous Rust with Tyler Mandry"
-date: 2022-07-16T13:50:00Z
+date: 2022-07-18T07:10:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-07-15-tyler-mandry.mp3
 duration: "0:56:49"
 length: "54559137"
