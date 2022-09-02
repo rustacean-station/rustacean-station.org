@@ -6,7 +6,7 @@ duration: "34:18"
 length: "32937273"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Dmitry Stepanov](https://github.com/mrDIMAS), creator of [Fyrox](https://fyrox.rs/). Fyrox is a feature-rich, general purpose game engine that is suitable for any kind of games.
+Allen Wyma talks with [Dmitry Stepanov](https://github.com/mrDIMAS), creator of [Fyrox](https://fyrox.rs/). Fyrox is a feature-rich, general purpose game engine built in Rust.
 
 ## Contributing to Rustacean Station
 
