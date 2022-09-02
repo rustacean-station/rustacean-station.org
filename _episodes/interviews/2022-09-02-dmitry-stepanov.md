@@ -1,6 +1,6 @@
 ---
 title: "Fyrox with Dmitry Stepanov"
-date: 2022-09-02T17:00:00Z
+date: 2022-09-02T15:45:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-09-02-dmitry-stepanov.mp3
 duration: "34:18"
 length: "32937273"
