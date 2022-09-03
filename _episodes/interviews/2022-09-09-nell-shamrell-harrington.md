@@ -1,6 +1,6 @@
 ---
 title: "Microsoft with Nell Shamrell-Harrington"
-date: 2022-09-02T15:45:00Z
+date: 2022-09-09T15:45:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-09-09-nell-shamrell-harrington.mp3
 duration: "51:31"
 length: "49470901"
