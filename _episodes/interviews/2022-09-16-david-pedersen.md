@@ -32,7 +32,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@35:54] - David's Rust experience vs other web frameworks
 - [@40:25] - Clippy
 - [@41:41] - Upcoming changes and roadmap for Axum
-- [@45:28] -  Parting thoughts and how to reach out to David
+- [@45:28] - Parting thoughts and how to reach out to David
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
