@@ -1,12 +1,12 @@
 ---
-title: "Microsoft with Nell Shamrell-Harrington"
+title: "Rust at Microsoft with Nell Shamrell-Harrington"
 date: 2022-09-09T15:45:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-09-09-nell-shamrell-harrington.mp3
 duration: "51:31"
 length: "49470901"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Nell Shamrell-Harrington](https://twitter.com/nellshamrell), Member Board of Directors at [Rust Foundation](https://foundation.rust-lang.org/) and Principal Software Engineer at [Microsoft](https://microsoft.com/).
+Allen Wyma talks with [Nell Shamrell-Harrington](https://twitter.com/nellshamrell), Member Board of Directors at [Rust Foundation](https://foundation.rust-lang.org/) and Principal Software Engineer at [Microsoft](https://microsoft.com/) about Microsoft's use of Rust, her time being involved with Rust, and also the Rust RFC process..
 
 ## Contributing to Rustacean Station
 
