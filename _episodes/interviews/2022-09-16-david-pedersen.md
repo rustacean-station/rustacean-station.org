@@ -1,6 +1,6 @@
 ---
 title: "Axum with David Pedersen"
-date: 2022-09-16T15:45:00Z
+date: 2022-09-16T15:10:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-09-16-david-pedersen.mp3
 duration: "49:10"
 length: "47202638"
@@ -19,7 +19,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 - [@0:40] - Introduction
-- [@1:13] - Why Axum needs a web framework underneath the Tokyo umbrella
+- [@1:13] - Why Axum is developed under the Tokio project umbrella
 - [@5:58] - What to expect from Axum
 - [@8:14] - Axum additional features
 - [@9:40] - Why Tokio decided to roll their own web framework
