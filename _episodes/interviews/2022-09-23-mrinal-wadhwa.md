@@ -1,6 +1,6 @@
 ---
 title: "Ockam with Mrinal Wadhwa"
-date: 2022-09-23T15:10:00Z
+date: 2022-09-23T15:28:31Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-09-23-mrinal-wadhwa.mp3
 duration: "44:29"
 length: "42705398"
