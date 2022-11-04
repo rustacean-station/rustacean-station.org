@@ -1,6 +1,6 @@
 ---
 title: "Pants with Eric Arellano and Stu Hood"
-date: 2022-11-04T02:00:00Z
+date: 2022-11-04T15:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-11-04-eric-arellano-stu-hood.mp3
 duration: "42:14"
 length: "40557086"
