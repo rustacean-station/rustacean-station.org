@@ -6,7 +6,7 @@ duration: "42:14"
 length: "40557086"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Eric Arellano](https://www.linkedin.com/in/arellanoeric) and [Stu Hood](https://twitter.com/stuhood), maintainers of [Pants](https://www.pantsbuild.org/), a build system made for monorepos.
+Allen Wyma talks with [Eric Arellano](https://www.linkedin.com/in/arellanoeric) (they/them) and [Stu Hood](https://twitter.com/stuhood) (he/him), maintainers of [Pants](https://www.pantsbuild.org/), a build system made for monorepos.
 
 ## Contributing to Rustacean Station
 
