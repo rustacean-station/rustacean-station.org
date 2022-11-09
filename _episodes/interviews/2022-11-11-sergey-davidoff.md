@@ -1,5 +1,5 @@
 ---
-title: "Pants with Eric Arellano and Stu Hood"
+title: "cargo-auditable with Sergey Davidoff"
 date: 2022-11-11T15:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-11-11-sergey-davidoff.mp3
 duration: "1:04:33"
