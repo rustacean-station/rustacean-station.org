@@ -1,12 +1,12 @@
 ---
 title: "cargo-auditable with Sergey Davidoff"
-date: 2022-11-11T15:50:00Z
+date: 2022-11-11T16:55:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-11-11-sergey-davidoff.mp3
 duration: "1:04:33"
 length: "61978331"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Sergey Davidoff](https://github.com/Shnatsel), creator of [cargo-auditable](https://github.com/rust-secure-code/cargo-auditable), a cargo plugin for auditing your rust create dependencies for security vulnerabilities.
+Allen Wyma talks with [Sergey Davidoff](https://github.com/Shnatsel), creator of [cargo-auditable](https://github.com/rust-secure-code/cargo-auditable), a cargo plugin for auditing your Rust dependencies for security vulnerabilities.
 
 ## Contributing to Rustacean Station
 
