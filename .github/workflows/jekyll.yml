@@ -11,8 +11,8 @@ jobs:
   episode:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-python@v1
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
       with:
         python-version: '2.x'
     - name: Dates are valid
@@ -66,7 +66,7 @@ jobs:
   transcript:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v3
     - name: Transcripts match episodes
       run: |
         for transcript in _transcripts/*/*.md; do
@@ -79,10 +79,11 @@ jobs:
   feed:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-ruby@v1
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.x'
+        ruby-version: '2.7'
+        bundler-cache: true
     - name: Install dependencies
       run: bundle install
     - name: Build site and feed
