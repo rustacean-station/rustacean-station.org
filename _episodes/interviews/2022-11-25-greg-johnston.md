@@ -1,6 +1,6 @@
 ---
 title: "Leptos with Greg Johnston"
-date: 2022-11-25T18:45:00Z
+date: 2022-11-25T17:13:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-11-25-greg-johnston.mp3
 duration: "1:16:58"
 length: "73890168"
@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@33:44] - Pros of using Leptos
 - [@38:19] - Leptos' Server Side Rendering feature
 - [@45:44] - Leptos' build tool limitations
-- [@51:40] - Leptos ability to interact with other languages
+- [@51:40] - Leptos' ability to interact with other languages
 - [@59:25] - Greg's work and projects using JavaScript
 - [@1:00:45] - Greg's Flutter experience 
 - [@1:04:21] - Greg's Ionic experience
