@@ -31,7 +31,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@40:52] - Allocating memory for data
 - [@49:34] - Safety invariants and validity invariants in the Rust ecosystem
 - [@53:19] - How to use unsafe code in a way that does not violate the validity invariant of Rust
-- [@1:04:01] - Embark Studios' mission to create a world where you can modify your environment as part of the experience of playing
+- [@1:04:01] - Embark Studio's mission to enable those who play games to also modify the game worlds they play in
 - [@1:07:27] - Embark Studio's Rust game projects
 - [@1:09:08] - Parting thoughts
 
