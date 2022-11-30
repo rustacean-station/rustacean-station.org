@@ -26,7 +26,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@18:57] - What makes triangles very useful in drawing and designing
 - [@22:41] - Matrix math as a fundamental building block of computer graphics
 - [@28:13] - Understanding the concept of uninitialized memory and why Presser is necessary
-- [@36:31] - LLVM’s “No Uninitialized Memory” attribute.
+- [@36:31] - LLVM's "No Uninitialized Memory" attribute.
 - [@39:06] - Rust's virtual machine
 - [@40:52] - Allocating memory for data
 - [@49:34] - Safety invariants and validity invariants in the Rust ecosystem
