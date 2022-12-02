@@ -12,15 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '2.x'
     - name: Dates are valid
       run: |
         pip install pytz ciso8601
         for episode in _episodes/*/*.md; do
           date=$(grep 'date:' "$episode" | head -n1 | sed 's/^date: //')
-          if ! python2 -c "import ciso8601; ciso8601.parse_rfc3339('$date');"; then
+          if ! python -c "import ciso8601; ciso8601.parse_rfc3339('$date');"; then
             echo "$episode: bad date '$date'"
             exit 1
           fi
@@ -93,6 +90,13 @@ jobs:
         url: https://rustacean-station.org' \
                _config.yml
         bundle exec jekyll build
+    - name: Grab feed validator
+      run: |
+        git clone https://github.com/w3c/feedvalidator.git
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        cache: 'pip'
     - name: Validate feed
       run: |
         # Fix Ubuntu MIME type for RSS
@@ -104,9 +108,9 @@ jobs:
                -e '/xmlns:content/a \
                     xml:base="https://rustacean-station.org"' \
                validate.rss
-        git clone https://github.com/rubys/feedvalidator.git
         cd feedvalidator
-        if ! python2 src/demo.py ../validate.rss; then
+        pip install -r requirements.txt
+        if ! python src/demo.py ../validate.rss; then
           cat ../validate.rss
           exit 1
         fi
