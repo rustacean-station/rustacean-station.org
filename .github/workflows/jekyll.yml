@@ -90,6 +90,13 @@ jobs:
         url: https://rustacean-station.org' \
                _config.yml
         bundle exec jekyll build
+    - name: Grab feed validator
+      run: |
+        git clone https://github.com/w3c/feedvalidator.git
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        cache: 'pip'
     - name: Validate feed
       run: |
         # Fix Ubuntu MIME type for RSS
@@ -101,8 +108,8 @@ jobs:
                -e '/xmlns:content/a \
                     xml:base="https://rustacean-station.org"' \
                validate.rss
-        git clone https://github.com/w3c/feedvalidator.git
         cd feedvalidator
+        pip install -r requirements.txt
         if ! python src/demo.py ../validate.rss; then
           cat ../validate.rss
           exit 1
