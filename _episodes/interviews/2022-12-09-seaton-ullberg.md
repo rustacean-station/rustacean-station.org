@@ -6,7 +6,7 @@ duration: "43:14"
 length: "41503347"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Seaton Ullberg](https://github.com/seatonullberg), developer of [Kernel Density Estimation](https://github.com/seatonullberg/kernel-density-estimation), a library that helps to calculate the kernel desnity estimation using data points.
+Allen Wyma talks with [Seaton Ullberg](https://github.com/seatonullberg), developer of [kernel-density-estimation](https://github.com/seatonullberg/kernel-density-estimation), a Rust library that computes [kernel density estimations](https://en.wikipedia.org/wiki/Kernel_density_estimation).
 
 ## Contributing to Rustacean Station
 
