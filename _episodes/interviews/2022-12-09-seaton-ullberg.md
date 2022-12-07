@@ -24,7 +24,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@24:05] - Application uses of Kernel Density Estimation
 - [@33:38] - Why write this library
 - [@35:03] - Why use Rust when re-writing this library
-- [@40:26] - Seaton using Float64 as a feature
+- [@40:26] - Seaton using f64 as a feature
 - [@42:20] - Parting thoughts
 
 ## Credits
