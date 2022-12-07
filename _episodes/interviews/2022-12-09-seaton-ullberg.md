@@ -19,7 +19,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 - [@0:00] - Introduction
-- [@0:55] - Understanding Kernel Density Estimation library and how it works
+- [@0:55] - Crate overview and how it works
 - [@17:49] - Kernel Density Estimation vs other competing algorithms
 - [@24:05] - Application uses of Kernel Density Estimation
 - [@33:38] - Why write this library
