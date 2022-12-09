@@ -1,6 +1,6 @@
 ---
 title: "Kernel Density Estimation with Seaton Ullberg"
-date: 2022-12-02T17:04:00Z
+date: 2022-12-09T16:43:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-12-06-seaton-ullberg.mp3
 duration: "43:14"
 length: "41503347"
