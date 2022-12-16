@@ -1,6 +1,6 @@
 ---
 title: "C2Rust with Stephen Crane"
-date: 2022-12-16T17:04:00Z
+date: 2022-12-16T16:51:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2022-12-16-stephen-crane.mp3
 duration: "55:31"
 length: "53300245"
