@@ -6,7 +6,7 @@ duration: "54:19"
 length: "52142916"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Matt Butcher](https://twitter.com/technosophos), CEO of [Fermyon](https://www.fermyon.com/), who is working on [Fermyon Cloud](https://www.fermyon.com/cloud), a platform to effortlessly deploy and host your WebAssembly applications.
+Allen Wyma talks with [Matt Butcher](https://twitter.com/technosophos), CEO of [Fermyon](https://www.fermyon.com/), who is working on [Fermyon Cloud](https://www.fermyon.com/cloud), a platform to deploy and host WebAssembly applications.
 
 ## Contributing to Rustacean Station
 
