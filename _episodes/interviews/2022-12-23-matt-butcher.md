@@ -1,7 +1,7 @@
 ---
 title: "Fermyon with Matt Butcher"
-date: 2022-12-23T16:51:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2022-12-23-matt-butcher.mp3
+date: 2023-01-06T16:51:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-01-06-matt-butcher.mp3
 duration: "54:19"
 length: "52142916"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
@@ -23,7 +23,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@9:39] - Matt's work experience on HP and HP Cloud.
 - [@13:40] - Kubernetes
 - [@20:07] - WebAssembly
-- [@30:27] - What happened to Krustlet
+- [@30:27] - [Krustlet](https://krustlet.dev/)
 - [@36:21] - Edge Computing
 - [@41:05] - Fermyon Cloud
 - [@50:48] - Where to learn more about Fremyon Cloud
