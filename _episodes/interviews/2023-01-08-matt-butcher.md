@@ -1,7 +1,7 @@
 ---
 title: "Fermyon with Matt Butcher"
-date: 2023-01-06T16:51:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-01-06-matt-butcher.mp3
+date: 2023-01-08T17:54:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-01-08-matt-butcher.mp3
 duration: "54:19"
 length: "52142916"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
