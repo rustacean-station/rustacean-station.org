@@ -1,6 +1,6 @@
 ---
 title: "Rust Magazine with Shuang Zhu"
-date: 2023-01-20T17:54:00Z
+date: 2023-01-20T16:56:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-01-20-shuang-zhu.mp3
 duration: "28:52"
 length: "27719471"
