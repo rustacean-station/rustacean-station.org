@@ -1,6 +1,6 @@
 ---
 title: "Rust Web Programming with Maxwell Flitton"
-date: 2023-01-27T16:56:00Z
+date: 2023-01-27T16:54:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-01-27-maxwell-flitton.mp3
 duration: "46:00"
 length: "44157806"
@@ -21,7 +21,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@0:00] - Introduction
 - [@3:21] - What led Maxwell to write and publish books about Rust
 - [@6:02] - Type-checking and Python crashes
-- [@8:50] - Rust technology and  its sustainability
+- [@8:50] - Rust technology and its sustainability
 - [@12:32] - Python vs Rust
 - [@13:23] - Maxwell's background and history
 - [@16:11] - Details about Maxwell's book Rust Web Programming
@@ -29,7 +29,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@24:02] - Maxwell's thoughts and motivation for publishing more books
 - [@32:44] - Rust community
 - [@35:19] - Rust innovations happening in London
-- [@36:22] - Where to purchase the Rust Web Programming
+- [@36:22] - Where to purchase the Rust Web Programming book
 - [@40:14] - What to expect for the upcoming book editions
 - [@43:48] - Parting thoughts
 
