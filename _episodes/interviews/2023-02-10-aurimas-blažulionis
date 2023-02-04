@@ -6,7 +6,7 @@ duration: "42:12"
 length: "40508186"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Aurimas Blažulionis](https://blaz.is/), author of [We Need Type Information, Not Stable ABI](https://blaz.is/blog/post/we-dont-need-a-stable-abi/) which details that a stable ABI may not be required for Rust, but other solutions that may work.
+Allen Wyma talks with [Aurimas Blažulionis](https://blaz.is/), author of [We Need Type Information, Not Stable ABI](https://blaz.is/blog/post/we-dont-need-a-stable-abi/) blog post, which details possible alternatives to a stable Rust ABI.
 
 ## Contributing to Rustacean Station
 
