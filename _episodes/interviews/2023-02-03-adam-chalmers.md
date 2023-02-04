@@ -6,7 +6,7 @@ duration: "01:06:25"
 length: "63763435"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Adam Chalmers](https://maxwellflitton.com/), software engineer at [Cloudflare](https://www.cloudflare.com/) which is a global network of servers located around the world that help power and secure the internet.
+Allen Wyma talks with [Adam Chalmers](https://maxwellflitton.com/), software engineer at [Cloudflare](https://www.cloudflare.com/) which is a global network of servers located around the world that uses Rust to help power and secure the internet.
 
 ## Contributing to Rustacean Station
 
@@ -23,8 +23,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@7:56] - Running Rust binary on Cloudflare
 - [@10:36] - Adams' background and work history
 - [@15:12] - How does Cloudflare provide web security?
-- [@32:30] - Cloudflare’s transition and rewriting from C to Rust
-- [@37:12] - Cloudflare’s data plane and control plane
+- [@32:30] - Cloudflare's transition and rewriting from C to Rust
+- [@37:12] - Cloudflare's data plane and control plane
 - [@43:00] - Hacking and security issues on Apple and other devices
 - [@50:56] - How does Cloudflare handle onboarding people to Rust
 - [@1:00:09] - The importance of Rust's performance and reliability for Cloudflare
