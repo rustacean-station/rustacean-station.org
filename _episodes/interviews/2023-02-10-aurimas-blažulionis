@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@19:02] - ABI for Rust
 - [@21:14] - Fat pointers and zero-size types
 - [@23:50] - Writing FFI
-- [@31:15] - C FFI relation to Rust ABI
+- [@31:15] - C FFI in relation to a Rust ABI
 - [@32:12] - System support for Rust
 - [@39:30] - Auri's blog and articles
 - [@40:53] - Where to reach out to Auri
