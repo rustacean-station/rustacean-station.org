@@ -6,7 +6,7 @@ duration: "28:52"
 length: "27719471"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Shuang Zhu](https://folyd.com/), creator of [Rust Magazine](https://rustmagazine.org/), a Rust-focused online magazine, that provides articles from experts and enthusiasts in Rust.
+Allen Wyma talks with [Shuang Zhu](https://folyd.com/), creator of [Rust Magazine](https://rustmagazine.org/), a Rust-focused online magazine that provides articles from experts and enthusiasts in Rust.
 
 ## Contributing to Rustacean Station
 
