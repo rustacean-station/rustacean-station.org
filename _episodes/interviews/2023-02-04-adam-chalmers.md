@@ -6,7 +6,7 @@ duration: "01:06:25"
 length: "63763435"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Adam Chalmers](https://maxwellflitton.com/), software engineer at [Cloudflare](https://www.cloudflare.com/) which is a global network of servers located around the world that uses Rust to help power and secure the internet.
+Allen Wyma talks with [Adam Chalmers](https://adamchalmers.com/), software engineer at [Cloudflare](https://www.cloudflare.com/), which is a global network of servers located around the world, that uses Rust to help power and secure the internet.
 
 ## Contributing to Rustacean Station
 
