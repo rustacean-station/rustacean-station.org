@@ -1,7 +1,8 @@
 ---
 title: "Rust ABI with Aurimas Blažulionis"
+
 date: 2023-02-10T23:59:59Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-02-10-23-02-10-aurimas-blazulionis.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-02-10-aurimas-blazulionis.mp3
 duration: "42:12"
 length: "40508186"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
