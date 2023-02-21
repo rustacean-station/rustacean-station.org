@@ -1,12 +1,12 @@
 ---
 title: "Lodestone with Wilbur Zhang, Peter Jiang, and Kevin Huang"
-date: 2023-02-10T16:46:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-02-17-lodestone.mp3
+date: 2023-02-21T08:44:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-02-21-lodestone.mp3
 duration: "47:28"
 length: "45571762"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with the [Lodestone](https://www.lodestone.cc/) team, who is working a tool to create private Minecraft servers in a safe and convenient way.
+Allen Wyma talks with the [Lodestone](https://www.lodestone.cc/) team, who is working a tool to create private Minecraft servers in a safe and convenient way using Rust.
 
 ## Contributing to Rustacean Station
 
@@ -24,9 +24,9 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@9:28] - Why choose Rust
 - [@12:23] - Go vs Rust
 - [@13:53] - Experience using [Tauri](https://tauri.app/)
-- [@16:05] - Lodestone’s front-end work
+- [@16:05] - Lodestone's front-end work
 - [@19:18] - Setting up and using Lodestone 
-- [@21:46] - Lodestone's issues and challenges that the team is currently working on
+- [@21:46] - Issues and challenges the team is currently working on
 - [@25:27] - The advantage of using Rust
 - [@27:21] - Crates used in the project
 - [@29:51] - How Actors work
