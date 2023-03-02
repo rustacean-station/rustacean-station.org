@@ -26,7 +26,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@30:27] - [Krustlet](https://krustlet.dev/)
 - [@36:21] - Edge Computing
 - [@41:05] - Fermyon Cloud
-- [@50:48] - Where to learn more about Fremyon Cloud
+- [@50:48] - Where to learn more about Fermyon Cloud
 - [@52:58] - Parting thoughts
 
 ## Credits
