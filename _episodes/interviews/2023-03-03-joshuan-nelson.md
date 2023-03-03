@@ -1,6 +1,6 @@
 ---
 title: "Rustdoc with Joshua Nelson"
-date: 2023-03-03T16:47:00Z
+date: 2023-03-03T16:37:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-03-03-joshua-nelson.mp3
 duration: "48:52"
 length: "46918426"
