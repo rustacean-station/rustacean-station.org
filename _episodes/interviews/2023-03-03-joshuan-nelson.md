@@ -1,12 +1,12 @@
 ---
 title: "Rustdoc with Joshua Nelson"
-date: 2023-03-03T08:44:00Z
+date: 2023-03-03T16:47:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-03-03-joshua-nelson.mp3
 duration: "48:52"
 length: "46918426"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with the Joshua Nelson, team lead for the Bootstrap team for Rust, and formally on the Rustdoc team for Rust.
+Allen Wyma talks with [Joshua Nelson](https://jyn.dev/), team lead for the [Bootstrap](https://rustc-dev-guide.rust-lang.org/building/bootstrapping.html) team for Rust, and formally on the Rustdoc team for Rust.
 
 ## Contributing to Rustacean Station
 
@@ -19,16 +19,16 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 - [@0:00] - Introduction
-- [@1:07] - Different  groups and teams in the Rust community
+- [@1:07] - Different groups and teams in the Rust community
 - [@8:31]  - Memory safety and security issues 
 - [@10:26] - Rust documentation
 - [@12:13] - Joshua's contribution to Rust's documentation
-- [@14:57] - How did Joshua get involve with Rust
+- [@14:57] - How did Joshua get involved with Rust
 - [@18:17] - Documentation and prioritizing features
 - [@23:19] - Rust team and governance issues
-- [@34:17] - Maintaining codes
+- [@34:17] - Maintaining the code
 - [@37:45] - Joshua's new team and career
-- [@42:20] - Cargo and Bootstrap tool
+- [@42:20] - Cargo and the bootstrap tool
 - [@46:08] - Parting thoughts
 
 ## Credits
