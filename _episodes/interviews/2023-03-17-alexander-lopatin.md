@@ -22,12 +22,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@3:17] - What made Alexander interested in the Rust
 - [@4:43] - What is Cargo Limit?
 - [@9:19] - Cargo Limit's features
-- [@11:20] - Improvements that Alexander wants to do on Cargo Limit
+- [@11:20] - Improvements that Alexander wants to make in Cargo Limit
 - [@12:52] - Cargo extensions and installation
-- [@13:31] - Alexander's process of creating Cargo extensions, plugins, and fixing issues
+- [@13:31] - Alexander's process for creating Cargo extensions and plugins
 - [@16:00] - Using Neovim and integrating with Rust Analyzer
 - [@18:57] - Upcoming upgrades and features of Cargo Limit
-- [@24:46] - How to get in touch with Alexander and learn more about Cargo limit
+- [@24:46] - How to get in touch with Alexander and learn more
 - [@25:28] - Parting thoughts
 
 ## Credits
