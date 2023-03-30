@@ -6,7 +6,7 @@ duration: "51:53"
 length: "49807778"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Josh Matthews](https://www.linkedin.com/in/joshuadmatthews/), former Engineering Manager at Mozilla for [Sevo](https://servo.org/), a web browser engine written in Rust.
+Allen Wyma talks with [Josh Matthews](https://www.linkedin.com/in/joshuadmatthews/), former Engineering Manager at Mozilla for [Servo](https://servo.org/), a web browser engine written in Rust.
 
 ## Contributing to Rustacean Station
 
