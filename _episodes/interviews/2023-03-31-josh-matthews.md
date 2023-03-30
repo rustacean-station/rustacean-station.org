@@ -19,12 +19,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 - [@0:00] - Josh's history with Servo
-- [@3:54] - Fears around the future of Rust
+- [@3:54] - Community fears around the future of Rust when Mozilla had their layoffs
 - [@6:52] - Chrome's Javascript engine
 - [@10:54] - How to make web design more secure with Rust
 - [@19:50] - What Servo is working on with Rust technology
-- [@24:49] - Servo's edge of responsibility as browser engine
-- [@30:14] - Grid support
+- [@24:49] - Servo's responsibility as browser engine vs a JavaScript engine
+- [@30:14] - CSS Grid support
 - [@35:51] - Developer tools
 - [@39:54] - Complexity in web optimization
 - [@42:13] - Running multiple iframes within a page
