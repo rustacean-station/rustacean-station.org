@@ -29,7 +29,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@39:54] - Complexity in web optimization
 - [@42:13] - Running multiple iframes within a page
 - [@44:21] - How Rust helped Servo
-- [@46:32] - Fundings and supports Servo gets
+- [@46:32] - Funding Servo
 - [@50:19] - Where to get updates on Servo
 - [@50:40] - Parting thoughts
 
