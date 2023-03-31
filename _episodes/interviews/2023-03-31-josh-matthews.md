@@ -1,6 +1,6 @@
 ---
 title: "Servo with Josh Matthews"
-date: 2023-03-31T15:31:00Z
+date: 2023-03-31T15:06:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-03-31-josh-matthews.mp3
 duration: "51:53"
 length: "49807778"
@@ -22,7 +22,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@3:54] - Community fears around the future of Rust when Mozilla had their layoffs
 - [@6:52] - Chrome's Javascript engine
 - [@10:54] - How to make web design more secure with Rust
-- [@19:50] - What Servo is working on with Rust technology
+- [@19:50] - How Servo is using Rust
 - [@24:49] - Servo's responsibility as browser engine vs a JavaScript engine
 - [@30:14] - CSS Grid support
 - [@35:51] - Developer tools
