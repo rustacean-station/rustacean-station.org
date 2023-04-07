@@ -7,7 +7,7 @@ length: "49607044"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Syrus Akbary](https://syrusakbary.com/), Founder & CEO at [Wasmer](https://wasmer.io/), a WebAssembly runtime written in Rust.
+Allen Wyma talks with [Syrus Akbary](https://syrusakbary.com/), Founder and CEO at [Wasmer](https://wasmer.io/), a WebAssembly runtime written in Rust.
 
 ## Contributing to Rustacean Station
 
