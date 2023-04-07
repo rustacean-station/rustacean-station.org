@@ -1,13 +1,13 @@
 ---
 title: "Wasmer with Syrus Akbary"
-date: 2023-03-31T15:06:00Z
+date: 2023-04-07T15:56:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-04-07-syrus-akbary.mp3
 duration: "51:40"
 length: "49607044"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Syrus Akbary](https://syrusakbary.com/), Founder & CEO at [Wasmer](https://wasmer.io/), a fast and secure WebAssembly runtime written in Rust.
+Allen Wyma talks with [Syrus Akbary](https://syrusakbary.com/), Founder & CEO at [Wasmer](https://wasmer.io/), a WebAssembly runtime written in Rust.
 
 ## Contributing to Rustacean Station
 
@@ -24,7 +24,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@4:50] - How Syrus got into Wasmer
 - [@7:55] - WebAssembly vs Docker and Kubernetes
 - [@14:30] - WebAssembly GC proposal and updates
-- [@18:06] - Advantage of using Wasm over other services
+- [@18:06] - Advantage of using WASM over other techniques
 - [@20:52] - Permission system with WebAssembly
 - [@23:30] - Why choose Wasmer?
 - [@25:04] - Wasmer installation process
@@ -32,7 +32,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@28:47] - Compiling and running your Rust codes to WebAssembly
 - [@30:48] - Updates and features that are coming out on WebAssembly
 - [@39:36] - Rust and WebAssembly
-- [@46:00] - Wasmer's goal on making any application compilable to WebAssembly
+- [@46:00] - Making *all* applications able to compile to WebAssembly
 - [@47:01] - Using GUI with Wasmer
 - [@50:16] - Where to get more information about Wasmer
 
