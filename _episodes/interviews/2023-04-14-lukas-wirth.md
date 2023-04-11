@@ -7,7 +7,7 @@ length: "57389841"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Lukas Wirth](https://veykril.github.io/), member of [Rust Wasmer](https://rust-analyzer.github.io/) working group.
+Allen Wyma talks with [Lukas Wirth](https://veykril.github.io/), member of the [rust-analyzer](https://rust-analyzer.github.io/) team.
 
 ## Contributing to Rustacean Station
 
