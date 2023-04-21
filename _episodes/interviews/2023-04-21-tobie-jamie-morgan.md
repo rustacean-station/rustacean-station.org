@@ -1,7 +1,7 @@
 ---
 title: "SurrealDB with Tobie and Jamie Morgan"
 date: 2023-04-21T15:46:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-04-21-tobie-jamie-morgan.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-04-21-tobie-jamie-morgan-hitchcock.mp3
 duration: "32:02"
 length: "30751022"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
