@@ -22,11 +22,11 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 - [@0:00] - Introduction
 - [@2:23] - Jonathan's projects
-- [@10:3] - Keyboard drivers, CPM, IBM history
+- [@10:3] - Keyboard drivers, CP/M, IBM history
 - [@22:19] - Jonathan's background in embedded systems
 - [@23:46] - Understanding more about computers and laptops
 - [@33:37] - Rust working group for embedded systems
-- [@37:16] - The power of rust on microcontrollers
+- [@37:16] - The power of Rust on microcontrollers
 - [@40:00] - The difference between a Microcontroller and a Central Processing Unit
 - [@42:15] - Discussing System on Chip (SoC), Memory Management Unit (MMU) & Microcontrollers
 - [@45:50] - RISC (Reduced Instruction Set Computing) vs CISC (Complex Instruction Set Computing) architecture.
