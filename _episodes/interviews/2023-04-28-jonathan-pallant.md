@@ -1,6 +1,6 @@
 ---
 title: "Rust Embedded WG with Jonathan Pallant"
-date: 2023-04-28T15:46:00Z
+date: 2023-04-28T16:25:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-04-28-jonathan-pallant.mp3
 duration: "01:02:54"
 length: "60391382"
@@ -28,11 +28,11 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@33:37] - Rust working group for embedded systems
 - [@37:16] - The power of Rust on microcontrollers
 - [@40:00] - The difference between a Microcontroller and a Central Processing Unit
-- [@42:15] - Discussing System on Chip (SoC), Memory Management Unit (MMU) & Microcontrollers
-- [@45:50] - RISC (Reduced Instruction Set Computing) vs CISC (Complex Instruction Set Computing) architecture.
+- [@42:15] - Discussing System on Chip (SoC), Memory Management Unit (MMU), and Microcontrollers
+- [@45:50] - RISC (Reduced Instruction Set Computing) vs CISC (Complex Instruction Set Computing) architecture
 - [@53:30] - How did the working group become an official working group?
-- [@56:00] - Using the Rust programming language for working with microcontrollers and developing systems.
-- [@59:54] - Why Rust is suitable for most projects versus C or Python
+- [@56:00] - Using Rust with microcontrollers
+- [@59:54] - Choosing Rust over C or Python
 
 ## Credits
 
