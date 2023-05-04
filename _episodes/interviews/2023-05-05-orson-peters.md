@@ -27,16 +27,16 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@8:18] - Three-way comparison and binary partitioning
 - [@10:59] - Basic terms to know about quicksort and mergesort
 - [@15:28] - Choosing an element as a pivot
-- [@24:16] - Stable and unstable sorting algorithm
+- [@24:16] - Stable and unstable sorting algorithms
 - [@27:03] - How Glidesort can help with memory usage and memory savings
 - [@35:51] - How Glidesort detects if there is already a sorting in an array
 - [@38:19] - Linear scanning
-- [@41:47] - When would Glidesort be a good use for?
+- [@41:47] - When Glidesort is a good algorithm to use
 - [@45:53] - Glidesort is a comparison-based algorithm
 - [@49:09] - What datatype would be great for Glidesort
 - [@52:17] - Sorting algorithms and language issues
 - [@53:11] - Sorting algorithm in Python vs Rust
-- [@55:52] - The challenge of implementing sorting algorithms in Rust.
+- [@55:52] - The challenge of implementing sorting algorithms in Rust
 - [@58:36] - Reducing Glidesort's code size
 - [@1:01:21] - Standard library benchmarking criteria
 - [@1:02:52] - Performance evaluation of Glidesort and other improvements
