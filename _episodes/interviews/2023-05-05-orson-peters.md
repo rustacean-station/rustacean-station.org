@@ -1,13 +1,13 @@
 ---
 title: "Glidesort with Orson Peters"
-date: 2023-05-05T16:25:00Z
+date: 2023-05-05T16:46:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-05-05-orson-peters.mp3
 duration: "01:14:40"
 length: "71687523"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Orson Peters](https://orlp.net/), creator of [Glidesort](https://github.com/orlp/glidesort), about his Glidesort algorithm that may be included into the Rust core library.
+Allen Wyma talks with [Orson Peters](https://orlp.net/), creator of the [Glidesort](https://github.com/orlp/glidesort) sorting algorithm that may make its way into the Rust core library.
 
 ## Contributing to Rustacean Station
 
