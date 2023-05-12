@@ -1,6 +1,6 @@
 ---
 title: "smol with John Nunley"
-date: 2023-05-12T16:46:00Z
+date: 2023-05-12T15:22:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-05-12-john-nunley.mp3
 duration: "01:05:06"
 length: "62503070"
@@ -28,16 +28,16 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@19:28] - Writing packages and breaking up packages into smaller modules
 - [@24:21] - John's work career
 - [@25:09] - Windows vs Linux API
-- [@29:06] - Windows RS
-- [@30:03] - Rust problem with Windows support.
+- [@29:06] - [`windows-rs`](https://github.com/microsoft/windows-rs)
+- [@30:03] - Windows support with Rust
 - [@31:46] - Recent changes in smol
 - [@33:16] - Event Listener and how it works
-- [@37:26] - Handling pull requests and complains
+- [@37:26] - Handling pull requests and complaints
 - [@41:40] - smol's integration with other runtimes
 - [@44:54] - smol vs Tokio
 - [@47:04] - Reason why smol is growing in popularity among GUI crates
-- [@49:06] - Recent developments in Async
-- [@52:18] - The Async working group's concerns with different runtimes.
+- [@49:06] - Recent developments in async
+- [@52:18] - The Async working group
 - [@58:11] - Community-based crates with suggestions and structure
 - [@1:00:22] - What to expect to come out of smol in the near future?
 - [@1:02:11] - Parting thoughts
