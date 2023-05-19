@@ -1,6 +1,6 @@
 ---
 title: "PyO3 with David Hewitt"
-date: 2023-05-19T15:22:00Z
+date: 2023-05-19T18:32:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-05-19-david-hewitt.mp3
 duration: "01:02:00"
 length: "59525329"
