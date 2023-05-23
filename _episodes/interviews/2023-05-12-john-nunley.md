@@ -7,7 +7,7 @@ length: "62503070"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma and [Zeeshan Ali Khan](https://www.linkedin.com/in/zeenix/) talk with [John Nunley](https://github.com/notgull), contributor to the [smol](https://github.com/smol-rs/smol) async runtime.
+Allen Wyma and [Zeeshan Ali Khan](https://toot.cat/@zeenix) talk with [John Nunley](https://github.com/notgull), contributor to the [smol](https://github.com/smol-rs/smol) async runtime.
 
 ## Contributing to Rustacean Station
 
@@ -52,4 +52,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma)
+Hosts: [Allen Wyma](https://twitter.com/allenwyma) and Zeeshan Ali Khan

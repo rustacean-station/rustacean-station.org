@@ -7,7 +7,7 @@ length: "53188650"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma and [Zeeshan Ali Khan](https://www.linkedin.com/in/zeenix/) talk with [Rainer Stropek](https://github.com/rstropek), creator of [CoderDojo Linz](https://linz.coderdojo.net/) and [Rust Linz](https://rust-linz.at/).
+Allen Wyma and [Zeeshan Ali Khan](https://toot.cat/@zeenix) talk with [Rainer Stropek](https://github.com/rstropek), creator of [CoderDojo Linz](https://linz.coderdojo.net/) and [Rust Linz](https://rust-linz.at/).
 
 ## Contributing to Rustacean Station
 
@@ -48,4 +48,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma)
+Hosts: [Allen Wyma](https://twitter.com/allenwyma) and Zeeshan Ali Khan
