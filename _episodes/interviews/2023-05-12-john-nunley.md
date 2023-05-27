@@ -52,4 +52,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma) and Zeeshan Ali Khan
+Hosts: [Allen Wyma](https://twitter.com/allenwyma) and [Zeeshan Ali Khan](https://toot.cat/@zeenix)

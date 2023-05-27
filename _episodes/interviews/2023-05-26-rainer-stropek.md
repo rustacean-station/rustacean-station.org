@@ -1,6 +1,6 @@
 ---
 title: "CoderDojo and Rust Linz with Rainer Stropek"
-date: 2023-05-26T15:22:00Z
+date: 2023-05-27T16:14:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-05-26-rainer-stropek.mp3
 duration: "55:24"
 length: "53188650"
@@ -48,4 +48,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma) and Zeeshan Ali Khan
+Hosts: [Allen Wyma](https://twitter.com/allenwyma) and [Zeeshan Ali Khan](https://toot.cat/@zeenix)
