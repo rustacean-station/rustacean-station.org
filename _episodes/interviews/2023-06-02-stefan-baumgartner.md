@@ -7,7 +7,7 @@ length: "54215311"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma and [Zeeshan Ali Khan](https://toot.cat/@zeenix) talk with [Stefan Baumgartner](https://twitter.com/ddprrt), contributor to the [Shuttle Launchpad](https://www.shuttle.rs/launchpad) tutorial series on Rust.
+Allen Wyma and [Zeeshan Ali Khan](https://github.com/zeenix) talk with [Stefan Baumgartner](https://twitter.com/ddprrt), contributor to the [Shuttle Launchpad](https://www.shuttle.rs/launchpad) tutorial series on Rust.
 
 ## Contributing to Rustacean Station
 
@@ -50,4 +50,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma) and [Zeeshan Ali Khan](https://toot.cat/@zeenix)
+Hosts: [Allen Wyma](https://twitter.com/allenwyma) and [Zeeshan Ali Khan](https://github.com/zeenix)
