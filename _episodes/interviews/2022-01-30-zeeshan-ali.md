@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@14:43] - Knowing when to use D-Bus or message queue
 - [@19:28] - Authentication methods when going non-local
 - [@20:16] - Is it possible to use D-Bus on [Kubernetes](https://kubernetes.io/)?
-- [@22:00] - D-Bus is able to support multiple async runtimes
+- [@22:00] - zbus is able to support multiple async runtimes
 - [@28:18] - Difference between [Tokio](https://tokio.rs/) and [async-std](https://async.rs/)
 - [@32:30] - Async Foundations working group
 - [@40:06] - Is it expensive to run async runtime?
