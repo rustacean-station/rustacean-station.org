@@ -1,6 +1,6 @@
 ---
 title: "Slint 1.0 with Tobias Hunger"
-date: 2023-06-09T18:32:00Z
+date: 2023-06-09T15:06:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-06-09-tobias-hunger.mp3
 duration: "49:43"
 length: "47732193"
@@ -36,7 +36,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@37:16] - Plans for the 1.1 release
 - [@38:51] - Interesting ways users used Slint API
 - [@40:30] - Slint users and Rust community feedback
-- [@43:35] - How companies have been able to incorporate Slint into their workflows, considering the requirement of having a Rust compiler installed
+- [@43:35] - Requiring that users have a Rust compiler installed
 - [@46:31] - Programming with Rust vs C, C++
 - [@48:33] - Tobias' great experience with the Rust community
 
