@@ -1,13 +1,13 @@
 ---
 title: "Daily with Kwindla Hultman Kramer"
-date: 2023-06-16T15:06:00Z
+date: 2023-06-16T12:31:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-06-16-kwindla-hultman-kramer.mp3
 duration: "01:02:53"
 length: "60368146"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Kwindla Hultman Kramer](https://www.linkedin.com/in/kwkramer), Found and CEO of [Daily](https://www.daily.co/), and [João Neves](https://www.linkedin.com/in/jo%C3%A3o-neves-8a990411/), Staff Engineer at Daily. Daily is a platform with SDKs that help developers build better video experiences built upon the WebRTC standard using Rust.
+Allen Wyma talks with [Kwindla Hultman Kramer](https://www.linkedin.com/in/kwkramer), Founder and CEO of [Daily](https://www.daily.co/), and [João Neves](https://www.linkedin.com/in/jo%C3%A3o-neves-8a990411/), Staff Engineer at Daily. Daily provides SDKs for building video applications on top of the WebRTC standard using Rust.
 
 ## Contributing to Rustacean Station
 
@@ -32,7 +32,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@37:20] - Daily's automated testing processes
 - [@42:24] - Daily's network simulation layer in their testing process
 - [@44:00] - The use of Rust in implementing network simulation for testing purposes
-- [@49:15] - Using WebAssembly alongside native code in an application, and the potential obstacles to consider.
+- [@49:15] - Using WebAssembly alongside native code in an application, and the potential obstacles to consider
 - [@50:52] - Crates that are being used by Daily
 - [@52:44] - What would differentiate Daily compared to other solutions?
 - [@55:48] - Daily vs Zoom
