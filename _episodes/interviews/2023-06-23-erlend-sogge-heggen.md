@@ -1,6 +1,6 @@
 ---
 title: "Fish Folk with Erlend Sogge Heggen"
-date: 2023-06-23T12:31:00Z
+date: 2023-06-26T06:25:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-06-23-erlend-sogge-heggen.mp3
 duration: "51:30"
 length: "49432869"
