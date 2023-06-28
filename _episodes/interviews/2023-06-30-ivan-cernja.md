@@ -22,14 +22,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 - [@0:00] - Introduction.
 - [@2:04] - Ivan's programming background and how he got involved with Shuttle.
-- [@4:41] - What is Shuttle RS?
-- [@6:15] - Why choose Rust for Shuttle RS?
-- [@9:36] - Deciding to make Shuttle RS open source and community feedback.
+- [@4:41] - What is Shuttle?
+- [@6:15] - Why choose Rust for Shuttle?
+- [@9:36] - Deciding to make Shuttle open source and community feedback.
 - [@12:38] - Shuttle AI and integration with ChatGPT.
 - [@18:04] - Shuttle Heroes program.
 - [@21:10] - Pain points working with Rust.
 - [@22:51] - Async runtime issues.
-- [@24:01] - What's next for Shuttle RS?
+- [@24:01] - What's next for Shuttle?
 - [@26:22] - The best things and advantages about using Rust.
 - [@27:28] - Why startups are reluctant about using Rust.
 - [@32:14] - Moving to Linz and getting involved in Rust Linz.
