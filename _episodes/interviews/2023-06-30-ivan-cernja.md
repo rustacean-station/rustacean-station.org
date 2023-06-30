@@ -34,7 +34,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@27:28] - Why startups are reluctant about using Rust.
 - [@32:14] - Moving to Linz and getting involved in Rust Linz.
 - [@36:10] - Ivan's goal on making Rust education as accessible as possible.
-- [@37:26] - How to get hold of Ivan and get more information about Shuttle R
+- [@37:26] - How to get hold of Ivan and get more information about Shuttle.
 
 ## Credits
 
