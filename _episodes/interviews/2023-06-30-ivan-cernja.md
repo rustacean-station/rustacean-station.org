@@ -1,6 +1,6 @@
 ---
 title: "Shuttle with Ivan Cernja"
-date: 2023-06-30T16:04:00Z
+date: 2023-06-30T13:01:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-06-30-ivan-cernja.mp3
 duration: "38:49"
 length: "37264821"
