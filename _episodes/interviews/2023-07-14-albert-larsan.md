@@ -1,6 +1,6 @@
 ---
 title: "Bootstrapping Rust with Albert Larsan"
-date: 2023-07-14T13:01:00Z
+date: 2023-07-14T14:08:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-07-14-albert-larsan.mp3
 duration: "33:04"
 length: "31745254"
@@ -22,15 +22,15 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 - [@0:00] - Introduction to Bootstrap
 - [@1:57] - Building the standard library and compiler.
-- [@5:34] - The biggest challenges of bootstrapping Rustc
+- [@5:34] - The biggest challenges when bootstrapping `rustc` (the Rust compiler)
 - [@11:26] - Why use Python to start the bootstrapping process?
-- [@13:08] - Running tests as part of the Rust API, ensuring that each component is thoroughly tested.
-- [@15:07] - Running tests on Linux, MacOS & Windows
-- [@18:54] - Features that the bootstrapping team for RustC has been working on.
+- [@13:08] - Running tests as part of the Rust API to ensure that each component is well-tested.
+- [@15:07] - Running tests on Linux, MacOS, and Windows
+- [@18:54] - Features that the `rustc` bootstrapping team has been working on.
 - [@20:50] - Plans to run Clippy and fix issues.
 - [@23:41] - Stage redesign, verification, reproducibility, and different optimizations implemented in the compiler.
-- [@27:28] - Albert's advice on the process of bootstrapping Rustc.
-- [@31:05] - Importance of documentation for Rustc
+- [@27:28] - Albert's advice on the process of bootstrapping Rust.
+- [@31:05] - The importance of documentation
 - [@31:49] - Parting thoughts
 
 ## Credits
