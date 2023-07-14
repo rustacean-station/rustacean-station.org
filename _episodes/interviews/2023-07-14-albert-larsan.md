@@ -22,7 +22,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 - [@0:00] - Introduction to Bootstrap
 - [@1:57] - Building the standard library and compiler.
-- [@5:34] - The biggest challenges of bootstrapping RustC
+- [@5:34] - The biggest challenges of bootstrapping Rustc
 - [@11:26] - Why use Python to start the bootstrapping process?
 - [@13:08] - Running tests as part of the Rust API, ensuring that each component is thoroughly tested.
 - [@15:07] - Running tests on Linux, MacOS & Windows
