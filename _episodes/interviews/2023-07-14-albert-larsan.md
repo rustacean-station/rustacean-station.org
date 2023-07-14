@@ -26,7 +26,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@11:26] - Why use Python to start the bootstrapping process?
 - [@13:08] - Running tests as part of the Rust API to ensure that each component is well-tested.
 - [@15:07] - Running tests on Linux, MacOS, and Windows
-- [@18:54] - Features that the `rustc` bootstrapping team has been working on.
+- [@18:54] - Features that the Rust bootstrap team has been working on.
 - [@20:50] - Plans to run Clippy and fix issues.
 - [@23:41] - Stage redesign, verification, reproducibility, and different optimizations implemented in the compiler.
 - [@27:28] - Albert's advice on the process of bootstrapping Rust.
