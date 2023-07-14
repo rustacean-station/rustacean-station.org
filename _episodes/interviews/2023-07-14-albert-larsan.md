@@ -7,7 +7,7 @@ length: "31745254"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Albert Larsan](https://twitter.com/cernjai) about his work on bootstrapping the Rust compiler.
+Allen Wyma talks with [Albert Larsan](https://github.com/albertlarsan68) about his work on bootstrapping the Rust compiler.
 
 ## Contributing to Rustacean Station
 
