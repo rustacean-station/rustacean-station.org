@@ -38,6 +38,6 @@ Audio Editing: [Mainmatter](https://mainmatter.com)
 
 Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
-Show Notes: [Plangora](https://twitter.com/plangora)
+Show Notes: [Mainmatter](https://mainmatter.com)
 
 Hosts: [Marco Otto-Witte](https://twitter.com/marcoow)
