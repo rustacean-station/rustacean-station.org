@@ -19,7 +19,7 @@ permalink: "/podcast.rss"
 
 		<itunes:category text="Technology" />
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
-		<itunes:explicit>no</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<image>
 			<link>{{ site.url }}</link>
 			<url>{{ site.url }}/images/artwork.jpg</url>
