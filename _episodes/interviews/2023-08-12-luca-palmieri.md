@@ -1,7 +1,7 @@
 ---
 title: "Adopting Rust: present and future of the Rust web ecosystem, with Luca Palmieri"
-date: 2023-08-10T10:00:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-08-10-luca-palmieri.mp3
+date: 2023-08-12T10:00:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-08-12-luca-palmieri.mp3
 duration: "47:03"
 length: "48875740"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
