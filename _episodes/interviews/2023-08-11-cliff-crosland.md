@@ -1,7 +1,7 @@
 ---
 title: "Scanner.dev with Cliff Crosland"
-date: 2023-08-11T15:41:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-08-04-cliff-crossland.mp3
+date: 2023-08-11T15:59:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-08-11-cliff-crossland.mp3
 duration: "1:03:31"
 length: "91353957"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
