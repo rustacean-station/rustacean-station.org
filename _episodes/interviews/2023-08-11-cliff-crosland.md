@@ -1,6 +1,6 @@
 ---
 title: "Scanner.dev with Cliff Crosland"
-date: 2023-08-11T14:08:00Z
+date: 2023-08-11T15:41:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-08-04-cliff-crossland.mp3
 duration: "1:03:31"
 length: "91353957"
