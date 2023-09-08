@@ -23,14 +23,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@00:00] - Introduction
     - [Video recording of the interview](https://mainmatter.com/blog/2023/08/01/pitching-rust-to-decision-makers-with-joel-marcey/)
 - [@00:33] - Start of the interview
-- [@00:50] - Joel’s role at the Rust Foundation
+- [@00:50] - Joel's role at the Rust Foundation
 - [@03:17] - The value of Rust adoption for companies
 - [@07:29] - Real-world success stories with Rust
 - [@11:34] - Benefits and potential downsides of Rust adoption
-- [@18:17] - Rust’s competitive advantage for hiring
-- [@20:18] - Rust’s benefits
+- [@18:17] - Rust's competitive advantage for hiring
+- [@20:18] - Rust's benefits
 - [@33:35] - The future of Rust
-- [@38:33] - The Rust Foundation’s plans for the future
+- [@38:33] - The Rust Foundation's plans for the future
 - [@40:43] - Conclusion
 
 ### Credits
