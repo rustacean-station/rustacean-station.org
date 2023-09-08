@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@03:17] - The value of Rust adoption for companies
 - [@07:29] - Real-world success stories with Rust
 - [@11:34] - Benefits and potential downsides of Rust adoption
-- [@18:17]- Rust’s competitive advantage for hiring
+- [@18:17] - Rust’s competitive advantage for hiring
 - [@20:18] - Rust’s benefits
 - [@33:35] - The future of Rust
 - [@38:33] - The Rust Foundation’s plans for the future
