@@ -1,6 +1,6 @@
 ---
 title: "Pitching Rust to decision-makers, with Joel Marcey"
-date: 2023-09-11T13:57:00Z
+date: 2023-09-11T19:46:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-11-joel-marcey.mp3
 duration: "41:05"
 length: "40043596"
