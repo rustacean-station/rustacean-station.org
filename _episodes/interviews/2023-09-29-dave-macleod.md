@@ -22,7 +22,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 [@00:00] Introduction: meet Dave MacLeod
-[@01:47] Target Audience and Motivation behind the Book: Overcoming Learning Challenges and Addressing Gaps in Resources
+[@01:47] Target audience and motivation behind the book
 [@08:32] Taking a direct approach to learning
 [@15:14] Understanding shadowing in Rust
 [@16:56] Comparing "Learn Rust in a Month of Lunches" with "EasyRust"
