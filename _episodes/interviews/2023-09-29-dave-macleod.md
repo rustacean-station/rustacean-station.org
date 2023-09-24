@@ -32,7 +32,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 [@29:46] Tackling Advanced Topics: Macros, Iterators, and Closures
 [@33:05] Exploring the Chrono Library
 [@35:29] Safety and Testing: Discussing Unsafe Rust
-[@41:49] Release Date of the Book
+[@41:49] The book's release date
 [@44:18] Dave's experience writing the book
 [@46:54] Future Plans and Projects
 [@49:33] Closing Thoughts and Banter on Programming Topics
