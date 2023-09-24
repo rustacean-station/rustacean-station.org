@@ -34,7 +34,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 [@35:29] Safety and Testing: Discussing Unsafe Rust
 [@41:49] The book's release date
 [@44:18] Dave's experience writing the book
-[@46:54] Future Plans and Projects
+[@46:54] Future plans and projects
 [@49:33] Closing Thoughts and Banter on Programming Topics
 
 ## Credits
