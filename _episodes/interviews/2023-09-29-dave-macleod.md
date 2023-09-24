@@ -31,7 +31,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 [@24:19] Crafting a coherent flow: process and concept tie-ins in the book
 [@29:46] Tackling advanced topics: macros, iterators, and closures
 [@33:05] Exploring the Chrono Library
-[@35:29] Safety and Testing: Discussing Unsafe Rust
+[@35:29] Safety and testing: discussing unsafe Rust
 [@41:49] The book's release date
 [@44:18] Dave's experience writing the book
 [@46:54] Future plans and projects
