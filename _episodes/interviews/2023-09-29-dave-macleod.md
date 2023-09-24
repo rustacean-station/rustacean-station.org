@@ -7,7 +7,9 @@ length: "91353957"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Dave MacLeod](https://github.com/Dhghomon) about his book ["Learn Rust in a Month of Lunches"](http://mng.bz/OxOO) from Manning. Discount code:   au35mac for purchasing the book.
+Allen Wyma talks with [Dave MacLeod](https://github.com/Dhghomon) about his book ["Learn Rust in a Month of Lunches"](http://mng.bz/OxOO) from Manning.
+
+Rustacean Station discount code for the book: au35mac
 
 ## Contributing to Rustacean Station
 
