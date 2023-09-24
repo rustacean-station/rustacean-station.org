@@ -29,7 +29,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 [@20:06] Streamlined printing: Changes to `printline` and `print` in Rust
 [@22:08] Dive into Async in Rust
 [@24:19] Crafting a coherent flow: process and concept tie-ins in the book
-[@29:46] Tackling Advanced Topics: Macros, Iterators, and Closures
+[@29:46] Tackling advanced topics: macros, iterators, and closures
 [@33:05] Exploring the Chrono Library
 [@35:29] Safety and Testing: Discussing Unsafe Rust
 [@41:49] The book's release date
