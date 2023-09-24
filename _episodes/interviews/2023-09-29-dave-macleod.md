@@ -35,7 +35,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 [@41:49] The book's release date
 [@44:18] Dave's experience writing the book
 [@46:54] Future plans and projects
-[@49:33] Closing Thoughts and Banter on Programming Topics
+[@49:33] Closing thoughts
 
 ## Credits
 
