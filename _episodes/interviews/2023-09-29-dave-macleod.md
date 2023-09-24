@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 [@15:14] Understanding shadowing in Rust
 [@16:56] Comparing "Learn Rust in a Month of Lunches" with "EasyRust"
 [@20:06] Streamlined printing: Changes to `printline` and `print` in Rust
-[@22:08] Dive into Async in Rust
+[@22:08] Dive into async Rust
 [@24:19] Crafting a coherent flow: process and concept tie-ins in the book
 [@29:46] Tackling advanced topics: macros, iterators, and closures
 [@33:05] Exploring the Chrono Library
