@@ -7,7 +7,7 @@ length: "1004228"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Ian Ker-Seymer](https://www.linkedin.com/in/ikerseymer) about his work on rb-sys which easily allows you to integrate Ruby with Rust.
+Allen Wyma talks with [Ian Ker-Seymer](https://www.linkedin.com/in/ikerseymer) about his work on [rb-sys](https://crates.io/crates/rb-sys) which easily allows you to integrate Ruby with Rust.
 
 ## Contributing to Rustacean Station
 
@@ -20,17 +20,17 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-[@00:00] Guest introduction: Ian Ker-Seymer - Staff Software Engineer at Shopify
-[@02:04] The connection between Liquid and Shopify
-[@06:19] The Benefits of Using WebAssembly
+[@00:00] Guest introduction: Ian Ker-Seymer - Staff Software Engineer at [Shopify](https://www.shopify.com/)
+[@02:04] The connection between [Liquid](https://shopify.github.io/liquid/) and Shopify
+[@06:19] The nenefits of using WebAssembly
 [@11:14] Exploring the languages in Shopify's stack, including Ruby
 [@14:24] Rust's practical use cases
-[@16:44] How Rust Became Part of Shopify's Stack
+[@16:44] How Rust became part of Shopify's stack
 [@19:14] Deep dive into rb-sys
-[@24:17] RubyGems and Bundler: Insights and considerations
+[@24:17] RubyGems and Bundler: insights and considerations
 [@36:41] Integrating Rust into the stack
 [@40:52] Addressing challenges with Windows compilation
-[@47:46] Spotlight on rb-sys: why it's worth exploring
+[@47:46] Spotlight on [rb-sys](https://github.com/oxidize-rb/rb-sys): why it's worth exploring
 
 ## Credits
 
