@@ -21,7 +21,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps
-[@00:00] Introduction: Meet Dave MacLeod - Rust Developer and Author of "Learn Rust in a Month of Lunches"
+[@00:00] Introduction: meet Dave MacLeod
 [@01:47] Target Audience and Motivation behind the Book: Overcoming Learning Challenges and Addressing Gaps in Resources
 [@08:32] Exploring Book Chapters: Unpacking Complex Concepts in the First Chapter and the Direct Approach to Learning
 [@15:14] Understanding Shadowing in Rust
