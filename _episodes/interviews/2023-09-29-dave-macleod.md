@@ -1,13 +1,13 @@
 ---
-title: "Learn Rust in a Month of Lunches with Dave McLeod"
+title: "Learn Rust in a Month of Lunches with Dave MacLeod"
 date: 2023-09-29T15:59:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-29-dave-mcleod.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-29-dave-macleod.mp3
 duration: "1:03:31"
 length: "91353957"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Dave McLeod](https://github.com/Dhghomon) about his book ["Learn Rust in a Month of Lunches"](http://mng.bz/OxOO) from Manning. Discount code:   au35mac for purchasing the book.
+Allen Wyma talks with [Dave MacLeod](https://github.com/Dhghomon) about his book ["Learn Rust in a Month of Lunches"](http://mng.bz/OxOO) from Manning. Discount code:   au35mac for purchasing the book.
 
 ## Contributing to Rustacean Station
 
@@ -19,7 +19,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps
-[@00:00] Introduction: Meet Dave McLeod - Rust Developer and Author of "Learn Rust in a Month of Lunches"
+[@00:00] Introduction: Meet Dave MacLeod - Rust Developer and Author of "Learn Rust in a Month of Lunches"
 [@01:47] Target Audience and Motivation behind the Book: Overcoming Learning Challenges and Addressing Gaps in Resources
 [@08:32] Exploring Book Chapters: Unpacking Complex Concepts in the First Chapter and the Direct Approach to Learning
 [@15:14] Understanding Shadowing in Rust
