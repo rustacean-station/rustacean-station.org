@@ -1,6 +1,6 @@
 ---
 title: "rb-sys with Ian Ker-Seymer"
-date: 2023-09-28T10:53:00
+date: 2023-09-28T10:56:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-25-ian-ker-seymer.mp3
 duration: "56:10"
 length: "81004228"
