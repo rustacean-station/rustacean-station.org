@@ -1,9 +1,9 @@
 ---
 title: "rb-sys with Ian Ker-Seymer"
-date: 2023-09-25T11:05:00Z
+date: 2023-09-28T11:05:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-25-ian-ker-seymer.mp3
 duration: "56:10"
-length: "1004228"
+length: "81004228"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
