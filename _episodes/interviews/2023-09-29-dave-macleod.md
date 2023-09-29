@@ -1,7 +1,7 @@
 ---
 title: "Learn Rust in a Month of Lunches with Dave MacLeod"
 date: 2023-09-29T10:50:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-29-dave-macleod.mp3
+file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-29-david-macleod.mp3
 duration: "1:03:31"
 length: "91353957"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
