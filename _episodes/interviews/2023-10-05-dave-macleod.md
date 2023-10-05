@@ -1,6 +1,6 @@
 ---
 title: "Learn Rust in a Month of Lunches with Dave MacLeod"
-date: 2023-09-29T10:50:00Z
+date: 2023-10-05T07:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-09-29-david-macleod.mp3
 duration: "1:03:31"
 length: "82372654"
