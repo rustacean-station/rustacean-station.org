@@ -20,17 +20,17 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-[@00:00] Guest introduction: Ian Ker-Seymer - Staff Software Engineer at [Shopify](https://www.shopify.com/)
-[@02:04] The connection between [Liquid](https://shopify.github.io/liquid/) and Shopify
-[@06:19] The nenefits of using WebAssembly
-[@11:14] Exploring the languages in Shopify's stack, including Ruby
-[@14:24] Rust's practical use cases
-[@16:44] How Rust became part of Shopify's stack
-[@19:14] Deep dive into rb-sys
-[@24:17] RubyGems and Bundler: insights and considerations
-[@36:41] Integrating Rust into the stack
-[@40:52] Addressing challenges with Windows compilation
-[@47:46] Spotlight on [rb-sys](https://github.com/oxidize-rb/rb-sys): why it's worth exploring
+- [@00:00] - Guest introduction: Ian Ker-Seymer - Staff Software Engineer at [Shopify](https://www.shopify.com/)
+- [@02:04] - The connection between [Liquid](https://shopify.github.io/liquid/) and Shopify
+- [@06:19] - The nenefits of using WebAssembly
+- [@11:14] - Exploring the languages in Shopify's stack, including Ruby
+- [@14:24] - Rust's practical use cases
+- [@16:44] - How Rust became part of Shopify's stack
+- [@19:14] - Deep dive into rb-sys
+- [@24:17] - RubyGems and Bundler: insights and considerations
+- [@36:41] - Integrating Rust into the stack
+- [@40:52] - Addressing challenges with Windows compilation
+- [@47:46] - Spotlight on [rb-sys](https://github.com/oxidize-rb/rb-sys): why it's worth exploring
 
 ## Credits
 
