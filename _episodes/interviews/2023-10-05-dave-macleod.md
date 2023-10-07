@@ -21,21 +21,22 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps
-[@00:00] Introduction: meet Dave MacLeod
-[@01:47] Target audience and motivation behind the book
-[@08:32] Taking a direct approach to learning
-[@15:14] Understanding shadowing in Rust
-[@16:56] Comparing "Learn Rust in a Month of Lunches" with "EasyRust"
-[@20:06] Streamlined printing: Changes to `printline` and `print` in Rust
-[@22:08] Dive into async Rust
-[@24:19] Crafting a coherent flow: process and concept tie-ins in the book
-[@29:46] Tackling advanced topics: macros, iterators, and closures
-[@33:05] Exploring the `chrono` crate
-[@35:29] Safety and testing: discussing unsafe Rust
-[@41:49] The book's release date
-[@44:18] Dave's experience writing the book
-[@46:54] Future plans and projects
-[@49:33] Closing thoughts
+
+- [@00:00] - Introduction: meet Dave MacLeod
+- [@01:47] - Target audience and motivation behind the book
+- [@08:32] - Taking a direct approach to learning
+- [@15:14] - Understanding shadowing in Rust
+- [@16:56] - Comparing "Learn Rust in a Month of Lunches" with "EasyRust"
+- [@20:06] - Streamlined printing: Changes to `printline` and `print` in Rust
+- [@22:08] - Dive into async Rust
+- [@24:19] - Crafting a coherent flow: process and concept tie-ins in the book
+- [@29:46] - Tackling advanced topics: macros, iterators, and closures
+- [@33:05] - Exploring the `chrono` crate
+- [@35:29] - Safety and testing: discussing unsafe Rust
+- [@41:49] - The book's release date
+- [@44:18] - Dave's experience writing the book
+- [@46:54] - Future plans and projects
+- [@49:33] - Closing thoughts
 
 ## Credits
 
