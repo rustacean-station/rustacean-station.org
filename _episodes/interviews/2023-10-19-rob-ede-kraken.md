@@ -7,9 +7,9 @@ length: "34292702"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-[Rob Ede](https://github.com/sponsors/robjtede), lead maintainer of [`actix-web`](https://github.com/actix/actix-web), explains to Marco Otto-Witte how (and why) [Kraken](https://www.kraken.com/) chose to migrate their microservices to Rust.   
+[Rob Ede](https://github.com/sponsors/robjtede), lead maintainer of [Actix Web](https://github.com/actix/actix-web), explains to Marco Otto-Witte how (and why) [Kraken](https://www.kraken.com/) chose to migrate their microservices to Rust.   
 
-They also discuss Rust's web development ecosystem at large, with a particular focus on [`actix-web`](https://github.com/actix/actix-web): Rob shares his view on how improvements in the language and framework space will eventually lead to a future where web development in Rust can be as approachable as web development in Javascript.
+They also discuss Rust's web development ecosystem at large, with a particular focus on [Actix Web](https://github.com/actix/actix-web): Rob shares his view on how improvements in the language and framework space will eventually lead to a future where web development in Rust can be as approachable as web development in Javascript.
 
 ### Contributing to Rustacean Station
 
@@ -25,13 +25,13 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@00:00] - Introduction
     - [Video recording of the interview](https://mainmatter.com/blog/2023/09/06/krakens-migration-to-rust-microservices/)
 - [@00:36] - Start of the interview
-- [@01:26] - What is [`actix-web`](https://github.com/actix/actix-web)?
+- [@01:26] - What is [Actix Web](https://github.com/actix/actix-web)?
 - [@06:34] - [Kraken](https://www.kraken.com/)'s migration from Java to Rust
 - [@10:09] - Benefits of Rust adoption at [Kraken](https://www.kraken.com/)
 - [@12:48] - Rust vs Java
-- [@15:42] - Future improvements for [`actix-web`](https://github.com/actix/actix-web)
+- [@15:42] - Future improvements for [Actix Web](https://github.com/actix/actix-web)
 - [@21:15] - Do Rust users become contributors?
-- [@24:08] - The future of Rust and [`actix-web`](https://github.com/actix/actix-web)
+- [@24:08] - The future of Rust and [Actix Web](https://github.com/actix/actix-web)
 - [@30:46] - Recommendations for adopting Rust
 - [@31:37] - Conclusion
 
