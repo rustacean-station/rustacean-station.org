@@ -20,11 +20,11 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-- [@00:00] - Meet Gabor Szabo - creator of RustDiggar, a website with data collection about Rust crates. Exploring the idea behind RustDiggar and the background of the project
-- [@16:36] - Reasons behind crates without repository links. Discussing the case of the Fastly crate and its missing repository link.
-- [@22:27] - Crates without an owner. Exploring the reasoning associated with crates lacking an owner.
-- [@30:34] - Enhancing RustDiggar and addressing challenges. Exploring potential improvements for RustDiggar, including combating crate name squatting, addressing crate malware, managing crate dependencies, and more.
-- [@38:57] - Outlining the upcoming tasks and developments planned for RustDiggar in the coming months.
+- [@00:00] - What is Rust Digger, and why is it useful?
+- [@16:36] - Handling crates without repository links (e.g., the Fastly crate)
+- [@22:27] - Handling crates without an owner.
+- [@30:34] - What's next for Rust Digger, including name squatting, malware, and dependency management.
+- [@38:57] - What to expect in the coming months.
 
 ## Credits
 
