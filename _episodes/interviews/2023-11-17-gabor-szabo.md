@@ -1,6 +1,6 @@
 ---
 title: "Rust Digger with Gabor Szabo"
-date: 2023-11-17T07:00:00Z
+date: 2023-11-17T12:26:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-11-17-gabor-szabo.mp3
 duration: "44:31"
 length: "64434178"
