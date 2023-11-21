@@ -7,7 +7,8 @@ length: "64434178"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Gabor Szabo](https://code-maven.com/) about his website [Rust Digger](https://rust-digger.code-maven.com/) which collects data about Rust.
+Allen Wyma talks with Gabor Szabo who published the Rust Maven about his website Rust Digger which collects data about Rust.
+Allen Wyma talks with [Gabor Szabo](https://szabgab.com/), who also runs [Rust Maven](https://rust.code-maven.com/), about his website [Rust Digger](https://rust-digger.code-maven.com/) which collects data about Rust.
 
 ## Contributing to Rustacean Station
 
