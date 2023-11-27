@@ -1,5 +1,5 @@
 ---
-title: "Recruiting in Rust with Cedric Sellman"
+title: "Recruiting in Rust with Cedric Sellmann"
 date: 2023-11-24T17:57:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-11-24-cedric-sellmann.mp3
 duration: "53:38"
