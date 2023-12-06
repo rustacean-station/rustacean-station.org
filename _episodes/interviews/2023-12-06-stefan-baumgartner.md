@@ -1,6 +1,6 @@
 ---
 title: "Exploring Rust's impact on efficiency and cost-savings, with Stefan Baumgartner"
-date: 2023-12-06T17:00:00Z
+date: 2023-12-06T15:04:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2023-12-06-stefan-baumgartner.mp3
 duration: "40:03"
 length: "40005674"
