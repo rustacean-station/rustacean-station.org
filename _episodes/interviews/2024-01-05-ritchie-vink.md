@@ -1,6 +1,6 @@
 ---
 title: "Polars with Ritchie Vink"
-date: 2024-01-05T17:57:00Z
+date: 2024-01-05T23:59:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-01-05-ritchie-vink.mp3
 duration: "43:10"
 length: "62678214"
