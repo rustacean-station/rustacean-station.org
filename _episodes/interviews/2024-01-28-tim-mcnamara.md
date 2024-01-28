@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Rust's power through mentorship and knowledge spreading, with Tim McNamara"
-date: 2024-01-28T12:00:00Z
+date: 2024-01-28T08:12:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-01-28-tim-mcnamara.mp3
 duration: "1:03:32"
 length: "62181128"
