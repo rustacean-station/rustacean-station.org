@@ -7,7 +7,7 @@ length: "40043596"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Marco Otto-Witte discusses how to pitch Rust to decision-makers with [Joel Marcey](https://joelmarcey.com/), the Director of Technology at the Rust Foundation.  
+Marco Otte-Witte discusses how to pitch Rust to decision-makers with [Joel Marcey](https://joelmarcey.com/), the Director of Technology at the Rust Foundation.  
 
 ### Contributing to Rustacean Station
 
@@ -43,4 +43,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Mainmatter](https://mainmatter.com/rust-consulting/)
 
-Hosts: [Marco Otto-Witte](https://twitter.com/marcoow)
+Hosts: [Marco Otte-Witte](https://twitter.com/marcoow)

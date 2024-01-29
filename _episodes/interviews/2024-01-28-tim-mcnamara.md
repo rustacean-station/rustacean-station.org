@@ -53,4 +53,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Mainmatter](https://mainmatter.com/rust-consulting/)
 
-Hosts: [Marco Otto-Witte](https://twitter.com/marcoow)
+Hosts: [Marco Otte-Witte](https://twitter.com/marcoow)
