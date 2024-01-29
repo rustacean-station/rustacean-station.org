@@ -7,7 +7,7 @@ length: "48875740"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Marco Otto-Witte discusses with [Luca Palmieri](https://lpalmieri.com) the present and future of the Rust web ecosystem. 
+Marco Otte-Witte discusses with [Luca Palmieri](https://lpalmieri.com) the present and future of the Rust web ecosystem. 
 
 ### Contributing to Rustacean Station
 
@@ -40,4 +40,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Mainmatter](https://mainmatter.com)
 
-Hosts: [Marco Otto-Witte](https://twitter.com/marcoow)
+Hosts: [Marco Otte-Witte](https://twitter.com/marcoow)

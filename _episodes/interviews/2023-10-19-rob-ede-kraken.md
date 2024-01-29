@@ -7,7 +7,7 @@ length: "34292702"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-[Rob Ede](https://github.com/sponsors/robjtede), lead maintainer of [Actix Web](https://github.com/actix/actix-web), explains to Marco Otto-Witte how (and why) [Kraken](https://www.kraken.com/) chose to migrate their microservices to Rust.   
+[Rob Ede](https://github.com/sponsors/robjtede), lead maintainer of [Actix Web](https://github.com/actix/actix-web), explains to Marco Otte-Witte how (and why) [Kraken](https://www.kraken.com/) chose to migrate their microservices to Rust.   
 
 They also discuss Rust's web development ecosystem at large, with a particular focus on [Actix Web](https://github.com/actix/actix-web): Rob shares his view on how improvements in the language and framework space will eventually lead to a future where web development in Rust can be as approachable as web development in Javascript.
 
@@ -45,4 +45,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Mainmatter](https://mainmatter.com/rust-consulting/)
 
-Hosts: [Marco Otto-Witte](https://twitter.com/marcoow)
+Hosts: [Marco Otte-Witte](https://twitter.com/marcoow)
