@@ -1,6 +1,6 @@
 ---
 title: "Asciinema with Marcin Kulik"
-date: 2024-01-12T16:33:00Z
+date: 2024-01-30T16:33:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-01-30-marcin-kulik.mp3
 duration: "51:00"
 length: "74807892"
