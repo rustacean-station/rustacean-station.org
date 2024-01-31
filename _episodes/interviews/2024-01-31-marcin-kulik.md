@@ -1,7 +1,7 @@
 ---
 title: "Asciinema with Marcin Kulik"
-date: 2024-01-30T16:33:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-01-30-marcin-kulik.mp3
+date: 2024-01-31T07:57:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2024-01-31-marcin-kulik.mp3
 duration: "51:00"
 length: "74807892"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
