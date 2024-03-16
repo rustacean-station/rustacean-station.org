@@ -7,7 +7,7 @@ length: "55459584"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Sean McArthur](https://seanmonstar.com/) about the 1.0 release of [Hyper](https://hyper.rs/).
+Allen Wyma talks with [Sean McArthur](https://seanmonstar.com/) about the [1.0 release](https://seanmonstar.com/blog/hyper-v1/) of [Hyper](https://hyper.rs/), the well-known Rust HTTP library. 
 
 ## Contributing to Rustacean Station
 
@@ -20,7 +20,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-- [@00:00] - Meet Sean McArthur - an open-source engineer behind hyper (hyper.rs), an HTTP library for Rust
+- [@00:00] - Meet open-source engineer Sean McArthur
 - [@01:20] - Reasons for the 9-year journey to release hyper 1.0
 - [@05:34] - Addressing async fragmentation
 - [@07:38] - Sean's transition to freelance maintenance
