@@ -1,6 +1,6 @@
 ---
 title: "Asynchronous Programming in Rust with Carl Fredrik Samson"
-date: 2024-03-17T07:57:00Z
+date: 2024-03-17T08:06:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-03-17-carl-fredrik-samson.mp3
 duration: "50:18"
 length: "73121309"
