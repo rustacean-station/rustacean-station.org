@@ -1,6 +1,6 @@
 ---
 title: "Hyper 1.0 with Sean McArthur"
-date: 2024-03-22T07:57:00Z
+date: 2024-03-22T23:57:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-03-22-sean-mcarthur.mp3
 duration: "38:05"
 length: "55459584"
