@@ -2,8 +2,8 @@
 title: "cargo-semver-checks with Predrag Gruevski"
 date: 2024-03-29T15:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-03-29-predrag-gruevski.mp3
-duration: "1:41:40"
-length: "146945332"
+duration: "0:51:25"
+length: "74612816"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
