@@ -1,10 +1,9 @@
 ---
 title: "Launching RustRover: JetBrains' Investment in Rust"
 date: 2024-04-04T08:12:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-04-vitaly-bragilevsky.wav
+file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-04-vitaly-bragilevsky.mp3
 duration: "47:45"
-length: "552884196"
-  
+length: "93302420"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
