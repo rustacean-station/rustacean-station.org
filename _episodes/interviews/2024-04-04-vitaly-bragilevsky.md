@@ -1,6 +1,6 @@
 ---
 title: "Launching RustRover: JetBrains' Investment in Rust"
-date: 2024-04-04T08:12:00Z
+date: 2024-04-04T07:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-04-vitaly-bragilevsky.mp3
 duration: "47:45"
 length: "93302420"
