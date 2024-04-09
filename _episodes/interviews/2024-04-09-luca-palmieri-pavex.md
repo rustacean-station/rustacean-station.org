@@ -25,6 +25,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
   - [Smithy](https://smithy.io/2.0/index.html)
   - [`smithy-rs`](https://github.com/smithy-lang/smithy-rs)
 - [@09:01] - Pavex: a Rust framework for professionals
+  - [Recording of RustNationUK's Pavex talk](https://youtu.be/cMea6IMRk2s)
 - [@22:57] - Rustdoc JSON & the `f` macro
 - [@37:19] - Lessons from maintaining open-source projects like rocket.rs
 - [@52:17] - Pavex's closed beta stage
