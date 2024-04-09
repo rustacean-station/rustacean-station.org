@@ -30,6 +30,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
   - [Reasoning about Rust: an introduction to Rustdoc's JSON format (EuroRust 2023)](https://youtu.be/OxQYyg_v3rw)
   - [`cargo-semver-checks`](https://github.com/obi1kenobi/cargo-semver-checks)
 - [@37:19] - Lessons from maintaining open-source projects like rocket.rs
+  - [Building a Better Foundation for Rocket's Future](https://rocket.rs/news/2023-11-17-rwf2-prelaunch/)
+  - [The Economics of Programming Languages (Strange Loop 2023)](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 - [@52:17] - Pavex's closed beta stage
 - [@56:43] - Plans for production readiness
 - [@01:10:43] - Potential pricing models
