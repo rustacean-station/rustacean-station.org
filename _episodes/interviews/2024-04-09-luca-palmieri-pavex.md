@@ -1,6 +1,6 @@
 ---
 title: "Pavex with Luca Palmieri"
-date: 2024-04-09T15:50:00Z
+date: 2024-04-09T07:06:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-09-luca-palmieri-pavex.mp3
 duration: "1:18:29"
 length: "113613338"
