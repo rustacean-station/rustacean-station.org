@@ -7,7 +7,7 @@ length: "113613338"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Luca Palmieri](https://www.lpalmieri.com/) about [pavex](https://pavex.dev/), a new API-focused web framework for Rust.
+Allen Wyma talks with [Luca Palmieri](https://www.lpalmieri.com/) about [Pavex](https://pavex.dev/), a new API-focused web framework for Rust.
 
 ## Contributing to Rustacean Station
 
@@ -22,6 +22,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 - [@00:00] - Meet Luca Palmieri, software engineer, author of [Zero To Production In Rust](https://www.zero2prod.com/), open source maintainer & contributor
 - [@02:04] - Luca's working experience, discussing time at AWS and moving to Mainmatter
+  - [Smithy](https://smithy.io/2.0/index.html)
+  - [`smithy-rs`](https://github.com/smithy-lang/smithy-rs)
 - [@09:01] - Pavex: a Rust framework for professionals
 - [@22:57] - Rustdoc JSON & the `f` macro
 - [@37:19] - Lessons from maintaining open-source projects like rocket.rs
