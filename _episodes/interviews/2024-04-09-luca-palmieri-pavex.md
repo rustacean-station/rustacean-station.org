@@ -25,8 +25,10 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
   - [Smithy](https://smithy.io/2.0/index.html)
   - [`smithy-rs`](https://github.com/smithy-lang/smithy-rs)
 - [@09:01] - Pavex: a Rust framework for professionals
-  - [Recording of RustNationUK's Pavex talk](https://youtu.be/cMea6IMRk2s)
+  - [Pavex: re-imaging API development in Rust (RustNationUK 2024)](https://youtu.be/cMea6IMRk2s)
 - [@22:57] - Rustdoc JSON & the `f` macro
+  - [Reasoning about Rust: an introduction to Rustdoc's JSON format (EuroRust 2023)](https://youtu.be/OxQYyg_v3rw)
+  - [`cargo-semver-checks`](https://github.com/obi1kenobi/cargo-semver-checks)
 - [@37:19] - Lessons from maintaining open-source projects like rocket.rs
 - [@52:17] - Pavex's closed beta stage
 - [@56:43] - Plans for production readiness
