@@ -20,7 +20,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-⁃ [@00:00] - Meet Marco Ieni, software engineer at Prisma, creator of release-plz
+⁃ [@00:00] - Meet Marco Ieni, software engineer at [Prisma](https://www.prisma.io/), creator of release-plz
 ⁃ [@01:17] - Release-plz creation & features
 ⁃ [@08:50] - Conventional commit standard
 ⁃ [@17:41] - Potential upcoming features
@@ -28,7 +28,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ⁃ [@28:14] - Release-plz development
 ⁃ [@31:24] - Windows support
 ⁃ [@36:22] - Message from Marco
-⁃ [@37:07] - Marco’s Rust podcast [RustShip](https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/)
+⁃ [@37:07] - Marco's Rust podcast [RustShip](https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/)
 
 ## Credits
 
