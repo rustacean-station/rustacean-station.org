@@ -31,6 +31,9 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@43:13] - Target audience and prerequisites for the book
 - [@45:09] - Book details
 - [@48:02] - Closing thoughts
+  - [Rust in Production](https://corrode.dev/podcast/) podcast
+  - [On the Metal](https://oxide.computer/podcasts/on-the-metal) podcast
+  - [Chats with James](https://jamesmunns.com/podcast/) podcast
 
 ## Credits
 
