@@ -1,5 +1,5 @@
 ---
-title: "relase-plz with Marco Ieni"
+title: "release-plz with Marco Ieni"
 date: 2024-04-12T12:19:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-12-marco-ieni.mp3
 duration: "0:40:18"
