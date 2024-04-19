@@ -1,6 +1,6 @@
 ---
 title: "Isograph with Robert Balicki"
-date: 2024-04-12T12:19:00Z
+date: 2024-04-19T21:05:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-19-robert-balicki.mp3
 duration: "1:02:18"
 length: "90457585"
