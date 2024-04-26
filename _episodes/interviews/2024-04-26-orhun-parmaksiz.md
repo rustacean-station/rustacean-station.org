@@ -1,6 +1,6 @@
 ---
 title: "Ratatui with Orhun Parmaksiz"
-date: 2024-04-26T21:05:00Z
+date: 2024-04-26T06:24:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-04-26-orhun-parmaksiz.mp3
 duration: "31:03"
 length: "45250497"
