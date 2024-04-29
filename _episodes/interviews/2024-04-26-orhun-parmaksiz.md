@@ -30,6 +30,9 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ⁃ [@25:32] - Status and upcoming directions for Ratatui
 ⁃ [@27:55] - Closing discussion
 
+## Other Resources
+- [Orhun's Github](https://github.com/orhun)
+
 ## Credits
 
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
