@@ -20,16 +20,16 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-[@00:00] - Introduction
-[@02:16] - Rust for Cloud Infrastructure
-[@07:34] - Exploring libcurl
-[@13:23] - Introducing Rust to Scanner.dev
-[@13:23] - Scala in Data Science
-[@25:22] - Rust vs. Other Languages
-[@40:08] - Encoding/Decoding
-[@45:03] - How Scanner.dev Works
-[@55:16] - Future of Scanner.dev
-[@01:00:58] - Final Information
+- [@00:00] - Introduction
+- [@02:16] - Rust for Cloud Infrastructure
+- [@07:34] - Exploring libcurl
+- [@13:23] - Introducing Rust to Scanner.dev
+- [@13:23] - Scala in Data Science
+- [@25:22] - Rust vs. Other Languages
+- [@40:08] - Encoding/Decoding
+- [@45:03] - How Scanner.dev Works
+- [@55:16] - Future of Scanner.dev
+- [@01:00:58] - Final Information
 
 ## Credits
 
