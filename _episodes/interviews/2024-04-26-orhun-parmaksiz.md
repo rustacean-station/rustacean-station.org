@@ -20,15 +20,15 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-⁃ [@00:00] - Meet Orhun Parmaksiz
-⁃ [@01:21] - Origins of the project and overview of TUIs
-⁃ [@09:32] - Rebranding from tui-rs and continuing previous work
-⁃ [@14:50] - Documentation of Ratatui
-⁃ [@16:18] - Collecting community feedback
-⁃ [@22:00] - Custom designs in Ratatui (ratatui-splash-screen)
-⁃ [@22:19] - Other terminal UI projects
-⁃ [@25:32] - Status and upcoming directions for Ratatui
-⁃ [@27:55] - Closing discussion
+- [@00:00] - Meet Orhun Parmaksiz
+- [@01:21] - Origins of the project and overview of TUIs
+- [@09:32] - Rebranding from tui-rs and continuing previous work
+- [@14:50] - Documentation of Ratatui
+- [@16:18] - Collecting community feedback
+- [@22:00] - Custom designs in Ratatui (ratatui-splash-screen)
+- [@22:19] - Other terminal UI projects
+- [@25:32] - Status and upcoming directions for Ratatui
+- [@27:55] - Closing discussion
 
 ## Other Resources
 - [Orhun's Github](https://github.com/orhun)
