@@ -76,7 +76,7 @@ jobs:
       with:
         # Avoid using single or double quotes for multiline patterns
         files: |
-           _episodes/**.md
+           _episodes/*/*.md
     - name: File size specifications are correct
       # note: we only guard this one since it's slow to download all the
       # episode files; the others are fine to run for all files since they run
