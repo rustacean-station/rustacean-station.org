@@ -11,7 +11,7 @@ jobs:
   episode:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Dates are valid
       run: |
         pip install pytz ciso8601
@@ -47,21 +47,6 @@ jobs:
               exit 1
           fi
         done
-    - name: File size specifications are correct
-      run: |
-        for episode in _episodes/*/*.md; do
-          length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
-          file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
-          size=$(curl --head -f -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
-          if [ -z $size ]; then
-            echo "couldn't get content length of \"$file\""
-            exit 1
-          fi
-          if [ $size -ne $length ]; then
-            echo "$(basename "$episode"): ${length}b (reported) != ${size}b (actual)"
-            exit 1
-          fi
-        done
     - name: No duplicate URLs
       run: |
         for episode in _episodes/*/*.md; do
@@ -85,6 +70,37 @@ jobs:
             exit 1
           fi
         done
+    - name: Get all changed episode files
+      id: changed-markdown-files
+      uses: tj-actions/changed-files@v44
+      with:
+        # Avoid using single or double quotes for multiline patterns
+        files: |
+           _episodes/**.md
+    - name: File size specifications are correct
+      # note: we only guard this one since it's slow to download all the
+      # episode files; the others are fine to run for all files since they run
+      # locally.
+      if: steps.changed-markdown-files.outputs.any_changed == 'true'
+      env:
+        ALL_CHANGED_FILES: ${{ steps.changed-markdown-files.outputs.all_changed_files }}
+      run: |
+        for episode in ${ALL_CHANGED_FILES}; do
+          # skip deleted episodes (if any)
+          [ -e "$episode" ] || continue;
+          echo "checking $episode"
+          length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
+          file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
+          size=$(curl --head -f -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
+          if [ -z $size ]; then
+            echo "couldn't get content length of \"$file\""
+            exit 1
+          fi
+          if [ $size -ne $length ]; then
+            echo "$(basename "$episode"): ${length}b (reported) != ${size}b (actual)"
+            exit 1
+          fi
+        done
   transcript:
     runs-on: ubuntu-latest
     steps:
@@ -101,7 +117,7 @@ jobs:
   feed:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7'
