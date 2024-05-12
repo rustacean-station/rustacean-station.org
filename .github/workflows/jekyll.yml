@@ -22,6 +22,31 @@ jobs:
             exit 1
           fi
         done
+    - name: Timecode lists are correctly formatted
+      run: |
+        for episode in _episodes/*/*.md; do
+          # this isn't a normal dash, and doesn't get turned into a list
+          if grep -qF '⁃' "$episode"; then
+            echo "$(basename "$episode"): weird-looking dash"
+              exit 1
+          fi
+          # timecodes should never start a line (should be in header or list)
+          if grep -qP '^\[@' "$episode"; then
+            echo "$(basename "$episode"): timecode not in list or header"
+              exit 1
+          fi
+          # timecode listings need to not have empty lines, or we'll get
+          #
+          #   <li><p>[@HH:MM:SS]
+          #
+          # which doesn't render right. it happens to work for timecode
+          # listings that have sub-listings, but easiest to check that there
+          # just aren't any gaps.
+          if ! awk '/^\s*$/ { empty = 1; next; } /^\s*-\s*\[@[0-9]/ { if (in_list == 1 && empty == 1) { exit 1; } else { in_list = 1; empty = 0; next; } } /^\s*-/ { empty = 0; next; } { in_list = 0; empty = 0; }' "$episode"; then
+            echo "$(basename "$episode"): empty lines between list items"
+              exit 1
+          fi
+        done
     - name: File size specifications are correct
       run: |
         for episode in _episodes/*/*.md; do
