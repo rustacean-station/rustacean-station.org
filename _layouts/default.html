@@ -30,7 +30,7 @@
 		{%- include util.html -%}
 		{%- if episode.file -%}
 		<div id="player">
-		<audio src="https://dts.podtrac.com/redirect.mp3/{{ episode.file | replace_first: "https://", "" }}" controls></audio>
+		<audio src="https://dts.podtrac.com/redirect.mp3/{{ episode.file | replace_first: "https://", "" | replace: ":", "%3A" }}" controls></audio>
 		</div>
 		{%- endif -%}
 		<div id="wrapper">

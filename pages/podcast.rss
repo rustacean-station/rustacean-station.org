@@ -56,7 +56,7 @@ permalink: "/podcast.rss"
 			<description><![CDATA[ {{ post.content | strip_html }} ]]></description>
 			<content:encoded><![CDATA[ {{ post.content }} ]]></content:encoded>
 
-			<enclosure url="https://dts.podtrac.com/redirect.mp3/{{ post.file | replace_first: "https://", "" }}" length="{{ post.length }}" type="audio/mpeg"/>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/{{ post.file | replace_first: "https://", "" | replace: ":", "%3A" }}" length="{{ post.length }}" type="audio/mpeg"/>
 			<itunes:duration>{{ post.duration }}</itunes:duration>
 		</item>
 		{% endfor %}
