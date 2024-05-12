@@ -27,7 +27,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@33:33] - Buttplug's capabilities, limitations, and safety protocols
 - [@44:23] - Why the name "Buttplug"?
 - [@51:53] - Buttplug's push for not just entertainment but also health and wellness purposes
-- [@56:07] - How people can help contribute to pushing Buttplug’s project
+- [@56:07] - How people can help contribute to pushing Buttplug's project
 - [@59:45] - Kyle's parting thoughts
 
 ## Other Resources

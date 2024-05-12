@@ -18,7 +18,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps 
-- [@00:10] - Mrinal’s Introduction
+- [@00:10] - Mrinal's Introduction
 - [@01:01] - What is Ockam?
 - [@05:04] - Building Ockam from scratch and building it open source
 - [@10:45] - How Ockam provides security with modern data distribution

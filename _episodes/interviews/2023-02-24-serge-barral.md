@@ -20,7 +20,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ## Timestamps
 - [@0:00] - What is [Asynchronix](https://github.com/asynchronics/asynchronix)?
 - [@2:21] - Writing Rust documentation
-- [@4:28] - Serge’s career & background
+- [@4:28] - Serge's career & background
 - [@8:51] - How does the Asynchronix simulator work?
 - [@11:40] - The importance of writing the library in Rust
 - [@16:51] - Time-based simulation and practical use cases
