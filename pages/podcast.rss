@@ -4,6 +4,7 @@ permalink: "/podcast.rss"
 
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,6 +27,8 @@ permalink: "/podcast.rss"
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:image href="{{ site.url }}/images/artwork.jpg" />
+		<podcast:locked>no</podcast:locked>
+		<podcast:guid>8ce685ca-8f87-553d-bc13-67fdf9f5a3de</podcast:guid>
 
 		<language>{{ site.lang }}</language>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
