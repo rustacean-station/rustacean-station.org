@@ -88,7 +88,6 @@ jobs:
         for episode in ${ALL_CHANGED_FILES}; do
           # skip deleted episodes (if any)
           [ -e "$episode" ] || continue;
-          echo "checking $episode"
           length=$(grep 'length:' "$episode" | head -n1 | awk '{print $2}' | sed 's/"//g')
           file=$(grep 'file:' "$episode" | head -n1 | sed -e 's/^file: //' -e 's/"//g')
           size=$(curl --head -f -s "$file" | grep content-length | awk '{print $2}' | sed 's/\r//')
