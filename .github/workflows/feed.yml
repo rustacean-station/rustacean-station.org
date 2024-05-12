@@ -132,12 +132,7 @@ jobs:
     - name: Install dependencies
       run: bundle install
     - name: Build site and feed
-      run: |
-        # have site.url produce a valid value
-        sed -i -e '/^collections:/i \
-        url: https://rustacean-station.org' \
-               _config.yml
-        bundle exec jekyll build
+      run: bundle exec jekyll build
     - name: Grab feed validator
       run: |
         git clone https://github.com/w3c/feedvalidator.git

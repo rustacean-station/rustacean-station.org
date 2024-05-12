@@ -1,17 +1,20 @@
 title: "Rustacean Station"
+encoding: UTF-8
 author: "Rustacean Station"
 email: podcast@rustacean-station.org
 subtitle: "A community project for creating podcast content for the Rust programming language."
 description: "Come journey with us into the weird, wonderful, and wily world of Rust."
 lang: en-us
-
-markdown: kramdown
 kramdown:
+  input: GFM
+  hard_wrap: false
   syntax_highlighter_opts:
     disable: true
+repository: rustacean-station/rustacean-station.org
+url: https://rustacean-station.org
 
 exclude:
-  - 000-template.md
+  - YYYY-MM-DD-template.md
   - vendor
   - audio
   - transcript_tools
