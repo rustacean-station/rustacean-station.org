@@ -1,7 +1,7 @@
 ---
 title: "Rama with Glen De Cauwsemaecker"
-date: 2024-05-17T06:24:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-05-17-glen-de-cauwsemaecker.mp3
+date: 2024-05-19T10:53:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2024-05-19-glen-de-cauwsemaecker.mp3
 duration: "49:27"
 length: "71675212"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
