@@ -20,14 +20,11 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-⁃ [@00:00] - Meet Glen De Cauwsemaecker, creator of Rama, a modular service framework in Rust for network packet transformation
-⁃ [@01:26] - Rama functionality & use cases 
-⁃ [@14:38] - Discussing the development story leading up to Rama's upcoming release
-⁃ [@36:19] - Rama architecture, Glen’s background in game development
-⁃ [@48:06] - Closing discussion 
-
-## Other Resources
-- [Glen's Github](https://github.com/glendc/)
+- [@00:00] - Introducing Glen De Cauwsemaecker
+- [@01:26] - Rama functionality & use cases 
+- [@14:38] - Discussing the development story leading up to Rama's upcoming release
+- [@36:19] - Rama architecture, Glen’s background in game development
+- [@48:06] - Closing discussion 
 
 ## Credits
 
