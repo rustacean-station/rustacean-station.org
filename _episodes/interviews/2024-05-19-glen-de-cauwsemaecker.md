@@ -23,7 +23,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@00:00] - Introducing Glen De Cauwsemaecker
 - [@01:26] - Rama functionality & use cases 
 - [@14:38] - Discussing the development story leading up to Rama's upcoming release
-- [@36:19] - Rama architecture, Glen’s background in game development
+- [@36:19] - Rama architecture, Glen's background in game development
 - [@48:06] - Closing discussion 
 
 ## Credits
