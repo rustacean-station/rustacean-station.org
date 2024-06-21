@@ -30,9 +30,9 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@41:51] - Closing discussion
 
 ## Other links
-- [https://www.newline.co/fullstack-rust](https://www.newline.co/fullstack-rust)- one of the books with the most extensive info on macros
-- [https://blog.jetbrains.com/rust/2022/03/18/procedural-macros-under-the-hood-part-i/](Jetbrains has an interesting series of blog posts about macros, useful for beginners)
-- [https://github.com/dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - workshop from Tolnay, implemented in some great videos by Jon Gjengset [https://www.youtube.com/watch?v=geovSK3wMB8](https://www.youtube.com/watch?v=geovSK3wMB8)
+- <https://www.newline.co/fullstack-rust> — one of the books with the most extensive info on macros
+- [Jetbrains has an interesting series of blog posts about macros, useful for beginners](https://blog.jetbrains.com/rust/2022/03/18/procedural-macros-under-the-hood-part-i/)
+- [proc-macro workshop by David Tolnay](https://github.com/dtolnay/proc-macro-workshop), implemented in some great videos by Jon Gjengset: <https://www.youtube.com/watch?v=geovSK3wMB8>
 
 ## Credits
 
