@@ -20,7 +20,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 
-- [@00:00] - Meet Sam Van Overmeire, developer & cloud consultant, author of “Write Powerful Rust Macros”
+- [@00:00] - Meet Sam Van Overmeire, developer & cloud consultant, author of _Write Powerful Rust Macros_
 - [@09:00] - Why he chose to write about macros and the process of writing the book
 - [@13:19] - Types of macros and book content
 - [@19:38] - Macro security and more details about the book
