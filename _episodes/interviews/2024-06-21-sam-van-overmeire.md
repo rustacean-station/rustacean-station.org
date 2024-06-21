@@ -1,6 +1,6 @@
 ---
 title: "Write Powerful Rust Macros with Sam Van Overmeire"
-date: 2024-06-21T23:59:59Z
+date: 2024-06-21T07:08:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-06-21-sam-van-overmeire.mp3
 duration: "44:44"
 length: "64985317"
