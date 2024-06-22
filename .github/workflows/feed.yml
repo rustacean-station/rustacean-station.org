@@ -122,12 +122,13 @@ jobs:
           fi
         done
   feed:
+    # fails for now due to https://github.com/w3c/feedvalidator/issues/116
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.7'
+        ruby-version: '3.2'
         bundler-cache: true
     - name: Install dependencies
       run: bundle install
