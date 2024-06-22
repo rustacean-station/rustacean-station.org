@@ -8,7 +8,7 @@ on:
     types: [opened, synchronize]
 
 jobs:
-  episode:
+  lint:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -78,6 +78,10 @@ jobs:
             exit 1
           fi
         done
+  mp3:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
     - name: Get all changed episode files
       id: changed-markdown-files
       uses: tj-actions/changed-files@v44
