@@ -1,5 +1,3 @@
-name: Jekyll site CI
-
 on:
   push:
     branches:
@@ -8,7 +6,8 @@ on:
     types: [opened, synchronize]
 
 jobs:
-  lint:
+  markdown:
+    name: "episode/markdown"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -78,7 +77,8 @@ jobs:
             exit 1
           fi
         done
-  mp3:
+  audio:
+    name: "episode/audio"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -113,6 +113,7 @@ jobs:
           fi
         done
   transcript:
+    name: "episode/transcript"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -126,6 +127,7 @@ jobs:
           fi
         done
   feed:
+    name: "feed/validate"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
