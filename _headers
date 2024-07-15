@@ -1,0 +1,3 @@
+# https://github.com/rustacean-station/rustacean-station.org/issues/270
+/*.rss
+  Content-Type: application/rss+xml; charset=utf-8
