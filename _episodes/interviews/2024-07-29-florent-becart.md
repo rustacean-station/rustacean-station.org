@@ -1,6 +1,6 @@
 ---
 title: "Full-stack development of a B2B payment infrastructure in Rust, with Florent Bécart"
-date: 2024-07-29T07:00:01Z
+date: 2024-07-29T09:49:01Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-07-29-florent-becart.mp3
 duration: "27:13"
 length: "67208730"
