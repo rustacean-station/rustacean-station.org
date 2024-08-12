@@ -1,6 +1,6 @@
 ---
 title: "Exploring Fiberplane's 3-Year Rust Journey, with Benno van den Berg"
-date: 2024-08-12T07:00:01Z
+date: 2024-08-12T06:41:01Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-08-12-benno-van-den-berg.mp3
 duration: "47:45"
 length: "116135469"
