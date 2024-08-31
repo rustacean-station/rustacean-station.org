@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding InfluxDB with Rust with Andrew Lamb"
-date: 2024-08-30T07:08:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-08-30-andrew-lamb.mp3
+date: 2024-08-31T07:21:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2024-08-31-andrew-lamb.mp3
 duration: "1:00:03"
 length: "87557234"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
@@ -25,7 +25,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 ## Timestamps
 
 - [@0:52] - Meet Andrew Lamb, Staff Engineer at InfluxData, working on InfluxDB IOx
-- [@2:57] - Transitioning from C++ to Rust: Andrew’s story
+- [@2:57] - Transitioning from C++ to Rust: Andrew's story
 - [@11:24] - InfluxDB rewrite and its use cases
 - [@22:13] - Compatibility of InfluxDB
 - [@26:58] - Downsides of using Rust and other languages
