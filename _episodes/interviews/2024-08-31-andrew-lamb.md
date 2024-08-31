@@ -36,7 +36,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Other links
 - [Andrew's X Account](https://twitter.com/andrewlamb1111)
-- [Using Rustlang’s Async Tokio Runtime for CPU-Bound Tasks](https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/)
+- [Using Rustlang's Async Tokio Runtime for CPU-Bound Tasks](https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/)
 - [Using the FDAP Architecture to build InfluxDB 3.0](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
 - [RustASIA Conf 2025](https://www.rustasiaconf.com/)
 
