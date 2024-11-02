@@ -1,7 +1,7 @@
 ---
 title: "Eclipse uProtocol with Pete LeVasseur"
 date: 2024-11-01T07:17:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-11-01-pete-lavasseur.mp3
+file: https://rustacean-station-temporary-audio-storage.s3.us-west-2.amazonaws.com/2024-11-1-pete-levasseur.mp3
 duration: "50:24"
 length: "73171057"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
