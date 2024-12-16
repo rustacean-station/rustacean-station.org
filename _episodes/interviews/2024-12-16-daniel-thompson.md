@@ -2,8 +2,8 @@
 title: "Tauri 2.0 with Daniel Thompson-Yvetot"
 date: 2024-12-16T17:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-12-16-daniel-thompson.mp3
-duration: "44:44"
-length: "42945723"
+duration: "44:28"
+length: "64279919"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 Allen Wyma talks with [Daniel Thompson-Yvetot](https://github.com/nothingismagick), co-founder of [Tauri](https://tauri.studio/) about Tauri's 2.0 release. Tauri is a toolkit that helps developers make applications for the major desktop platforms using a variety of front-end frameworks.
