@@ -1,7 +1,7 @@
 ---
 title: "Tauri 2.0 with Daniel Thompson-Yvetot"
-date: 2024-12-16T17:00:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-12-16-daniel-thompson.mp3
+date: 2024-12-19T17:00:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2024-12-19-daniel-thompson-yvetot.mp3
 duration: "44:28"
 length: "64279919"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
@@ -18,8 +18,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps 
-- [@00:33] - Daniel's introduction
-- [@00:00] - Meet Daniel Thompson-Yvetot, Cofounder of Tauri, a framework for building apps for desktop and mobile ecosystems
+- [@00:33] - Who is Daniel and what is Tauri?
 - [@10:12] - Small app size and consequent app security/vulnerability issues
 - [@18:38] - Multiplatform testing
 - [@28:26] - CrabNebula & its connection to Tauri
