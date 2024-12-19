@@ -18,8 +18,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps 
-- [@00:33] - Who is Daniel and what is Tauri?
-- [@10:12] - Small app size and consequent app security/vulnerability issues
+- [@00:33] - Daniel's introduction to Tauri
+- [@10:12] - How Tauri is both small and secure
 - [@18:38] - Multiplatform testing
 - [@28:26] - CrabNebula & its connection to Tauri
 - [@35:31] - Running Tauri
