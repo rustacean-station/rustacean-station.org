@@ -1,6 +1,6 @@
 ---
 title: "Tauri 2.0 with Daniel Thompson-Yvetot"
-date: 2024-12-19T17:00:00Z
+date: 2024-12-19T07:50:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2024-12-19-daniel-thompson-yvetot.mp3
 duration: "44:28"
 length: "64279919"
@@ -19,7 +19,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 - [@00:33] - Daniel's introduction to Tauri
-- [@10:12] - How Tauri is both small and secure
+- [@10:12] - Making Tauri small and secure
 - [@18:38] - Multiplatform testing
 - [@28:26] - CrabNebula & its connection to Tauri
 - [@35:31] - Running Tauri
