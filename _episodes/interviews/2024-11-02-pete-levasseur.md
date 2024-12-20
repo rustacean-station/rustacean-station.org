@@ -27,8 +27,8 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@48:03] - Announcements & concluding discussion
 
 ## Other links
-- [RustASIA Conf 2025](https://www.rustasiaconf.com/)
-- [Pete's Blog](https://petelevasseur.com/)
+- [RUSTAsia Conf 2025](https://www.rustasiaconf.com/)
+- [Pete's Blog](https://petelevasseur.com/?utm_source=podcast&utm_medium=rustacean-station&utm_campaign=2024-11-02-pete-levasseur)
 
 ## Credits
 

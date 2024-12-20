@@ -29,7 +29,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@30:39] - Closing discussion
 
 ## Other links
-- [RustASIA Conf 2025](https://www.rustasiaconf.com/)
+- [RUSTAsia Conf 2025](https://www.rustasiaconf.com/?utm_source=podcast&utm_medium=rustacean-station&utm_campaign=2024-10-13-stephen-blum)
 
 ## Credits
 
