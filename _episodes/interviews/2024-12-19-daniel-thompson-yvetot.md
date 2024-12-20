@@ -29,7 +29,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [Tauri's Github](https://github.com/tauri-apps/tauri)
 
 ## Other links
-- [RustASIA Conf 2025](https://www.rustasiaconf.com/)
+- [RUSTAsia Conf 2025](https://www.rustasiaconf.com/?utm_source=podcast&utm_medium=rustacean-station&utm_campaign=2024-12-19-daniel-thompson)
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
