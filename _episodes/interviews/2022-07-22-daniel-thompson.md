@@ -6,7 +6,7 @@ duration: "44:44"
 length: "42945723"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Daniel Thompson-Yvetot](https://github.com/nothingismagick), co-founder of [Tauri](https://tauri.studio/). Tauri is a toolkit that helps developers make applications for the major desktop platforms using a variety of front-end frameworks.
+Allen Wyma talks with [Daniel Thompson-Yvetot](https://github.com/nothingismagick), co-founder of [Tauri](https://tauri.app/). Tauri is a toolkit that helps developers make applications for the major desktop platforms using a variety of front-end frameworks.
 
 ## Contributing to Rustacean Station
 
