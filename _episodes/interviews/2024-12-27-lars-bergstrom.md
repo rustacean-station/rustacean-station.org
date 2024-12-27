@@ -1,7 +1,7 @@
 ---
 title: "Rust in Google with Lars Bergstrom"
-date: 2024-12-23T07:50:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2024-12-23-lars-bergstrom.mp3
+date: 2024-12-27T14:23:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2024-12-27-lars-bergstrom.mp3
 duration: "42:12"
 length: "60942802"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
