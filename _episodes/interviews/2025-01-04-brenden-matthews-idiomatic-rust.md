@@ -1,7 +1,7 @@
 ---
 title: "Idiomatic Rust with Brenden Matthews"
-date: 2025-01-03T14:23:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-01-03-brenden-matthews.mp3
+date: 2025-01-04T08:33:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-01-04-brenden-matthews.mp3
 duration: "56:25"
 length: "81466160"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
