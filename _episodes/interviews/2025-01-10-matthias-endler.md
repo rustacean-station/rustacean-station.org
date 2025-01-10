@@ -6,7 +6,7 @@ duration: "53:42"
 length: "77474380"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Matthias Endler](https://endler.dev/), the creator of [Lychee](https://github.com/lycheeverse/lychee), a stream-based link checker written in Rust that finds borken hyperlinks and mail addresses inside of text files.
+Allen Wyma talks with [Matthias Endler](https://endler.dev/), the creator of [lychee](https://github.com/lycheeverse/lychee), a stream-based link checker written in Rust that finds broken hyperlinks and mail addresses inside of HTML and Markdown documents as well as websites.
 
 ## Contributing to Rustacean Station
 
