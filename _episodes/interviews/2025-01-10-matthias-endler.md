@@ -18,12 +18,12 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps 
-- [@00:00] - Meet Matthias: Rust consultant and creator of Lychee
-- [@01:55] - Protocol support, valid links, and Lychee features
-- [@14:51] - What inspired the creation of Lychee
+- [@00:00] - Meet Matthias: Rust consultant and creator of lychee
+- [@01:55] - Protocol support, valid links, and lychee features
+- [@14:51] - What inspired the creation of lychee
 - [@19:25] - Supporting open-source projects and advice for creators starting their own
 - [@32:17] - Staying on top of dependencies: why upgrading matters
-- [@47:45] - New features being added to Lychee
+- [@47:45] - New features being added to lychee
 
 ## Other links
 - [RUSTAsia Conf 2025](https://www.rustasiaconf.com/?utm_source=podcast&utm_medium=rustacean-station&utm_campaign=2025-01-10-matthias-endler)
