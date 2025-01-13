@@ -1,7 +1,7 @@
 ---
 title: "Lychee with Matthias Endler"
-date: 2025-01-10T08:33:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-01-10-matthias-endler.mp3
+date: 2025-01-13T18:14:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-01-13-matthias-endler.mp3
 duration: "53:42"
 length: "77474380"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
