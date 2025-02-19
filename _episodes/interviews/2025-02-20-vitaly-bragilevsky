@@ -1,7 +1,7 @@
 ---
 title: "RustRover with Vitaly Bragilevsky"
-date: 2025-02-17T18:14:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-02-17-vitaly-bragilevsky.mp3
+date: 2025-02-20T07:45:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-02-20-vitaly-bragilevsky.mp3
 duration: "54:47"
 length: "79118260"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
@@ -18,7 +18,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - Email: [hello@rustacean-station.org](mailto:hello@rustacean-station.org)
 
 ## Timestamps 
-- [@00:00] - Meet Vitaly Bragilevsky, Developer Advocate at JetBrains; discussing dev conferences
+- [@00:00] - Meet Vitaly Bragilevsky, Developer Advocate at JetBrains
 - [@12:42] - What JetBrains does in Rust & their IDE products
 - [@18:05] - Which IDE to use for Rust developers
 - [@24:25] - Open source vs. commercial products at JetBrains
