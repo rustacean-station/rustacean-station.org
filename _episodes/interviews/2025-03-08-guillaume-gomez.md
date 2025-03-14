@@ -6,7 +6,7 @@ duration: "50:42"
 length: "73251810"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
-Allen Wyma talks with [Guillaume Gomez](https://guillaume-gomez.fr/), Principal Engineer at [Huawei](https://www.huawei.com/). Guillaume is an IT engineer who is a frequent contributor and reviewer of the Rust language and also participates in other opensource projects such as [Servo](https://github.com/servo/servo).
+Allen Wyma and [Zeeshan Ali Khan](https://toot.cat/@zeenix) talk with [Guillaume Gomez](https://guillaume-gomez.fr/), Principal Engineer at [Huawei](https://www.huawei.com/). Guillaume is an IT engineer who is a frequent contributor and reviewer of the Rust language and also participates in other opensource projects such as [Servo](https://github.com/servo/servo).
 
 ## Contributing to Rustacean Station
 
@@ -37,4 +37,4 @@ Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
-Hosts: [Allen Wyma](https://twitter.com/allenwyma)
+Hosts: [Allen Wyma](https://twitter.com/allenwyma) and [Zeeshan Ali Khan](https://toot.cat/@zeenix)
