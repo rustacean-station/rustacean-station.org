@@ -19,7 +19,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps 
 - [@00:00] - Meet Peter Memery, Chief Research Officer at ExpressVPN
-- [@02:21] - Peter’s programming journey and transition to ExpressVPN
+- [@02:21] - Peter's programming journey and transition to ExpressVPN
 - [@11:15] - Building [Lightway](https://www.expressvpn.com/lightway): From C to Rust
 - [@24:10] - Why Rust is ideal for high-performance, secure systems
 - [@35:48] - How ExpressVPN collaborates and scales with Rust
