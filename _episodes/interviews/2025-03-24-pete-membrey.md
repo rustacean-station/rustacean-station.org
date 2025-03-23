@@ -24,7 +24,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@24:10] - Why Rust is ideal for high-performance, secure systems
 - [@35:48] - How ExpressVPN collaborates and scales with Rust
 - [@42:00] - Advice for Rust beginners and high-performance programming
-- [@48:38] - ExpressVPN’s contributions to open source and RUSTAsia 2025
+- [@48:38] - ExpressVPN's contributions to open source and RUSTAsia 2025
 - [@54:48] - Why Rust is "the way forward" for the industry
 
 ## Other links
