@@ -1,6 +1,6 @@
 ---
 title: "Nushell with WindSoilder"
-date: 2025-03-24T08:09:00Z
+date: 2025-04-18T11:43:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-04-18-windsoilder.mp3
 duration: "33:03"
 length: "47726707"
@@ -34,7 +34,7 @@ Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
 
 Audio Editing: [Plangora](https://twitter.com/plangora)
 
-Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
+Hosting Infrastructure: [Jon Gjengset](https://thesquareplanet.com/)
 
 Show Notes: [Plangora](https://twitter.com/plangora)
 
