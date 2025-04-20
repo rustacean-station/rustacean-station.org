@@ -49,6 +49,7 @@ layout: default
 	</div>
 	<div class="episode_blurb">
 		<h1><a href="{{ post.url }}"> {{ post.title }}</a></h1>
+		<span class="detail">Posted {{ post.date | date_to_rfc822 }}</span>
 		<div class="body">
 			<p>{{ post.excerpt }}
 		</div>
