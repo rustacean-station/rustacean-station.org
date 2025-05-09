@@ -1,11 +1,12 @@
 ---
 title: "Dataland with Howard Zuo"
-date: 2025-04-30T11:43:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-04-30-howard-zuo.mp3
+date: 2025-05-09T08:36:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-09-howard-zuo.mp3
 duration: "01:00:58"
 length: "146322240"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
+
 Allen Wyma talks with [Howard Zuo](https://github.com/hzuo), CEO at [Dataland](https://dataland.io/), a software company that builds AI agents for customer support teams, using Rust.
 
 ## Contributing to Rustacean Station
@@ -25,7 +26,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@13:02] - Choosing Rust for performance and safety
 - [@18:39] - Comparing Rust to Go
 - [@24:10] - Learning async and debugging
-- [@30:28] - Rust’s ecosystem for data processing
+- [@30:28] - Rust's ecosystem for data processing
 - [@48:32] - Rust and WebAssembly for UI performance
 - [@57:14] - Closing thoughts
 
