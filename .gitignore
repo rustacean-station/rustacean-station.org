@@ -2,3 +2,5 @@
 /vendor/
 /.bundle/
 /Gemfile.lock
+*.bak
+*.swp
