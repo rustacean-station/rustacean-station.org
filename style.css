@@ -144,7 +144,7 @@ ul { list-style-type: square; }
 		.episode h1 a:hover {
 			text-decoration: underline;
 		}
-	.episode > .detail {
+	.episode > .detail, .episode_blurb > .detail {
 		color: #888;
 		display: block;
 		line-height: 1.7;
