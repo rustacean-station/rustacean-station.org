@@ -1,13 +1,13 @@
 ---
 title: "AccessKit with Matt Campbell and Arnold Loubriat"
-date: 2025-05-26T20:00:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/20250526-accesskit-with-matt-campbell-and-arnold-loubriat.mp3
-duration: "32:52"
-length: "29338789"
+date: 2025-05-27T20:00:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/20250527-accesskit-with-matt-campbell-and-arnold-loubriat.mp3
+length: "25041195"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-[Luuk van der Duim](https://github.com/luukvanderduim/) talks with [Matt Campbell](https://github.com/mwcampbell) and [Arnold Loubriat](https://github.com/DataTriny), the main developers of [AccessKit](https://accesskit.dev/), a library crate to abstract over accessibility APIs of multiple target OS' to offer toolkit providers one unified way to make their UIs accessible across platforms.
+With [AccessKit](https://accesskit.dev/), [Matt Campbell](https://github.com/mwcampbell) and [Arnold Loubriat](https://github.com/DataTriny) [AccessKit](https://accesskit.dev/) took on the ambitious task of abstracting over
+the accessibility APIs of several target OS' to offer toolkit providers one unified way to make their UIs accessible across platforms.
 
 ### Contributing to Rustacean Station
 
@@ -20,14 +20,13 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ### Timestamps & referenced resources
 
-- [@0:10] - The interruption intro
-- [@1:11] - Welcome and introducing Matt and Arnold.
+- [@0:10] - Prelude
+- [@1:11] - Introducing Matt and Arnold.
 - [@1:45] - "What are you working on?"
 - [@2:00] - "What does it offer?"
 - [@2:28] - "Who would use AccessKit?"
-- [@2:28] - "Who would use AccessKit?"
 - [@2:51] - AccessKit bindings in other languages besides Rust.
-- [@3:14] - On unifying different accessibility protocols - chromium's push model.
+- [@3:14] - On unifying different accessibility protocols and chromium's push model.
 - [@4:47] - AccessKit's API for toolkits.
 - [@6:58] - Some accessibility-tree concepts within AccessKit
 - [@8:47] - "Arnold, when did you get involved?"
