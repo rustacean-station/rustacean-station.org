@@ -33,15 +33,26 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@4:47] - AccessKit's API for toolkits.
 - [@9:08] - AccessKit's origin - Arnold wrote 6000 lines of code to find Matt.
 - [@12:56] - Matt's history with Windows.
-- [@14:00] - How [Quorum](https://www.washington.edu/accesscomputing/quorum-programming-language-0) relates to AccessKit,
+- [@14:00] - How Quorum relates to AccessKit,
+  - [Quorum](https://www.washington.edu/accesscomputing/quorum-programming-language-0)
 - [@15:52] - The challenges Quorum UI development - and thus toolkit developers general face.
 - [@18:12] - Arnold and Matt on the necessity for back-end testing, Android, iOS - but also on Linux for AT-SPI2.
-- [@21:45] - On [Newton](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/) and it's relation to the Chromium accessibility backend.
+- [@21:45] - On Newton and its Chromium relation.
+  - [Newton](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 - [@27:55] - Newton on other compositers other than mutter.
-- [@29:20] - [Politics mentioned in Newton origin document](https://gitlab.gnome.org/GNOME/at-spi2-core/-/blob/main/devel-docs/new-protocol.rst?ref_type=heads) (also) apply to Wayland purist versus Gnome D-Bus frictions.
-- [@31:03] - Wrapping up: where can people Arnold [on GitHub as 'DataTriny'](https://github.com/DataTriny), or [Arnold Loubriat on LinkedIn](https://www.linkedin.com/in/datatriny/) and [DataTriny on Mastodon](https://fosstodon.org/@DataTriny).
-- [@31:39] [Matt Campbell](https://github.com/mwcampbell) and [the AccessKit website](accesskit.dev).
-- [@31:53] [Luuk van der Duim](https://github.com/luukvanderduim), [Odilia screen reader](https://github.com/odilia-app/odilia) and [atspi](https://github.com/odilia-app/atspi).
+- [@29:20] - Politics mentioned also apply to Wayland purist versus Gnome D-Bus frictions.
+  - ["Next-generation accessibility architecture" document](https://gitlab.gnome.org/GNOME/at-spi2-core/-/blob/main/devel-docs/new-protocol.rst?ref_type=heads)
+- [@31:03] - Where can people find Arnold?
+  - [Arnold on GitHub as 'DataTriny'](https://github.com/DataTriny)
+  - [Arnold Loubriat on LinkedIn](https://www.linkedin.com/in/datatriny/)
+  - [DataTriny on Mastodon](https://fosstodon.org/@DataTriny)
+- [@31:39] Where can people find Matt?
+  - [Matt Campbell on GitHub](https://github.com/mwcampbell)
+  - [AccessKit website](accesskit.dev).
+- [@31:53] Your host can be found on GitHub as well.
+  - [Luuk van der Duim](https://github.com/luukvanderduim)
+  - [Odilia screen reader](https://github.com/odilia-app/odilia)
+  - [atspi crate](https://github.com/odilia-app/atspi)
 
 ### Credits
 
