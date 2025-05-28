@@ -47,7 +47,7 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
   - [DataTriny on Mastodon](https://fosstodon.org/@DataTriny)
 - [@31:39] Where can people find Matt?
   - [Matt Campbell on GitHub](https://github.com/mwcampbell)
-  - [AccessKit website](accesskit.dev).
+  - [AccessKit website](http://accesskit.dev).
 - [@31:53] Your host can be found on GitHub as well.
   - [Luuk van der Duim](https://github.com/luukvanderduim)
   - [Odilia screen reader](https://github.com/odilia-app/odilia)
