@@ -25,11 +25,11 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 - [@2:00] - "What does it offer?"
 - [@2:28] - "Who would use AccessKit?"
 - [@2:51] - AccessKit bindings in languages besides Rust.
-- [@3:14] - On unifying accessibility protocols and Chromium's push model.
+- [@3:14] - Unifying accessibility protocols.
 - [@4:47] - AccessKit's API.
-- [@6:58] - Some accessibility-tree concepts within AccessKit
-- [@8:47] - "Arnold, when did you get involved?"
-- [@9:08] - AccessKit's origin - Arnold wrote 6000 lines of code to find Matt.
+- [@6:58] - AccessKit tree concepts.
+- [@8:47] - When Arnold got involved.
+- [@9:08] - 6000 lines of code to find Matt.
 - [@12:56] - Matt's history with Windows and Microsoft.
 - [@14:00] - How Quorum relates to AccessKit,
   - [Quorum](https://www.washington.edu/accesscomputing/quorum-programming-language-0)
