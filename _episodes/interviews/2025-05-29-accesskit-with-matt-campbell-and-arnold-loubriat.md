@@ -20,7 +20,6 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ### Timestamps & referenced resources
 
-- [@0:10] - Prelude
 - [@1:11] - Introducing Matt and Arnold.
 - [@1:45] - "What are you working on?"
 - [@2:00] - "What does it offer?"
