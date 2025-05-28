@@ -6,8 +6,8 @@ length: "25041195"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-With [AccessKit](https://accesskit.dev/), [Matt Campbell](https://github.com/mwcampbell) and [Arnold Loubriat](https://github.com/DataTriny) [AccessKit](https://accesskit.dev/) took on the ambitious task of abstracting over
-the accessibility APIs of several target OS' to offer toolkit providers one unified way to make their UIs accessible across platforms.
+With [AccessKit](https://accesskit.dev/), [Matt Campbell](https://github.com/mwcampbell) and [Arnold Loubriat](https://github.com/DataTriny) took on the ambitious task of abstracting over
+the accessibility APIs of several target OS' to offer toolkit providers one unified way to make their UIs accessible across platforms. An interview live at [RustWeek 2025](https://rustweek.org/) with host [Luuk van der Duim](https://github.com/luukvanderduim).
 
 ### Contributing to Rustacean Station
 
