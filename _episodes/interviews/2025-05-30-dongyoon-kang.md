@@ -1,9 +1,9 @@
 ---
 title: "SWC with DongYoon Kang"
-date: 2025-05-23T08:36:00Z
+date: 2025-05-30T08:36:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-23-dongyoon-kang.mp3
-duration: "32:00"
-length: "76830720"
+duration: "24:50"
+length: "59634240"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
@@ -20,14 +20,14 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 - [@0:00] - Meet DongYoon Kang, creator of SWC, the Rust-based platform for the Web
-- [@2:03] - SWC creation & background
+- [@1:54] - SWC creation & background
 - [@5:00] - Adoption by Deno, Next.js, and others
-- [@10:13] - Learning Rust and building SWC
-- [@14:26] - Community contributions and team structure
-- [@18:35] - Performance improvements with Chili
-- [@22:10] - SWC modules and supported languages
-- [@27:29] - Exploring Dart support
-- [@29:15] - Future plans for SWC
+- [@8:45] - Learning Rust and building SWC
+- [@11:14] - Community contributions and team structure
+- [@14:48] - Performance improvements with Chili
+- [@17:57] - SWC modules and supported languages
+- [@20:28] - Exploring Dart support
+- [@21:37] - Future plans for SWC
 
 ## Credits
 Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
