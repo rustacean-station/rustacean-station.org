@@ -59,6 +59,15 @@ Intro Theme: [Aerocity](https://twitter.com/AerocityMusic)
 
 Audio Editing: Luuk van der Duim
 
+Samples used in interruption:
+
+- ["Vinyl - 45RPM - Start 2"](https://freesound.org/people/day-garwood/sounds/619302/)
+  by: [day-garwood](https://freesound.org/people/day-garwood/)
+  License: [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Record Scratch #3](https://freesound.org/people/musicvision31/sounds/431778/)
+  by: [musicvision31](https://freesound.org/people/musicvision31/)
+  License: [Creative Commons 0](http://creativecommons.org/publicdomain/zero/1.0/)
+
 Hosting Infrastructure: [Jon Gjengset](https://twitter.com/jonhoo/)
 
 Show Notes: Luuk van der Duim
