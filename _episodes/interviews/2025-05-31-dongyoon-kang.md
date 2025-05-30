@@ -1,13 +1,13 @@
 ---
 title: "SWC with DongYoon Kang"
-date: 2025-05-30T08:36:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-23-dongyoon-kang.mp3
+date: 2025-05-31T08:36:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-31-dongyoon-kang.mp3
 duration: "24:50"
 length: "59634240"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [DongYoon Kang](https://kdy1.dev/), creator of [SWC](https://swc.rs/), a Rust-based platform for creating fast developer tools. It's used in existing projects such as Next.js, Parcel, and Deno.
+Allen Wyma talks with [DongYoon Kang](https://kdy1.dev/) aka kdy, creator of [SWC](https://swc.rs/), a Rust-based platform for creating fast developer tools. It's used in existing projects such as Next.js, Parcel, and Deno.
 
 ## Contributing to Rustacean Station
 
