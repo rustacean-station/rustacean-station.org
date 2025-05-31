@@ -1,6 +1,6 @@
 ---
 title: "SWC with DongYoon Kang"
-date: 2025-05-31T08:36:00Z
+date: 2025-05-31T07:01:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-31-dongyoon-kang.mp3
 duration: "24:50"
 length: "59634240"
