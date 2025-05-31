@@ -2,6 +2,7 @@
 title: "AccessKit with Matt Campbell and Arnold Loubriat"
 date: 2025-05-29T08:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-29-accesskit-with-matt-campbell-and-arnold-loubriat.mp3
+duration: "32:52"
 length: "25041195"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
