@@ -4,7 +4,7 @@ date: 2025-05-24T07:21:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-24-ran-reichman.mp3
 duration: "56:47"
 length: "40874711"
-#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+reddit: https://www.reddit.com/r/rust/comments/1l84pox/rust_at_work_with_ran_reichman_cofounder_and_ceo/
 ---
 
 Gábor Szabó talks with [Ran Reichman](https://www.linkedin.com/in/ran-reichman-740163b7/), Co-Founder and CEO of [Flarion](https://www.flarion.io/), a company building high-performance data processing systems using Rust.
