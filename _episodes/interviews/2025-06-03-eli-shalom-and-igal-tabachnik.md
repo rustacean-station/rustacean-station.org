@@ -1,7 +1,7 @@
 ---
 title: Rust at Work - conversation with Eli Shalom and Igal Tabachnik of Eureka Labs
-date: 2025-06-03T07:21:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-06-03-eli-shalom-and-igal-tabachnik.mp3
+date: 2025-06-14T07:15:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-06-14-eli-shalom-and-igal-tabachnik.mp3
 duration: "1:18:49"
 length: "56739526"
 #reddit:
