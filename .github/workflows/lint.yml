@@ -144,11 +144,6 @@ jobs:
     - name: Grab feed validator
       run: |
         git clone https://github.com/w3c/feedvalidator.git
-    - uses: actions/setup-python@v4
-      with:
-        # https://github.com/w3c/feedvalidator/issues/142
-        python-version: '3.12'
-        cache: 'pip'
     - name: Validate feed
       run: |
         # Fix Ubuntu MIME type for RSS
