@@ -4,7 +4,7 @@ date: 2025-05-29T08:00:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-05-29-accesskit-with-matt-campbell-and-arnold-loubriat.mp3
 duration: "32:52"
 length: "25041195"
-#reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
+reddit: https://www.reddit.com/r/rust/comments/1ld1xe1/podcast_accesskit_with_matt_campbell_and_arnold/
 ---
 
 With [AccessKit](https://accesskit.dev/), [Matt Campbell](https://github.com/mwcampbell) and [Arnold Loubriat](https://github.com/DataTriny) took on the ambitious task of abstracting over
