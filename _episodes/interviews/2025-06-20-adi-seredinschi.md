@@ -20,10 +20,10 @@ Rustacean Station is a community project; get in touch with us if you'd like to 
 
 ## Timestamps
 - [@0:00] - Meet Adi Seredinsky, Director of Product at Informal Systems
-- [@5:23] - From Go to Rust: The Malachite rewrite of Tendermint
+- [@5:23] - From Go to Rust: The Malachite rewrite of [Tendermint](https://tendermint.com/)
 - [@9:26] - Technical challenges of the original Go codebase
 - [@16:56] - Why Rust was chosen for the rewrite
-- [@22:23] - Quint: A developer-friendly language for formal methods
+- [@22:23] - [Quint](https://quint-lang.org/): A developer-friendly language for formal methods
 - [@33:48] - Performance gains from the Rust rewrites
 - [@40:42] - Closing thoughts
 
