@@ -1,6 +1,6 @@
 ---
 title: "Malachite with Adi Seredinschi"
-date: 2025-06-20T07:01:00Z
+date: 2025-06-20T06:53:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-06-20-adi-seredinschi.mp3
 duration: "42:51"
 length: "102855360"
