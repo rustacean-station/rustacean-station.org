@@ -1,6 +1,6 @@
 ---
 title: "Dioxus with Jonathan Kelley"
-date: 2025-06-27T09:37:00Z
+date: 2025-06-28T09:37:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2025-06-28-jonathan-kelley.mp3
 duration: "59:58"
 length: "143907840"
