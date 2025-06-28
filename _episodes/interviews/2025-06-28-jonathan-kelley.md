@@ -1,13 +1,13 @@
 ---
 title: "Dioxus with Jonathan Kelley"
-date: 2025-06-27T06:53:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2025-06-27-jonathan-kelley.mp3
+date: 2025-06-27T09:37:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2025-06-28-jonathan-kelley.mp3
 duration: "59:58"
 length: "143907840"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
 ---
 
-Allen Wyma talks with [Jonathan Kelley](https://jonathan-kelley.com/), creator of [Dioxus](https://dioxuslabs.com/), a framework for building web, mobile, and desktop apps with a single codebase, written in Rust.
+Allen Wyma talks with [Jonathan Kelley](https://jonathan-kelley.com/), creator of [Dioxus](https://dioxuslabs.com/), a framework for building web, mobile, and desktop apps with a single Rust codebase.
 
 ## Contributing to Rustacean Station
 
