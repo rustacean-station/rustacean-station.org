@@ -1,7 +1,7 @@
 ---
 title: "Embedded Software with Rust with David Cabanis"
-date: 2026-11-20T10:00:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2026-11-20-david-cabanis.mp3
+date: 2026-11-22T09:00:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2026-11-22-david-cabanis.mp3
 duration: "68:11"
 length: "163633308"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
