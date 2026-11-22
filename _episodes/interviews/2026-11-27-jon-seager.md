@@ -9,6 +9,8 @@ length: "82074130"
 
 Allen Wyma talks with [Jon Seager](https://jnsgr.uk/), VP of Engineering at Canonical, about the [Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/) effort. They discuss how Canonical evaluates Rust replacements for core utilities, what it learned from the switch to uutils and sudo-rs, and what Ubuntu Core Desktop means for packaging and security.
 
+[Watch the episode on YouTube](https://youtu.be/031Dsvy3tLs).
+
 ## Contributing to Rustacean Station
 
 Rustacean Station is a community project; get in touch with us if you'd like to suggest an idea for an episode or offer your services as a host or audio editor!
