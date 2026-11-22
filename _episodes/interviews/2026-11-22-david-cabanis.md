@@ -1,6 +1,6 @@
 ---
 title: "Embedded Software with Rust with David Cabanis"
-date: 2026-11-22T09:00:00Z
+date: 2026-11-22T08:30:00Z
 file: https://audio.rustacean-station.org/file/rustacean-station/2026-11-22-david-cabanis.mp3
 duration: "68:11"
 length: "163633308"
